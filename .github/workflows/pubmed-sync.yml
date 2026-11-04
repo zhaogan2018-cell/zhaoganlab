@@ -1,0 +1,30 @@
+name: Update PubMed bibliography
+on:
+  schedule:
+    - cron: '23 2 * * 1' # Every Monday 02:23 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out website
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Sync verified metadata and build review queue
+        env:
+          NCBI_CONTACT_EMAIL: zhaogan@xmu.edu.cn
+        run: python scripts/sync_pubmed.py
+      - name: Commit changed content
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add content/publications.json content/pubmed_candidates.json content/pubmed_status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh PubMed metadata and review queue'
+            git push
+          fi
