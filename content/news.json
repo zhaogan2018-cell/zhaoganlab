@@ -13,7 +13,8 @@
       "assets/photos/activity-3.jpg",
       "assets/photos/activity-4.jpg",
       "assets/photos/activity-5.jpg"
-    ]
+    ],
+    "category_en": "Team activities"
   },
   {
     "date": "2025-03",
@@ -21,6 +22,7 @@
     "title": "Gan Zhao Lab established",
     "title_zh": "赵干课题组成立",
     "summary": "Gan Zhao Lab was established at the School of Medicine, Xiamen University in March 2025.",
-    "summary_zh": "2025年3月，赵干课题组在厦门大学医学院成立，聚焦肺损伤修复的细胞与分子基础研究。"
+    "summary_zh": "2025年3月，赵干课题组在厦门大学医学院成立，聚焦肺损伤修复的细胞与分子基础研究。",
+    "category_en": "Academic news"
   }
 ]
