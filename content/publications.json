@@ -10,8 +10,9 @@
     "doi": "10.1126/scitranslmed.adg6229",
     "topic": "vascular",
     "kind": "featured",
-    "figure": "assets/img/feature-01.svg",
-    "note": ""
+    "figure": "assets/photos/paper-pub-01.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12067352/"
   },
   {
     "id": "pub-02",
@@ -24,8 +25,9 @@
     "doi": "10.1126/sciadv.abc4493",
     "topic": "vascular",
     "kind": "featured",
-    "figure": "assets/img/feature-02.svg",
-    "note": ""
+    "figure": "assets/photos/paper-pub-02.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7688336/"
   },
   {
     "id": "pub-03",
@@ -38,8 +40,9 @@
     "doi": "10.1038/s41467-024-48589-3",
     "topic": "immune",
     "kind": "featured",
-    "figure": "assets/img/feature-03.svg",
-    "note": ""
+    "figure": "assets/photos/paper-pub-03.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11102455/"
   },
   {
     "id": "pub-04",
@@ -52,8 +55,9 @@
     "doi": "10.1073/pnas.2314747121",
     "topic": "delivery",
     "kind": "featured",
-    "figure": "assets/img/feature-04.svg",
-    "note": ""
+    "figure": "assets/photos/paper-pub-04.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10873611/"
   },
   {
     "id": "pub-05",
@@ -66,8 +70,9 @@
     "doi": "10.1038/s41565-024-01747-6",
     "topic": "delivery",
     "kind": "featured",
-    "figure": "assets/img/feature-05.svg",
-    "note": ""
+    "figure": "assets/photos/paper-pub-05.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12207990/"
   },
   {
     "id": "pub-06",
@@ -80,8 +85,9 @@
     "doi": "10.1126/science.ado5561",
     "topic": "regeneration",
     "kind": "collaborative",
-    "figure": "",
-    "note": ""
+    "figure": "assets/photos/paper-pub-06.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13159043/"
   },
   {
     "id": "pub-07",
@@ -94,8 +100,9 @@
     "doi": "10.1038/s44161-024-00573-2",
     "topic": "vascular",
     "kind": "collaborative",
-    "figure": "",
-    "note": ""
+    "figure": "assets/photos/paper-pub-07.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12035778/"
   },
   {
     "id": "pub-08",
@@ -104,12 +111,13 @@
     "authors": "Weiner AI, Zhao G, Zayas HM, Holcomb NP, Adams-Tzivelekidis S, Wong J, Gentile ME, Reddy D, Wei J, Palashikar G, Quansah KK, Vaughan AE*",
     "journal": "Cell Rep",
     "citation": "2022 Dec 13;41(11):111805",
-    "pmid": "",
+    "pmid": "36516758",
     "doi": "",
     "topic": "regeneration",
     "kind": "collaborative",
-    "figure": "",
-    "note": ""
+    "figure": "assets/photos/paper-pub-08.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9808897/"
   },
   {
     "id": "pub-09",
@@ -122,8 +130,9 @@
     "doi": "10.1016/j.stem.2024.12.002",
     "topic": "regeneration",
     "kind": "collaborative",
-    "figure": "",
-    "note": ""
+    "figure": "assets/photos/paper-pub-09.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11805657/"
   },
   {
     "id": "pub-10",
@@ -136,8 +145,9 @@
     "doi": "",
     "topic": "delivery",
     "kind": "collaborative",
-    "figure": "",
-    "note": ""
+    "figure": "assets/photos/paper-pub-10.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10904786/"
   },
   {
     "id": "pub-11",
@@ -146,12 +156,13 @@
     "authors": "Xue L, Xiong X, Zhao G, Molina-Arocho W, Palanki R, Xiao Z, Han X, Yoon IC, Figueroa-Espada CG, Xu J, Gong N, Shi Q, Chen Q, Alameh MG, Vaughan AE, Haldar M, Wang K, Weissman D, Mitchell MJ*",
     "journal": "J Am Chem Soc",
     "citation": "2025 Jan 15;147(2):1542–1552",
-    "pmid": "",
+    "pmid": "39742515",
     "doi": "",
     "topic": "delivery",
     "kind": "collaborative",
-    "figure": "",
-    "note": ""
+    "figure": "assets/photos/paper-pub-11.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12190489/"
   },
   {
     "id": "pub-12",
@@ -164,8 +175,9 @@
     "doi": "10.1038/s41536-019-0080-9",
     "topic": "regeneration",
     "kind": "collaborative",
-    "figure": "",
-    "note": ""
+    "figure": "assets/photos/paper-pub-12.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6702233/"
   },
   {
     "id": "pub-13",
@@ -174,12 +186,13 @@
     "authors": "Kass-Gergi S, Zhao G, Wong J, Weiner AI, Adams Tzivelekidis S, Gentile ME, Mendoza M, Holcomb NP, Li X, Singh M, Huang Y, Klochkova A, Vaughan AE*",
     "journal": "Am J Physiol Lung Cell Mol Physiol",
     "citation": "2024 Dec 1;327(6):L839–L851",
-    "pmid": "",
+    "pmid": "39320093",
     "doi": "",
     "topic": "immune",
     "kind": "collaborative",
-    "figure": "",
-    "note": ""
+    "figure": "assets/photos/paper-pub-13.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11684958/"
   },
   {
     "id": "pub-14",
@@ -188,12 +201,13 @@
     "authors": "Rane CK, Jackson SR, Pastore CF, Zhao G, Weiner AI, Patel NN, Herbert DR*, Cohen NA*, Vaughan AE*",
     "journal": "Am J Physiol Lung Cell Mol Physiol",
     "citation": "2019 Jun 1;316(6):L1141–L1149",
-    "pmid": "",
+    "pmid": "30908939",
     "doi": "",
     "topic": "regeneration",
     "kind": "collaborative",
-    "figure": "",
-    "note": ""
+    "figure": "assets/photos/paper-pub-14.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6620670/"
   },
   {
     "id": "pub-15",
@@ -202,12 +216,13 @@
     "authors": "Sierra I, Pyfrom S, Weiner A, Zhao G, Driscoll A, Yu X, Gregory BD, Vaughan AE, Anguera MC",
     "journal": "Stem Cell Reports",
     "citation": "2023 Feb 14;18(2):489–502",
-    "pmid": "",
+    "pmid": "36638790",
     "doi": "",
     "topic": "regeneration",
     "kind": "collaborative",
-    "figure": "",
-    "note": ""
+    "figure": "assets/photos/paper-pub-15.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9968984/"
   },
   {
     "id": "pub-16",
@@ -216,12 +231,14 @@
     "authors": "Xue L#, Gong N#, Shepherd SJ, Xiong X, Liao X, Han X, Zhao G, Song C, Huang X, Zhang H, Padilla MS, Qin J, Shi Y, Alameh MG, Pochan DJ, Wang K, Long F, Weissman D, Mitchell MJ*",
     "journal": "J Am Chem Soc",
     "citation": "2022 Jun 8;144(22):9926–9937",
-    "pmid": "",
-    "doi": "",
+    "pmid": "35616998",
+    "doi": "10.1021/jacs.2c02706",
     "topic": "delivery",
     "kind": "collaborative",
-    "figure": "",
-    "note": ""
+    "figure": "assets/photos/paper-pub-16.jpg",
+    "note": "",
+    "figure_source": "https://mitchell-lab.seas.upenn.edu/wp-content/uploads/2022/05/jacs.2c02706.pdf#page=2",
+    "figure_panel": "Figure 1b"
   },
   {
     "id": "pub-17",
@@ -230,12 +247,13 @@
     "authors": "Han X, Alameh MG, Gong N, Xue L, Ghattas M, Bojja G, Xu J, Zhao G, Warzecha CC, Padilla MS, El-Mayta R, Dwivedi G, Xu Y, Vaughan AE, Wilson JM, Weissman D*, Mitchell MJ*",
     "journal": "Nat Chem",
     "citation": "2024 Oct;16(10):1687–1697",
-    "pmid": "",
+    "pmid": "38982196",
     "doi": "",
     "topic": "delivery",
     "kind": "collaborative",
-    "figure": "",
-    "note": ""
+    "figure": "assets/photos/paper-pub-17.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11446653/"
   },
   {
     "id": "pub-18",
@@ -244,12 +262,13 @@
     "authors": "Han X#, Xu J#, Xu Y, Alameh MG, Xue L, Gong N, El-Mayta R, Palanki R, Warzecha CC, Zhao G, Vaughan AE, Wilson JM, Weissman D, Mitchell MJ*",
     "journal": "Nat Commun",
     "citation": "2024 Feb 26;15(1):1762",
-    "pmid": "",
+    "pmid": "38409275",
     "doi": "",
     "topic": "delivery",
     "kind": "collaborative",
-    "figure": "",
-    "note": ""
+    "figure": "assets/photos/paper-pub-18.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10897129/"
   },
   {
     "id": "pub-19",
@@ -258,11 +277,12 @@
     "authors": "Shiraishi K, Morley MP, Jones DL, Zhao G, Weiner AI, Basil MC, Cantu E, Ferguson LT, Oyster M, Babu A, Ying Y, Zhou S, Li S, Vaughan AE, Morrisey EE*",
     "journal": "NPJ Regen Med",
     "citation": "2024 Jan 5;9(1):2",
-    "pmid": "",
+    "pmid": "38182591",
     "doi": "",
     "topic": "regeneration",
     "kind": "collaborative",
-    "figure": "",
-    "note": ""
+    "figure": "assets/photos/paper-pub-19.jpg",
+    "note": "",
+    "figure_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10770358/"
   }
 ]
