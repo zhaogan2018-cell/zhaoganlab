@@ -47,3 +47,15 @@ GitHub 上找到这次合并的 Pull Request，使用 Revert 创建回退 PR 并
 本次更新：news.json 支持 images 图片路径数组，照片按数组顺序组成相册，点击可查看原图。研究方向以未来方向为主，前期基础引用在 research.html 中维护。全部论文配图以 figure/figure_source 维护。
 
 首页方向卡片现为白色关键词，完整说明在 research.html；关键词修改 index.html 中 research-tile 的 data-zh/data-en。导航logo使用 assets/photos/lab-logo.jpg（用户新增Lablogo1.jpg），CSS负责留白裁切；头像宽度在style.css末尾统一控制。
+
+## 手机与电脑版本一致（20261105-grid2）
+1. 本地 localhost:8000 只是当前电脑的预览。线上 www.zhaoganlab.cn 必须将完整包复制到仓库、提交并推送，合并到 Pages 所用分支，才会更新；手机 localhost 指向手机自身。
+2. 本版 CSS/JS 使用带内容哈希的文件名；不要只复制 HTML，务必完整覆盖 assets、content 及所有页面。
+3. 查看 GitHub Actions 的 Pages 部署是否成功，再在电脑和手机打开同一个 https://www.zhaoganlab.cn/ 地址。电脑 Ctrl+Shift+R；手机关闭原标签后重新打开。
+4. 如仍旧版，打开 https://www.zhaoganlab.cn/version.json 应显示 20261105-grid2；如果文件不存在或版本不对，说明此次文件尚未成功发布。若该版本文件正确而页面旧，检查浏览器或域名CDN缓存。
+5. 以后修改 assets/css/style.css 或 assets/js/site.js 后，在网站根目录运行 node scripts/version-assets.cjs，再一起提交生成的版本文件与HTML。仅更新JSON无需执行此步骤。
+6. 当前布局：电脑通常三列，平板两列，手机两列；年份和身份分组标题横跨整行。PI长简介单独展示。论文作者点击展开，完整标题点击进入原文。
+
+## 双语维护（20261105-bilingual3）
+成员英文姓名写入name，中文写入name_zh；英文简介bio与中文bio_zh独立维护。PI人才项目表述仅保留在中文中。新闻category_en维护英文分类，category维护中文分类与筛选值。静态说明使用data-en/data-zh；图片描述使用data-alt-en/data-alt-zh。英文模式语言切换按钮使用ZH，logo仅展示英文标识。
+七个页面已检查英文可见文字、图片alt和aria-label，无中文残留。

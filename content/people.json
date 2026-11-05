@@ -1,18 +1,18 @@
 [
   {
-    "name": "赵干",
+    "name": "Gan Zhao",
     "name_zh": "赵干",
     "role": "PI",
-    "role_zh": "Principal Investigator",
+    "role_zh": "课题组负责人",
     "group": 0,
     "year": "",
     "image": "assets/photos/person-0.jpg",
-    "bio": "Dr. Gan Zhao completed his PhD through joint training at Huazhong Agricultural University and the Andrew Vaughan laboratory at the University of Pennsylvania, followed by postdoctoral training in the Andrew Vaughan and Edward Morrisey laboratories. Selected for a national overseas high-level talent program, he joined the School of Medicine at Xiamen University in March 2025 and established his laboratory to study the cellular and molecular basis of lung injury and repair.",
-    "bio_zh": "赵干博士在华中农业大学与宾夕法尼亚大学 Andrew Vaughan 团队联合培养完成博士学位，随后先后在 Andrew Vaughan 和 Edward Morrisey 团队完成博士后训练，入选国家海外高层次人才项目。2025年3月加入厦门大学医学院并成立课题组，聚焦肺损伤修复的细胞与分子基础研究。",
+    "bio": "Dr. Gan Zhao completed his PhD through joint training at Huazhong Agricultural University and the Andrew Vaughan laboratory at the University of Pennsylvania, followed by postdoctoral training in the Andrew Vaughan and Edward Morrisey laboratories. In March 2025, he joined the School of Medicine at Xiamen University and established his laboratory to investigate the cellular and molecular basis of lung injury and repair.",
+    "bio_zh": "赵干博士在华中农业大学与宾夕法尼亚大学 Andrew Vaughan 团队联合培养完成博士学位，随后先后在 Andrew Vaughan 和 Edward Morrisey 团队完成博士后训练，入选海外高层次青年人才项目。2025年3月加入厦门大学医学院并成立课题组，聚焦肺损伤修复的细胞与分子基础研究。",
     "email": "zhaogan@xmu.edu.cn"
   },
   {
-    "name": "罗碧蓉",
+    "name": "Birong Luo",
     "name_zh": "罗碧蓉",
     "role": "Lab Manager",
     "role_zh": "实验室助理",
@@ -24,7 +24,7 @@
     "email": ""
   },
   {
-    "name": "叶兰",
+    "name": "Lan Ye",
     "name_zh": "叶兰",
     "role": "Postdoc",
     "role_zh": "博士后",
@@ -36,7 +36,7 @@
     "email": ""
   },
   {
-    "name": "宋时旭",
+    "name": "Shixu Song",
     "name_zh": "宋时旭",
     "role": "PhD Students",
     "role_zh": "博士研究生",
@@ -48,7 +48,7 @@
     "email": ""
   },
   {
-    "name": "张强",
+    "name": "Qiang Zhang",
     "name_zh": "张强",
     "role": "PhD Students",
     "role_zh": "博士研究生",
@@ -60,7 +60,7 @@
     "email": ""
   },
   {
-    "name": "刘璋禹",
+    "name": "Zhangyu Liu",
     "name_zh": "刘璋禹",
     "role": "PhD Students",
     "role_zh": "博士研究生",
@@ -72,7 +72,7 @@
     "email": ""
   },
   {
-    "name": "王壮",
+    "name": "Zhuang Wang",
     "name_zh": "王壮",
     "role": "PhD Students",
     "role_zh": "博士研究生",
@@ -84,7 +84,7 @@
     "email": ""
   },
   {
-    "name": "王昕怡",
+    "name": "Xinyi Wang",
     "name_zh": "王昕怡",
     "role": "Master Students",
     "role_zh": "硕士研究生",
@@ -96,7 +96,7 @@
     "email": ""
   },
   {
-    "name": "余亚茹",
+    "name": "Yaru Yu",
     "name_zh": "余亚茹",
     "role": "Master Students",
     "role_zh": "硕士研究生",
@@ -108,7 +108,7 @@
     "email": ""
   },
   {
-    "name": "许晰",
+    "name": "Xi Xu",
     "name_zh": "许晰",
     "role": "Master Students",
     "role_zh": "硕士研究生",
