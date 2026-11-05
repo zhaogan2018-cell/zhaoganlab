@@ -1,107 +1,49 @@
-# Gan Zhao Lab — Official website
+# 网站更新教程
 
-Bilingual, multi-page, static website for **www.zhaoganlab.cn**. Runs on **GitHub Pages**, no server required. Built with HTML/CSS/vanilla JS; each section is independent.
+## 第一次替换网站
+1. 打开 GitHub Desktop，File → Clone repository，选择 zhaogan2018-cell/zhaoganlab。
+2. 点击 Fetch origin，确保本地同步。Branch → New branch，创建 website-content-update。
+3. Repository → Show in Explorer 打开仓库。另行备份旧文件。
+4. 将“网站更新完整包”内所有文件和文件夹复制到仓库根目录，选择替换。不要把整个外层文件夹放进去。包含隐藏目录 .github 和 .nojekyll；保留 CNAME。
+5. 在 GitHub Desktop 检查 Changes，填写说明，Commit，再 Publish branch。
+6. Create Pull Request，在 GitHub 查看修改，确认后 Merge。等待仓库 Actions 的 Pages 部署完成。
+7. 打开 https://www.zhaoganlab.cn，Ctrl+Shift+R 强制刷新，逐页检查手机和电脑显示。
 
-## 1. Files and maintenance
+## 本地预览
+双击“启动预览.cmd”，保持窗口打开，然后浏览器访问 http://localhost:8000。需要已安装 Node.js。不要直接双击 HTML：成员、新闻与论文由 JSON 加载，须通过本地 HTTP 服务。
 
-| Page/section | Where to edit |
-| --- | --- |
-| Homepage | `index.html` |
-| Research | `research.html` |
-| Publications | **`content/publications.json`** (no HTML editing needed) |
-| People | **`content/people.json`** and photos under `assets/img/` |
-| News | **`content/news.json`** |
-| Join Us | `join.html` |
-| Contact | `contact.html` |
-| Shared navigation/footer, language toggle, publication filters | `assets/js/site.js` |
-| Colors, spacing, typography, responsive design | `assets/css/style.css` |
-| Automatic PubMed search | `scripts/sync_pubmed.py` + `.github/workflows/pubmed-sync.yml` |
+## 更新成员
+1. 照片放入 assets/photos，使用英文文件名与 jpg/png 格式。
+2. 打开 content/people.json，复制一个成员对象。
+3. 修改 name/name_zh、role/role_zh、image、year。group 为 0=PI、1=实验室管理、2=博士后、3=博士生、4=硕士生。
+4. 同组按 year 升序排列；同年按文件内顺序。博士后入组时间尚无素材依据，补入真实年份后即可自动排序。
+5. 毕业成员从 people.json 移除，在 alumni.json 中添加 {"name":"姓名","destination":"毕业年份 · 去向"}。
+6. JSON 的对象之间加逗号，最后一个对象后不加逗号。
 
-Each page loads shared `assets/css/style.css` + `assets/js/site.js`. Upload all files and folders to the **root** of your current `zhaoganlab` repo (not into another nested folder). Preserve `CNAME` exactly as `www.zhaoganlab.cn`.
+## 更新新闻
+1. 编辑 content/news.json，复制已有对象，填写 date（YYYY 或 YYYY-MM-DD）、category、title/title_zh、summary/summary_zh、image。
+2. category 使用 学术动态 / 研究进展 / 团队活动。仅有年份的活动不要虚构具体日期。
+3. 照片放 assets/photos。按日期倒序显示。可用 url 添加原始报道链接。
 
-## 2. GitHub Desktop, safely
+## 更新研究成果
+1. 编辑 content/publications.json，复制条目，填写唯一 id、year、title、authors、journal、citation、pmid、doi。
+2. kind=featured 表示一作/通讯，collaborative 表示合作。确认共同贡献和通讯符号。
+3. figure 指向论文原图文件；figure_source 记录原文页面。可替换为自己选取且有使用权限的原文小图；科研图用 contain 展示，避免裁切坐标或图例。
+4. 自动下载图选取原文首幅可用图，未作科学内容改绘；如需特定 panel，请替换为保留标尺、标注的高分辨率裁图。
 
-1. GitHub Desktop → **File → Clone repository** → `zhaogan2018-cell/zhaoganlab`.
-2. **Branch → New branch** named `website-v2`. In GitHub Desktop use **Repository → Show in Explorer**.
-3. Copy the *contents of this ZIP* to the cloned repository folder. Replace the old `index.html` and README. Ensure hidden `.github` folder is included; on Windows Explorer `View → Show → Hidden items` if needed.
-4. Review changes → **Commit to website-v2** → **Publish branch**.
-5. GitHub → compare & pull request → merge `website-v2` into `main` when satisfied. Existing GitHub Pages continues serving `main`, and after merge deploys the updated site.
-6. Confirm at https://www.zhaoganlab.cn/ and https://www.zhaoganlab.cn/publications.html.
+## 修改方向、环境、合作团队、联系
+研究方向：research.html；主页：index.html；环境与合作：join.html；联系：contact.html。页面中文与英文分别位于 data-zh/data-en 属性，修改时两种都更新。页眉背景在 assets/photos/header-*.jpg；通用样式在 assets/css/style.css。字体沿用旧版。
 
-To preview locally (because browsers restrict `fetch()` from `file://`): from the website folder run `python -m http.server 8000` and open `http://localhost:8000/`. Or use VS Code Live Server.
+## 自动化与 AI 协助
+原有 .github/workflows/pubmed-sync.yml 与 scripts/sync_pubmed.py 已保留：按计划检索 PubMed，候选论文进入 content/pubmed_candidates.json。先核对身份和作者贡献，再移入 publications.json。不要将同名作者检索结果自动发布。
+每次更新可把新素材交给 Codex，说明：“按更新教程维护此仓库；核实事实和论文图片来源，更新 JSON，运行检查，生成供我审核的分支。”不需要网站 API 密钥。当前未配置付费 AI 服务，也未启动无人值守发布。
 
-## 3. Publications
+## 回退
+GitHub 上找到这次合并的 Pull Request，使用 Revert 创建回退 PR 并合并；或者在 GitHub Desktop 恢复备份后重新提交。不要删除 CNAME 或改动域名设置。
 
-There are 19 curated papers organized by **publication year, descending**. Five lead/co-first/corresponding author papers have unique original SVG thematic illustrations. These graphics are **not original figures from the articles**; replace images with your own permitted figures for authentic article images. Each article's title opens PubMed. When an exact PMID has been verified it links directly; other papers initially use a PubMed **exact-title search** URL until their PMID is resolved.
+## 本次素材与待补信息
+成员身份、年份按用户提供照片文件名；同年先后顺序未提供。实验室助理按用户指定管理岗位顺序展示，具体职称仍写“实验室助理”。未补写仪器型号、未提供的学术活动、研究进展和毕业去向。合作关系按用户说明录入。联系页面正文保留原版，仅使用指定背景。
 
-`content/publications.json` has 19 records and fields `year`, `title`, `authors`, `journal`, `citation`, `pmid`, `doi`, `topic`, `kind`, `figure`.
+本次更新：news.json 支持 images 图片路径数组，照片按数组顺序组成相册，点击可查看原图。研究方向以未来方向为主，前期基础引用在 research.html 中维护。全部论文配图以 figure/figure_source 维护。
 
-- `kind: "featured"`: lead/co-first/corresponding-author representative papers.
-- `kind: "collaborative"`: other coauthored work.
-- `figure`: a path like `assets/img/feature-01.svg`.
-- Keep `#` (equal contribution) and `*` (corresponding author) only after checking the journal record. User-provided contribution annotations are included as provided.
-- To add a paper, copy an existing JSON object, give it a unique `id`, and set the `year`. It will sort automatically.
-- Use a JSON validator when editing, especially commas and double quotes.
-
-## 4. Automatic PubMed sync — important distinctions
-
-The GitHub Actions workflow `Update PubMed bibliography` runs each Monday and can also be run manually from **Actions → Update PubMed bibliography → Run workflow**. If the Actions tab asks to enable workflows, enable it. This workflow requests **read/write repository contents** permission. If blocked by repository policy, go to **Settings → Actions → General → Workflow permissions → Read and write permissions**, or use PR-based updates instead.
-
-The script uses official NCBI E-utilities (ESearch and EFetch). It:
-
-1. Looks up the **exact titles** of curated papers with missing PMIDs; it fills a PMID only when the normalized PubMed title matches and the author list contains Zhao.
-2. For verified PMID/title pairs, fills any missing DOI, keeping the curated authorship and contribution markers unchanged.
-3. Searches for potentially related publications under `Zhao G`/`Zhao Gan` and lung-related terms, and writes unmatched results to **`content/pubmed_candidates.json`** for your review. **These candidates do not appear on the public site.**
-4. Writes the last update time to `content/pubmed_status.json`.
-
-**To approve a new paper:** open `content/pubmed_candidates.json`, check the title, authors and PMID on PubMed (and verify it is really your work), then **manually add a record** to `content/publications.json` with its authors, year and contribution type. Do NOT automatically publish all results from `Zhao G` because this is ambiguous. No API key is required at the script's low request rate. The script uses a contact email and respects the NCBI no-key limit (3 requests/sec).
-
-The script does not infer first or corresponding authorship from PubMed (such roles can be ambiguous). It does not update the displayed year, user-verified citation text or author-contribution annotations automatically.
-
-## 5. People
-
-Edit `content/people.json`. Each person should have:
-
-```json
-{
-  "name": "Example Researcher",
-  "name_zh": "示例成员",
-  "role": "Graduate Student",
-  "role_zh": "研究生",
-  "bio": "Research interests...",
-  "bio_zh": "研究方向……",
-  "image": "assets/img/example.jpg",
-  "email": ""
-}
-```
-
-Add their photo file to `assets/img/`. Until confirmed, the website includes only Gan Zhao's public academic profile and a placeholder for colleagues. Do not publish private contact information or photos without permission.
-
-## 6. News
-
-Edit `content/news.json`, initially `[]`. Example object:
-
-```json
-{
-  "date": "2026-11-04",
-  "title": "A new publication",
-  "title_zh": "新论文发表",
-  "summary": "A brief English update.",
-  "summary_zh": "简短中文消息。",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/38295183/"
-}
-```
-
-No news has been invented; add items when confirmed.
-
-## 7. Colors and fonts
-
-XMU-inspired **royal blue**, teal and warm orange, plus clean white. Modern academic typography uses `Manrope`, `DM Sans`, and `Noto Sans SC` (fallback system sans-serif). Fonts are loaded from Google Fonts and will fall back locally if unavailable; no proprietary font files are distributed.
-
-## 8. Troubleshooting
-
-- If old content persists, hard-refresh Ctrl+Shift+R and check GitHub **Actions** for Pages deployment status. Cloudflare caching can also delay updates.
-- If publications/people/news are empty when opening `index.html` locally as a file, preview with HTTP (`python -m http.server 8000`).
-- `CNAME` must stay in the repository root; otherwise custom domain linkage may break.
-- Featured SVG images are *original conceptual graphics*, not journal figures.
-- This is a static site. For an editor UI later, add a Git-backed CMS, but it is not necessary for easy JSON updates.
+首页方向卡片现为白色关键词，完整说明在 research.html；关键词修改 index.html 中 research-tile 的 data-zh/data-en。导航logo使用 assets/photos/lab-logo.jpg（用户新增Lablogo1.jpg），CSS负责留白裁切；头像宽度在style.css末尾统一控制。
