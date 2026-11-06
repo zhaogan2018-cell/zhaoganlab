@@ -52,3 +52,5 @@ nav.main-nav a{font-size:1rem}nav.main-nav{gap:18px}.page-hero{background-size:c
 .author-details{font-size:.8rem;color:var(--muted);margin:10px 0}.author-details summary{cursor:pointer;color:var(--blue)}.publication-grid .paper-title{display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}.publication-grid .journal{margin-top:10px}.publication-grid .pub-feature{height:100%}
 
 body[data-lang="en"] .brand-logo{height:60px}body[data-lang="en"] .brand-logo img{top:-36px}@media(max-width:430px){body[data-lang="en"] .brand-logo{height:56px}body[data-lang="en"] .brand-logo img{top:-34px}}
+
+.lab-heading{white-space:pre-wrap}.contact-location{padding-top:0}.location-guide{margin:0 0 24px}.location-guide img{display:block;width:100%;height:auto;border-radius:16px}.location-guide figcaption{margin-top:12px;color:var(--muted);font-size:.9rem}.map-en{display:none}body[data-lang="en"] .map-en{display:inline-flex}body[data-lang="en"] .map-zh{display:none}
