@@ -1,0 +1,26 @@
+{
+  "month": "2026-11",
+  "checked_at": "2026-11-06T21:35:04.018315+08:00",
+  "query": "(\"Cell\"[Journal] OR \"Nature\"[Journal] OR \"Science\"[Journal] OR \"Nat Cell Biol\"[Journal] OR \"Nat Commun\"[Journal] OR \"Sci Adv\"[Journal] OR \"Sci Transl Med\"[Journal] OR \"Sci Immunol\"[Journal] OR \"Immunity\"[Journal] OR \"Nat Immunol\"[Journal] OR \"Nat Med\"[Journal] OR \"Cell Stem Cell\"[Journal] OR \"Dev Cell\"[Journal] OR \"Cell Metab\"[Journal] OR \"Cell Rep\"[Journal] OR \"J Clin Invest\"[Journal] OR \"JCI Insight\"[Journal] OR \"J Exp Med\"[Journal] OR \"Circulation\"[Journal] OR \"Circ Res\"[Journal]) AND (lung[Title/Abstract] OR pulmonary[Title/Abstract] OR alveolar[Title/Abstract]) AND (injur*[Title/Abstract] OR repair[Title/Abstract] OR fibros*[Title/Abstract] OR develop*[Title/Abstract] OR regenerat*[Title/Abstract] OR pneumonia[Title/Abstract] OR infection[Title/Abstract] OR epithel*[Title/Abstract] OR endothel*[Title/Abstract] OR vascular[Title/Abstract]) NOT (neoplasms[MeSH Terms] OR cancer[Title] OR tumor[Title] OR tumour[Title] OR carcinoma[Title] OR metastas*[Title]) AND (\"2026/11/01\"[Date - Publication] : \"2026/11/06\"[Date - Publication])",
+  "pending_count": 0,
+  "items": [
+    {
+      "pmid": "42986692",
+      "title": "Alveolar Type II Cell-derived MMP1high basal cells promote destructive microcysts in idiopathic pulmonary fibrosis.",
+      "journal": "JCI insight",
+      "date": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42986692/",
+      "summary_zh": "研究利用原代细胞类器官和空间转录组，追踪特发性肺纤维化中异常基底细胞与肺泡微囊的形成。结果提示，肺泡Ⅱ型细胞等来源的MMP1高表达基底细胞可降解胶原，并在移植模型中形成微囊样结构；抑制MMP1可阻断这些表型。FZD5相关WNT激动干预可逆转其MMP1高表达状态，为异常上皮转分化提供了潜在干预线索。",
+      "summary_en": "Organoid and spatial analyses connect abnormal basal-cell conversion to destructive alveolar microcysts in pulmonary fibrosis. Basal cells arising from AT2 and respiratory bronchiolar populations produce MMP1, digest collagen and generate cyst-like structures in transplantation experiments; blocking MMP1 interrupts these effects. A FZD5-directed WNT agonist reverses the high-MMP1 state, suggesting a possible way to intervene in maladaptive epithelial conversion."
+    },
+    {
+      "pmid": "42970435",
+      "title": "Exposure to immune stimuli augments alveolar macrophages to acquire neutrophil antimicrobial molecules to prevent bacterial pneumonia.",
+      "journal": "Cell reports",
+      "date": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970435/",
+      "summary_zh": "研究发现，预先接受低剂量免疫刺激或感染可增强模型对后续耐甲氧西林金黄色葡萄球菌肺炎的抵抗力。肺泡巨噬细胞通过自我更新扩增，并摄取中性粒细胞释放的抗菌酶，帮助清除病原体、减轻组织损伤和恢复肺稳态。相关功能涉及MerTK和Bcl-xL调控，提示巨噬细胞利用其他免疫细胞的抗菌分子参与先天免疫适应。",
+      "summary_en": "Prior low-dose immune stimulation or infection improves protection against a later lethal MRSA challenge in experimental models. Expanding alveolar macrophages collect extracellular antimicrobial enzymes released by neutrophils, supporting bacterial clearance while limiting damage and restoring lung homeostasis. Changes involving MerTK and Bcl-xL help define this adaptive macrophage program."
+    }
+  ]
+}
