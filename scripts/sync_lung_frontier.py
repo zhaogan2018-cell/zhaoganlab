@@ -18,7 +18,7 @@ def api(kind,**args):
 def main():
     now=datetime.now(timezone(timedelta(hours=8)))
     month=os.environ.get('FRONTIER_MONTH',now.strftime('%Y-%m'))
-    y,m=map(int,month.split('-')); start=f'{y}/{m:02}/01';end=f'{y}/{m:02}/{calendar.monthrange(y,m)[1]}'
+    y,m=map(int,month.split('-')); serial=y*12+m-1-2; sy,sm=divmod(serial,12); start=f'{sy}/{sm+1:02}/01';start_month=f'{sy}-{sm+1:02}';end=f'{y}/{m:02}/{calendar.monthrange(y,m)[1]}'
     if month==now.strftime('%Y-%m'):end=now.strftime('%Y/%m/%d')
     q='('+' OR '.join('"'+j+'"[Journal]' for j in JOURNALS)+') AND (lung[Title/Abstract] OR pulmonary[Title/Abstract] OR alveolar[Title/Abstract]) AND (injur*[Title/Abstract] OR repair[Title/Abstract] OR fibros*[Title/Abstract] OR develop*[Title/Abstract] OR regenerat*[Title/Abstract] OR pneumonia[Title/Abstract] OR infection[Title/Abstract] OR epithel*[Title/Abstract] OR endothel*[Title/Abstract] OR vascular[Title/Abstract]) NOT (neoplasms[MeSH Terms] OR cancer[Title] OR tumor[Title] OR tumour[Title] OR carcinoma[Title] OR metastas*[Title]) AND ("'+start+'"[Date - Publication] : "'+end+'"[Date - Publication])'
     data=json.loads(api('esearch',db='pubmed',term=q,retmode='json',retmax=10000,sort='pub date'))['esearchresult'];ids=data['idlist']
@@ -35,7 +35,7 @@ def main():
             if date is None:date=ar.find('Journal/JournalIssue/PubDate')
             date_text='-'.join(txt(date.find(x)) for x in ['Year','Month','Day']) if date is not None else ''
             # Prefer electronic publication date over the later print issue.
-            if date_text[:7] != month or date_text[:10] > now.strftime('%Y-%m-%d'):continue
+            if not (start_month <= date_text[:7] <= month) or date_text[:10] > now.strftime('%Y-%m-%d'):continue
             items.append(dict(pmid=pmid,title=title,journal=txt(ar.find('Journal/Title')),date=date_text,abstract=abstract,url='https://pubmed.ncbi.nlm.nih.gov/'+pmid+'/'))
     dest=ROOT/'content/lung-frontier-candidates.json';dest.write_text(json.dumps(dict(month=month,checked_at=now.isoformat(),query=q,search_count=int(data['count']),items=items),ensure_ascii=False,indent=2),encoding='utf-8')
     cache_path=ROOT/'content/lung-frontier-summaries.json';cache=json.loads(cache_path.read_text(encoding='utf-8')) if cache_path.exists() else {}
@@ -44,7 +44,7 @@ def main():
         summary=cache.get(item['pmid'])
         if summary and summary.get('include'):
             published.append({k:v for k,v in item.items() if k!='abstract'}|{'summary_zh':summary['zh'],'summary_en':summary['en']})
-    output=dict(month=month,checked_at=now.isoformat(),query=q,pending_count=sum(i['pmid'] not in cache for i in items),items=published)
+    output=dict(start_month=start_month,month=month,checked_at=now.isoformat(),query=q,pending_count=sum(i['pmid'] not in cache for i in items),items=published)
     (ROOT/'content/lung-frontier.json').write_text(json.dumps(output,ensure_ascii=False,indent=2),encoding='utf-8')
     print('Month:',month,'search hits:',data['count'],'candidates:',len(items),'published:',len(published),'pending:',output['pending_count'])
 if __name__=='__main__':main()

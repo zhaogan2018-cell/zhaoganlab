@@ -1,8 +1,9 @@
 {
+  "start_month": "2026-09",
   "month": "2026-11",
-  "checked_at": "2026-11-06T21:35:04.018315+08:00",
-  "query": "(\"Cell\"[Journal] OR \"Nature\"[Journal] OR \"Science\"[Journal] OR \"Nat Cell Biol\"[Journal] OR \"Nat Commun\"[Journal] OR \"Sci Adv\"[Journal] OR \"Sci Transl Med\"[Journal] OR \"Sci Immunol\"[Journal] OR \"Immunity\"[Journal] OR \"Nat Immunol\"[Journal] OR \"Nat Med\"[Journal] OR \"Cell Stem Cell\"[Journal] OR \"Dev Cell\"[Journal] OR \"Cell Metab\"[Journal] OR \"Cell Rep\"[Journal] OR \"J Clin Invest\"[Journal] OR \"JCI Insight\"[Journal] OR \"J Exp Med\"[Journal] OR \"Circulation\"[Journal] OR \"Circ Res\"[Journal]) AND (lung[Title/Abstract] OR pulmonary[Title/Abstract] OR alveolar[Title/Abstract]) AND (injur*[Title/Abstract] OR repair[Title/Abstract] OR fibros*[Title/Abstract] OR develop*[Title/Abstract] OR regenerat*[Title/Abstract] OR pneumonia[Title/Abstract] OR infection[Title/Abstract] OR epithel*[Title/Abstract] OR endothel*[Title/Abstract] OR vascular[Title/Abstract]) NOT (neoplasms[MeSH Terms] OR cancer[Title] OR tumor[Title] OR tumour[Title] OR carcinoma[Title] OR metastas*[Title]) AND (\"2026/11/01\"[Date - Publication] : \"2026/11/06\"[Date - Publication])",
-  "pending_count": 0,
+  "checked_at": "2026-11-08T21:29:00.058037+08:00",
+  "query": "(\"Cell\"[Journal] OR \"Nature\"[Journal] OR \"Science\"[Journal] OR \"Nat Cell Biol\"[Journal] OR \"Nat Commun\"[Journal] OR \"Sci Adv\"[Journal] OR \"Sci Transl Med\"[Journal] OR \"Sci Immunol\"[Journal] OR \"Immunity\"[Journal] OR \"Nat Immunol\"[Journal] OR \"Nat Med\"[Journal] OR \"Cell Stem Cell\"[Journal] OR \"Dev Cell\"[Journal] OR \"Cell Metab\"[Journal] OR \"Cell Rep\"[Journal] OR \"J Clin Invest\"[Journal] OR \"JCI Insight\"[Journal] OR \"J Exp Med\"[Journal] OR \"Circulation\"[Journal] OR \"Circ Res\"[Journal]) AND (lung[Title/Abstract] OR pulmonary[Title/Abstract] OR alveolar[Title/Abstract]) AND (injur*[Title/Abstract] OR repair[Title/Abstract] OR fibros*[Title/Abstract] OR develop*[Title/Abstract] OR regenerat*[Title/Abstract] OR pneumonia[Title/Abstract] OR infection[Title/Abstract] OR epithel*[Title/Abstract] OR endothel*[Title/Abstract] OR vascular[Title/Abstract]) NOT (neoplasms[MeSH Terms] OR cancer[Title] OR tumor[Title] OR tumour[Title] OR carcinoma[Title] OR metastas*[Title]) AND (\"2026/09/01\"[Date - Publication] : \"2026/11/08\"[Date - Publication])",
+  "pending_count": 62,
   "items": [
     {
       "pmid": "42986692",
@@ -21,6 +22,24 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42970435/",
       "summary_zh": "研究发现，预先接受低剂量免疫刺激或感染可增强模型对后续耐甲氧西林金黄色葡萄球菌肺炎的抵抗力。肺泡巨噬细胞通过自我更新扩增，并摄取中性粒细胞释放的抗菌酶，帮助清除病原体、减轻组织损伤和恢复肺稳态。相关功能涉及MerTK和Bcl-xL调控，提示巨噬细胞利用其他免疫细胞的抗菌分子参与先天免疫适应。",
       "summary_en": "Prior low-dose immune stimulation or infection improves protection against a later lethal MRSA challenge in experimental models. Expanding alveolar macrophages collect extracellular antimicrobial enzymes released by neutrophils, supporting bacterial clearance while limiting damage and restoring lung homeostasis. Changes involving MerTK and Bcl-xL help define this adaptive macrophage program."
+    },
+    {
+      "pmid": "42841903",
+      "title": "Biallelic loss-of-function PTPN6 variants lead to inflammatory lung disease and hemolytic anemia.",
+      "journal": "The Journal of experimental medicine",
+      "date": "2026-10-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42841903/",
+      "summary_zh": "研究在五个家系的七名患儿中发现，PTPN6双等位基因功能缺失可伴随早发贫血和严重炎症性肺病，部分表现为ARDS。相关变异使SHP1蛋白不稳定并失去磷酸酶活性。这提示免疫调控异常是部分严重肺炎症的遗传基础，激活SHP1的治疗潜力仍需进一步研究。",
+      "summary_en": "Seven children from five families with biallelic PTPN6 loss-of-function variants developed early anemia and severe inflammatory lung disease, sometimes with ARDS. The variants destabilized SHP1 and eliminated phosphatase activity. The findings identify a genetic cause of pulmonary immune dysregulation and motivate further investigation of SHP1-directed treatment."
+    },
+    {
+      "pmid": "42844469",
+      "title": "Alveolar stem cells transdifferentiate to drive bronchiolar regeneration.",
+      "journal": "Nature",
+      "date": "2026-10-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42844469/",
+      "summary_zh": "研究通过小鼠双重重组酶谱系追踪，发现肺泡Ⅱ型细胞可迁移至受损细支气管并转分化为气道上皮细胞。免疫细胞分泌的SPP1通过ITGB1引导迁移，局部Notch信号进一步促进向club细胞分化。阻断相应信号会干扰这一过程，揭示了肺泡细胞跨区域参与气道再生的可塑性。",
+      "summary_en": "Mouse lineage tracing shows that AT2 cells can relocate into damaged bronchioles and generate airway epithelial cells. Immune-derived SPP1 and ITGB1 guide migration, while local Notch signals promote conversion into club cells. Blocking these pathways disrupts repair, revealing regenerative flexibility across lung compartments."
     }
   ]
 }

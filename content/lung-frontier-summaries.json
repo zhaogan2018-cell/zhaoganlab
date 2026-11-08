@@ -1,4 +1,14 @@
 {
+  "42841903": {
+    "include": true,
+    "zh": "研究在五个家系的七名患儿中发现，PTPN6双等位基因功能缺失可伴随早发贫血和严重炎症性肺病，部分表现为ARDS。相关变异使SHP1蛋白不稳定并失去磷酸酶活性。这提示免疫调控异常是部分严重肺炎症的遗传基础，激活SHP1的治疗潜力仍需进一步研究。",
+    "en": "Seven children from five families with biallelic PTPN6 loss-of-function variants developed early anemia and severe inflammatory lung disease, sometimes with ARDS. The variants destabilized SHP1 and eliminated phosphatase activity. The findings identify a genetic cause of pulmonary immune dysregulation and motivate further investigation of SHP1-directed treatment."
+  },
+  "42844469": {
+    "include": true,
+    "zh": "研究通过小鼠双重重组酶谱系追踪，发现肺泡Ⅱ型细胞可迁移至受损细支气管并转分化为气道上皮细胞。免疫细胞分泌的SPP1通过ITGB1引导迁移，局部Notch信号进一步促进向club细胞分化。阻断相应信号会干扰这一过程，揭示了肺泡细胞跨区域参与气道再生的可塑性。",
+    "en": "Mouse lineage tracing shows that AT2 cells can relocate into damaged bronchioles and generate airway epithelial cells. Immune-derived SPP1 and ITGB1 guide migration, while local Notch signals promote conversion into club cells. Blocking these pathways disrupts repair, revealing regenerative flexibility across lung compartments."
+  },
   "42969225": {
     "include": false,
     "reason": "Primarily neurocognitive sequelae of pulmonary hypertension, outside the selected distal-lung repair focus."

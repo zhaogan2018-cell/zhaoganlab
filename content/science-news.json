@@ -1,0 +1,578 @@
+{
+  "month": "2026-11",
+  "checked_at": "2026-11-08T21:09:51.934651+08:00",
+  "sources": {
+    "Nature": {
+      "ok": true,
+      "matching_items": 44
+    },
+    "Science": {
+      "ok": true,
+      "matching_items": 10
+    },
+    "Cell": {
+      "ok": true,
+      "matching_items": 0
+    }
+  },
+  "summary_mode": "rss_preview",
+  "items": [
+    {
+      "date": "2026-11-06",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/novel-gene-therapy-lets-drug-dampen-brain-cell-activity-reducing-seizures",
+      "zh": "Novel gene therapy lets drug dampen brain cell activity, reducing seizures",
+      "en": "Novel gene therapy lets drug dampen brain cell activity, reducing seizures",
+      "summary_zh": "来源英文简讯：In first clinical result using “chemogenetic” strategy, a team in China treated three",
+      "summary_en": "Publisher teaser: In first clinical result using “chemogenetic” strategy, a team in China treated three",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/harvard-grad-students-strike-again-citing-inadequate-harassment-protections",
+      "zh": "Harvard grad students strike again, citing inadequate harassment protections",
+      "en": "Harvard grad students strike again, citing inadequate harassment protections",
+      "summary_zh": "来源英文简讯：Spring strike brought a return to the bargaining table, but negotiations stalled over key demands",
+      "summary_en": "Publisher teaser: Spring strike brought a return to the bargaining table, but negotiations stalled over key demands",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/congressional-veteran-and-rookie-lay-out-possible-science-agenda-democrats",
+      "zh": "A congressional veteran and a rookie lay out a possible science agenda for Democrats",
+      "en": "A congressional veteran and a rookie lay out a possible science agenda for Democrats",
+      "summary_zh": "来源英文简讯：Representative Zoe Lofgren prepares to lead the House science committee",
+      "summary_en": "Publisher teaser: Representative Zoe Lofgren prepares to lead the House science committee",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/californians-poised-approve-controversial-8-4-billion-initiative-fund-immunology",
+      "zh": "Californians poised to approve controversial $8.4 billion initiative to fund immunology research",
+      "en": "Californians poised to approve controversial $8.4 billion initiative to fund immunology research",
+      "summary_zh": "来源英文简讯：Critics say ballot measure’s narrow language will funnel taxpayer money to a",
+      "summary_en": "Publisher teaser: Critics say ballot measure’s narrow language will funnel taxpayer money to a",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/ai-can-track-single-bird-over-time-based-solely-its-song",
+      "zh": "AI can track a single bird over time—based solely on its song",
+      "en": "AI can track a single bird over time—based solely on its song",
+      "summary_zh": "来源英文简讯：Approach could provide scientists with a quicker, gentler way to gauge the",
+      "summary_en": "Publisher teaser: Approach could provide scientists with a quicker, gentler way to gauge the",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03632-9",
+      "zh": "Briefing Chat: Meet the snakes that cartwheel away from trouble",
+      "en": "Briefing Chat: Meet the snakes that cartwheel away from trouble",
+      "summary_zh": "来源英文简讯：Nature staff discuss an acrobatic reptile defence strategy — plus, evidence of fossilized dinosaur",
+      "summary_en": "Publisher teaser: Nature staff discuss an acrobatic reptile defence strategy — plus, evidence of fossilized dinosaur",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03630-x",
+      "zh": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
+      "en": "Cholera bacterium’s good deed: inspiring a glue with rare properties",
+      "summary_zh": "来源英文简讯：An adhesive that binds strongly even under water was inspired by a protein made",
+      "summary_en": "Publisher teaser: An adhesive that binds strongly even under water was inspired by a protein made",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03622-x",
+      "zh": "‘Mathematics is more than a mechanical process’ — why I think the field will survive OpenAI’s disruption",
+      "en": "‘Mathematics is more than a mechanical process’ — why I think the field will survive OpenAI’s disruption",
+      "summary_zh": "来源英文简讯：Artificial intelligence could take the field into",
+      "summary_en": "Publisher teaser: Artificial intelligence could take the field into",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03587-x",
+      "zh": "These AI agents design your perfect robot-powered lab — and run it for you",
+      "en": "These AI agents design your perfect robot-powered lab — and run it for you",
+      "summary_zh": "来源英文简讯：A team of artificial-intelligence agents simulates a laboratory of robots",
+      "summary_en": "Publisher teaser: A team of artificial-intelligence agents simulates a laboratory of robots",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03585-z",
+      "zh": "The palaeo cave art that hid in plain sight for 26,000 years",
+      "en": "The palaeo cave art that hid in plain sight for 26,000 years",
+      "summary_zh": "来源英文简讯：Hundreds of engravings were spotted in a widely visited cave — some",
+      "summary_en": "Publisher teaser: Hundreds of engravings were spotted in a widely visited cave — some",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03450-z",
+      "zh": "ESC (DC) 2",
+      "en": "ESC (DC) 2",
+      "summary_zh": "来源英文简讯：Security issues.",
+      "summary_en": "Publisher teaser: Security issues.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03442-z",
+      "zh": "Preprint platform offers to pay researchers to review papers, but questions remain",
+      "en": "Preprint platform offers to pay researchers to review papers, but questions remain",
+      "summary_zh": "来源英文简讯：A reviewer can earn US$200 through XSci’s scheme if they deliver their",
+      "summary_en": "Publisher teaser: A reviewer can earn US$200 through XSci’s scheme if they deliver their",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-05",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/noise-pollution-causing-potentially-massive-problems-wildlife-across-globe",
+      "zh": "Noise pollution is causing potentially massive problems for wildlife across the globe",
+      "en": "Noise pollution is causing potentially massive problems for wildlife across the globe",
+      "summary_zh": "来源英文简讯：Largest analysis to date of the impact of humanmade sounds finds harm",
+      "summary_en": "Publisher teaser: Largest analysis to date of the impact of humanmade sounds finds harm",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-05",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/china-space-experiment-creates-coldest-temperature-ever",
+      "zh": "China space experiment creates coldest temperature ever",
+      "en": "China space experiment creates coldest temperature ever",
+      "summary_zh": "来源英文简讯：Novel technique for cooling atomic gases could make it easier to probe Einstein’s theory of gravity",
+      "summary_en": "Publisher teaser: Novel technique for cooling atomic gases could make it easier to probe Einstein’s theory of gravity",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-05",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/are-brain-scanning-hard-hats-safety-dream-or-privacy-nightmare",
+      "zh": "Are brain-scanning hard hats a safety dream—or a privacy nightmare?",
+      "en": "Are brain-scanning hard hats a safety dream—or a privacy nightmare?",
+      "summary_zh": "来源英文简讯：Construction and mining firms are rolling out devices that track workers’ fatigue. Critics say",
+      "summary_en": "Publisher teaser: Construction and mining firms are rolling out devices that track workers’ fatigue. Critics say",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-05",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03596-w",
+      "zh": "Daily briefing: Toothbrush zaps bacteria to clear plaque",
+      "en": "Daily briefing: Toothbrush zaps bacteria to clear plaque",
+      "summary_zh": "来源英文简讯：The manual toothbrush cleans by generating a bacteria-killing electrical charge. Plus, what ‘historic’ US mid-term results",
+      "summary_en": "Publisher teaser: The manual toothbrush cleans by generating a bacteria-killing electrical charge. Plus, what ‘historic’ US mid-term results",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-05",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03568-0",
+      "zh": "The surprising reason women in academia do more parenting than men",
+      "en": "The surprising reason women in academia do more parenting than men",
+      "summary_zh": "来源英文简讯：Policies designed to keep women in the workforce could be entrenching gendered parenting",
+      "summary_en": "Publisher teaser: Policies designed to keep women in the workforce could be entrenching gendered parenting",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/u-s-archaeology-faces-apocalyptic-threat",
+      "zh": "U.S. archaeology faces ‘apocalyptic’ threat",
+      "en": "U.S. archaeology faces ‘apocalyptic’ threat",
+      "summary_zh": "来源英文简讯：Congress and the White House are moving to weaken key law that requires preproject reviews",
+      "summary_en": "Publisher teaser: Congress and the White House are moving to weaken key law that requires preproject reviews",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/goodbye-swift-after-22-years-nasa-spacecraft-burns-atmosphere",
+      "zh": "Goodbye Swift: After 22 years, NASA spacecraft burns up in atmosphere",
+      "en": "Goodbye Swift: After 22 years, NASA spacecraft burns up in atmosphere",
+      "summary_zh": "来源英文简讯：Astronomers mourn telescope that supercharged study of cosmic explosions",
+      "summary_en": "Publisher teaser: Astronomers mourn telescope that supercharged study of cosmic explosions",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03593-z",
+      "zh": "Daily briefing: See a tardigrade shed its skin",
+      "en": "Daily briefing: See a tardigrade shed its skin",
+      "summary_zh": "来源英文简讯：Enjoy the month’s best science images. Plus, an outbreak of anthrax in African hippos and the",
+      "summary_en": "Publisher teaser: Enjoy the month’s best science images. Plus, an outbreak of anthrax in African hippos and the",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03586-y",
+      "zh": "Toothbrush zaps bacteria with electricity that’s made when bristles move",
+      "en": "Toothbrush zaps bacteria with electricity that’s made when bristles move",
+      "summary_zh": "来源英文简讯：Innovative polymer could give the manual toothbrush its first radical redesign in more than",
+      "summary_en": "Publisher teaser: Innovative polymer could give the manual toothbrush its first radical redesign in more than",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03582-2",
+      "zh": "Ancient DNA charts spread of Celtic and Germanic languages",
+      "en": "Ancient DNA charts spread of Celtic and Germanic languages",
+      "summary_zh": "来源英文简讯：Genomes from thousands of ancient individuals show how migrations helped shape Celtic and Germanic languages",
+      "summary_en": "Publisher teaser: Genomes from thousands of ancient individuals show how migrations helped shape Celtic and Germanic languages",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03581-3",
+      "zh": "Rise of Germanic and Celtic languages is written in ancient DNA",
+      "en": "Rise of Germanic and Celtic languages is written in ancient DNA",
+      "summary_zh": "来源英文简讯：Thousands of genome sequences identify human migrations that might have spread early forms",
+      "summary_en": "Publisher teaser: Thousands of genome sequences identify human migrations that might have spread early forms",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03580-4",
+      "zh": "Mysterious anthrax outbreak kills hippos in Africa — raising concerns for human spread",
+      "en": "Mysterious anthrax outbreak kills hippos in Africa — raising concerns for human spread",
+      "summary_zh": "来源英文简讯：The latest cases, in the Democratic Republic of the Congo, come",
+      "summary_en": "Publisher teaser: The latest cases, in the Democratic Republic of the Congo, come",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03579-x",
+      "zh": "‘Historic change’: what the 2026 US mid-term election results mean for science",
+      "en": "‘Historic change’: what the 2026 US mid-term election results mean for science",
+      "summary_zh": "来源英文简讯：Researchers hope that US lawmakers will push back against the Trump administration’s",
+      "summary_en": "Publisher teaser: Researchers hope that US lawmakers will push back against the Trump administration’s",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03566-2",
+      "zh": "Epileptic seizures nearly vanish after people receive experimental gene therapy in their brains",
+      "en": "Epileptic seizures nearly vanish after people receive experimental gene therapy in their brains",
+      "summary_zh": "来源英文简讯：A clinical trial in three people tested a combination of gene-laden",
+      "summary_en": "Publisher teaser: A clinical trial in three people tested a combination of gene-laden",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03563-5",
+      "zh": "See a tardigrade shed its skin — October’s best science images",
+      "en": "See a tardigrade shed its skin — October’s best science images",
+      "summary_zh": "来源英文简讯：The month’s sharpest science shots, selected by Nature’s photo team.",
+      "summary_en": "Publisher teaser: The month’s sharpest science shots, selected by Nature’s photo team.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03552-8",
+      "zh": "AI agents run this automated biology lab that sequences DNA and more",
+      "en": "AI agents run this automated biology lab that sequences DNA and more",
+      "summary_zh": "来源英文简讯：Self-driving lab in China requires only a simple prompt to encode messages",
+      "summary_en": "Publisher teaser: Self-driving lab in China requires only a simple prompt to encode messages",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03544-8",
+      "zh": "Ecosystems depend on people: don’t abandon them",
+      "en": "Ecosystems depend on people: don’t abandon them",
+      "summary_zh": "来源英文简讯：It might seem counterproductive to put more people in nature, but sometimes human activity nurtures biodiversity.",
+      "summary_en": "Publisher teaser: It might seem counterproductive to put more people in nature, but sometimes human activity nurtures biodiversity.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03539-5",
+      "zh": "Why not to wait even a few minutes before fleeing a tsunami",
+      "en": "Why not to wait even a few minutes before fleeing a tsunami",
+      "summary_zh": "来源英文简讯：Simulation shows that hesitating can be the difference between making it to",
+      "summary_en": "Publisher teaser: Simulation shows that hesitating can be the difference between making it to",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03537-7",
+      "zh": "First-of-its-kind planetary wreckage holds clues to our Solar System’s fate",
+      "en": "First-of-its-kind planetary wreckage holds clues to our Solar System’s fate",
+      "summary_zh": "来源英文简讯：Astronomers spot an unprecedented double disk of debris around a dead star.",
+      "summary_en": "Publisher teaser: Astronomers spot an unprecedented double disk of debris around a dead star.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature · News Feature",
+      "url": "https://www.nature.com/articles/d41586-026-03505-1",
+      "zh": "人类活动减少，生物多样性会怎样变化？",
+      "en": "When humans disappear, biodiversity takes a surprising turn",
+      "summary_zh": "保护自然常强调减少人类干扰，但Nature的这篇报道提醒，在某些地区，人口减少也可能威胁生物多样性。这为理解人与生态系统的关系提供了另一种视角：保护策略需要考虑当地社会与环境背景，而不能简单假设人类退出就一定有利于自然。",
+      "summary_en": "Conservation often focuses on reducing human pressure, yet depopulation can also threaten biodiversity in some places. This feature examines why the relationship between people and ecosystems depends on local conditions, challenging the assumption that human withdrawal always benefits nature."
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03487-0",
+      "zh": "Spider snooze stages",
+      "en": "Spider snooze stages",
+      "summary_zh": "来源英文简讯：How similar are vertebrate and invertebrate sleeping behaviours? An analysis of spiders offers insights about how sleep evolved.",
+      "summary_en": "Publisher teaser: How similar are vertebrate and invertebrate sleeping behaviours? An analysis of spiders offers insights about how sleep evolved.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03423-2",
+      "zh": "X-ray stopwatch can measure durations of just attoseconds",
+      "en": "X-ray stopwatch can measure durations of just attoseconds",
+      "summary_zh": "来源英文简讯：The duration of short ångström-wavelength X-ray pulses, which lasted merely 170 attoseconds, has finally been measured",
+      "summary_en": "Publisher teaser: The duration of short ångström-wavelength X-ray pulses, which lasted merely 170 attoseconds, has finally been measured",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03420-5",
+      "zh": "Infrared image detectors grown directly on read-out chips",
+      "en": "Infrared image detectors grown directly on read-out chips",
+      "summary_zh": "来源英文简讯：A film of lead sulfide — an infrared-sensitive semiconductor — has been grown directly on a",
+      "summary_en": "Publisher teaser: A film of lead sulfide — an infrared-sensitive semiconductor — has been grown directly on a",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03413-4",
+      "zh": "Why are we conscious? Nature investigates the theories",
+      "en": "Why are we conscious? Nature investigates the theories",
+      "summary_zh": "来源英文简讯：Scientists have yet to reveal how the human brain produces the subjective experience we perceive as",
+      "summary_en": "Publisher teaser: Scientists have yet to reveal how the human brain produces the subjective experience we perceive as",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03369-5",
+      "zh": "The oracle of the second quadrant",
+      "en": "The oracle of the second quadrant",
+      "summary_zh": "来源英文简讯：It all adds up.",
+      "summary_en": "Publisher teaser: It all adds up.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03344-0",
+      "zh": "A guide to Nature Index tables",
+      "en": "A guide to Nature Index tables",
+      "summary_zh": "来源英文简讯：Information on the methodology used in the ranking for the 2026 Nature Spotlight: Neuroscience.",
+      "summary_en": "Publisher teaser: Information on the methodology used in the ranking for the 2026 Nature Spotlight: Neuroscience.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03343-1",
+      "zh": "Is social media changing children’s brains? Here’s what the science says",
+      "en": "Is social media changing children’s brains? Here’s what the science says",
+      "summary_zh": "来源英文简讯：Some countries are introducing sweeping social-media bans for young people, but the impact",
+      "summary_en": "Publisher teaser: Some countries are introducing sweeping social-media bans for young people, but the impact",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03295-6",
+      "zh": "Faint exoplanets detected using computational approach to remove glare from stars",
+      "en": "Faint exoplanets detected using computational approach to remove glare from stars",
+      "summary_zh": "来源英文简讯：An image-processing framework for detecting exoplanets directly has been developed. The technique overcomes",
+      "summary_en": "Publisher teaser: An image-processing framework for detecting exoplanets directly has been developed. The technique overcomes",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03271-0",
+      "zh": "Fruit, flies and getting frisky: how food odours trigger sexual arousal",
+      "en": "Fruit, flies and getting frisky: how food odours trigger sexual arousal",
+      "summary_zh": "来源英文简讯：Males of a Drosophila species that thrives on a particular fruit need the",
+      "summary_en": "Publisher teaser: Males of a Drosophila species that thrives on a particular fruit need the",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03270-1",
+      "zh": "AI agents enter the ‘wet lab’",
+      "en": "AI agents enter the ‘wet lab’",
+      "summary_zh": "来源英文简讯：An AI system coordinates laboratory instruments to conduct multi-step molecular-biology experiments with limited human intervention.",
+      "summary_en": "Publisher teaser: An AI system coordinates laboratory instruments to conduct multi-step molecular-biology experiments with limited human intervention.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03269-8",
+      "zh": "A death sentence for ‘sloppy’ cancers",
+      "en": "A death sentence for ‘sloppy’ cancers",
+      "summary_zh": "来源英文简讯：The process of making protein from RNA can go awry in cancer cells. This malfunction might be harnessed",
+      "summary_en": "Publisher teaser: The process of making protein from RNA can go awry in cancer cells. This malfunction might be harnessed",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03267-w",
+      "zh": "People’s social networks can be unintentionally reshaped during randomized interventions",
+      "en": "People’s social networks can be unintentionally reshaped during randomized interventions",
+      "summary_zh": "来源英文简讯：A re-examination of a randomized controlled trial for a health-advice intervention reveals ripple effects",
+      "summary_en": "Publisher teaser: A re-examination of a randomized controlled trial for a health-advice intervention reveals ripple effects",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03264-z",
+      "zh": "Cutting-edge technique uncovers how the spine’s shock absorbers bear load",
+      "en": "Cutting-edge technique uncovers how the spine’s shock absorbers bear load",
+      "summary_zh": "来源英文简讯：An exciting imaging approach reveals how discs of soft tissue in the spine respond",
+      "summary_en": "Publisher teaser: An exciting imaging approach reveals how discs of soft tissue in the spine respond",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03173-1",
+      "zh": "Parkinson’s: beyond the brain",
+      "en": "Parkinson’s: beyond the brain",
+      "summary_zh": "来源英文简讯：Parkinson’s disease might develop in the gut before reaching the brain, and the environment could have a crucial role in",
+      "summary_en": "Publisher teaser: Parkinson’s disease might develop in the gut before reaching the brain, and the environment could have a crucial role in",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03172-2",
+      "zh": "Six highlights from Parkinson’s disease research",
+      "en": "Six highlights from Parkinson’s disease research",
+      "summary_zh": "来源英文简讯：Targeting a new network, addressing gait issues and other advances from recent studies.",
+      "summary_en": "Publisher teaser: Targeting a new network, addressing gait issues and other advances from recent studies.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03171-3",
+      "zh": "How the brain protects itself from Parkinson’s disease",
+      "en": "How the brain protects itself from Parkinson’s disease",
+      "summary_zh": "来源英文简讯：Brains are resilient. Harnessing their self-protective mechanisms might help to prevent or slow the progression of",
+      "summary_en": "Publisher teaser: Brains are resilient. Harnessing their self-protective mechanisms might help to prevent or slow the progression of",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03170-4",
+      "zh": "Could chemicals contribute to Parkinson’s?",
+      "en": "Could chemicals contribute to Parkinson’s?",
+      "summary_zh": "来源英文简讯：Researchers and advocates point to pollutants as a trigger for the neurodegenerative condition.",
+      "summary_en": "Publisher teaser: Researchers and advocates point to pollutants as a trigger for the neurodegenerative condition.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03169-x",
+      "zh": "How a once-controversial idea is advancing understanding of Parkinson’s disease",
+      "en": "How a once-controversial idea is advancing understanding of Parkinson’s disease",
+      "summary_zh": "来源英文简讯：The disease is thought to be divided into two subtypes, depending on where it",
+      "summary_en": "Publisher teaser: The disease is thought to be divided into two subtypes, depending on where it",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03168-y",
+      "zh": "Fine-tuning brain stimulation to fight Parkinson’s disease",
+      "en": "Fine-tuning brain stimulation to fight Parkinson’s disease",
+      "summary_zh": "来源英文简讯：Neuroscientists are developing a new type of brain implant that will decode every movement and symptom of",
+      "summary_en": "Publisher teaser: Neuroscientists are developing a new type of brain implant that will decode every movement and symptom of",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03167-z",
+      "zh": "Clearing the way for a transformative stem-cell treatment for Parkinson’s disease",
+      "en": "Clearing the way for a transformative stem-cell treatment for Parkinson’s disease",
+      "summary_zh": "来源英文简讯：Most Parkinson’s therapies aim to reduce the motor-control symptoms that the disease triggers.",
+      "summary_en": "Publisher teaser: Most Parkinson’s therapies aim to reduce the motor-control symptoms that the disease triggers.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03166-0",
+      "zh": "Replacing the neurons that Parkinson’s destroys",
+      "en": "Replacing the neurons that Parkinson’s destroys",
+      "summary_zh": "来源英文简讯：After decades of work, researchers have begun trialling transplants of dopamine neurons into people with the neurodegenerative disease",
+      "summary_en": "Publisher teaser: After decades of work, researchers have begun trialling transplants of dopamine neurons into people with the neurodegenerative disease",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03165-1",
+      "zh": "Progress accelerates in Parkinson’s treatments",
+      "en": "Progress accelerates in Parkinson’s treatments",
+      "summary_zh": "来源英文简讯：Researchers are reporting encouraging results for a disease that affects millions of people worldwide.",
+      "summary_en": "Publisher teaser: Researchers are reporting encouraging results for a disease that affects millions of people worldwide.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-03",
+      "source": "Nature · News Feature",
+      "url": "https://www.nature.com/articles/d41586-026-03504-2",
+      "zh": "降低脂蛋白(a)，为何未必转化为临床获益？",
+      "en": "Why did a promising cholesterol drug disappoint in a clinical trial?",
+      "summary_zh": "针对心血管危险因素脂蛋白(a)的降脂疗法曾受到广泛期待，但Nature报道，一项重要临床试验未能显示预期获益。报道围绕这一落差提出问题：降低风险指标与改善患者结局之间，仍需要临床证据连接；这一结果对相关疗法的意义仍待厘清。",
+      "summary_en": "Therapies targeting lipoprotein(a) attracted considerable interest, but a major trial did not demonstrate the anticipated benefit. Nature examines the uncertainty this creates for the field, highlighting the distinction between changing a risk marker and improving patient outcomes."
+    },
+    {
+      "date": "2026-11-02",
+      "source": "Nature · Comment",
+      "url": "https://www.nature.com/articles/d41586-026-03509-x",
+      "zh": "如何更早发现表现异常的新发疫情？",
+      "en": "Recognizing unexpected outbreaks sooner",
+      "summary_zh": "Nature的一篇评论讨论了新发疫情监测的盲点：当疾病出现不常见或出乎预期的症状时，现有监测措施可能难以及时识别。作者提出五项容易被忽视的改进思路，提醒公共卫生体系关注超出现有疾病模式的异常信号。",
+      "summary_en": "This commentary discusses a limitation of outbreak surveillance: unusual or unexpected symptoms can escape existing monitoring approaches. Its five proposed steps emphasize recognizing signals that do not fit familiar disease patterns."
+    }
+  ]
+}

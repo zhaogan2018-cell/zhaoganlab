@@ -1,0 +1,64 @@
+name: Update and publish science news
+on:
+  schedule:
+    - cron: '15 1,9 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: science-news-publish
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh official publisher feeds
+        env:
+          NEWS_AI_API_KEY: ${{ secrets.NEWS_AI_API_KEY }}
+          NEWS_AI_MODEL: ${{ vars.NEWS_AI_MODEL }}
+        run: python scripts/sync_science_news.py
+      - name: Refresh lung resources and literature
+        run: |
+          python scripts/check_lung_databases.py
+          python scripts/sync_lung_frontier.py
+      - name: Commit updated news
+        id: commit
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add content/science-news.json content/lung-databases.json content/lung-database-health.json content/lung-frontier*.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh science news'
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - name: Prepare public website
+        run: |
+          mkdir -p /tmp/public-site
+          cp ./*.html CNAME .nojekyll /tmp/public-site/
+          cp -r assets /tmp/public-site/
+          mkdir -p /tmp/public-site/content
+          cp content/*.json /tmp/public-site/content/
+          rm -f /tmp/public-site/content/*candidates*.json /tmp/public-site/content/*summaries*.json
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: /tmp/public-site
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy updated website
+        id: deployment
+        uses: actions/deploy-pages@v4
