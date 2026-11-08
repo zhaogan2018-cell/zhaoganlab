@@ -21,11 +21,12 @@
       "date": "2026-11-06",
       "source": "Science",
       "url": "https://www.science.org/content/article/novel-gene-therapy-lets-drug-dampen-brain-cell-activity-reducing-seizures",
-      "zh": "Novel gene therapy lets drug dampen brain cell activity, reducing seizures",
+      "zh": "化学遗传学策略探索癫痫发作控制",
       "en": "Novel gene therapy lets drug dampen brain cell activity, reducing seizures",
-      "summary_zh": "来源英文简讯：In first clinical result using “chemogenetic” strategy, a team in China treated three",
-      "summary_en": "Publisher teaser: In first clinical result using “chemogenetic” strategy, a team in China treated three",
-      "rss_preview": true
+      "summary_zh": "Science报道，中国研究团队在三名患者中探索了化学遗传学干预：先通过基因治疗改变特定脑细胞对药物的响应，再以药物降低其活动以控制癫痫发作。这属于早期临床结果，尚不能据此确定更广泛人群中的疗效与安全性。",
+      "summary_en": "A team in China tested a chemogenetic approach in three patients, combining gene delivery with a drug to suppress neuronal activity and control seizures. These early clinical observations do not establish effectiveness or safety in broader populations.",
+      "rss_preview": false,
+      "summary_basis": "Official publisher RSS title and teaser; manually summarized"
     },
     {
       "date": "2026-11-06",
@@ -61,11 +62,12 @@
       "date": "2026-11-06",
       "source": "Science",
       "url": "https://www.science.org/content/article/ai-can-track-single-bird-over-time-based-solely-its-song",
-      "zh": "AI can track a single bird over time—based solely on its song",
+      "zh": "AI利用鸟鸣追踪个体，为种群监测提供新工具",
       "en": "AI can track a single bird over time—based solely on its song",
-      "summary_zh": "来源英文简讯：Approach could provide scientists with a quicker, gentler way to gauge the",
-      "summary_en": "Publisher teaser: Approach could provide scientists with a quicker, gentler way to gauge the",
-      "rss_preview": true
+      "summary_zh": "研究探索仅凭鸣声持续识别和追踪单只鸟的方法。Science报道，这一人工智能策略有望减少野外监测对动物的干扰，并为评估鸟类种群状况提供更便捷的工具；其适用范围仍需结合物种和录音环境判断。",
+      "summary_en": "An AI approach identifies individual birds from their songs over time. The method could support less intrusive population monitoring, although its applicability depends on species and recording conditions.",
+      "rss_preview": false,
+      "summary_basis": "Official publisher RSS title and teaser; manually summarized"
     },
     {
       "date": "2026-11-06",
@@ -141,31 +143,34 @@
       "date": "2026-11-05",
       "source": "Science",
       "url": "https://www.science.org/content/article/noise-pollution-causing-potentially-massive-problems-wildlife-across-globe",
-      "zh": "Noise pollution is causing potentially massive problems for wildlife across the globe",
+      "zh": "噪声污染影响多类生态系统中的野生动物",
       "en": "Noise pollution is causing potentially massive problems for wildlife across the globe",
-      "summary_zh": "来源英文简讯：Largest analysis to date of the impact of humanmade sounds finds harm",
-      "summary_en": "Publisher teaser: Largest analysis to date of the impact of humanmade sounds finds harm",
-      "rss_preview": true
+      "summary_zh": "Science报道，一项大规模综合分析发现，人为声音对不同生态系统中的野生动物具有不利影响。这提示环境噪声不只是人类生活环境问题，也应纳入生态保护与人类活动影响评估。",
+      "summary_en": "A large synthesis reports adverse effects of human-generated sound on wildlife across different ecosystems. The coverage highlights noise as an environmental pressure relevant to biodiversity conservation.",
+      "rss_preview": false,
+      "summary_basis": "Official publisher RSS title and teaser; manually summarized"
     },
     {
       "date": "2026-11-05",
       "source": "Science",
       "url": "https://www.science.org/content/article/china-space-experiment-creates-coldest-temperature-ever",
-      "zh": "China space experiment creates coldest temperature ever",
+      "zh": "空间超冷原子实验为引力研究提供技术路径",
       "en": "China space experiment creates coldest temperature ever",
-      "summary_zh": "来源英文简讯：Novel technique for cooling atomic gases could make it easier to probe Einstein’s theory of gravity",
-      "summary_en": "Publisher teaser: Novel technique for cooling atomic gases could make it easier to probe Einstein’s theory of gravity",
-      "rss_preview": true
+      "summary_zh": "Science报道，中国空间实验采用新方法冷却原子气体，探索极低温条件下的物理行为。相关技术可能为检验引力理论提供更便利的实验条件；技术进展本身并不意味着已有新的引力定律获得证实。",
+      "summary_en": "A Chinese space experiment demonstrates a technique for cooling atomic gases. The approach could aid tests of gravitational physics, without itself establishing a new result about the laws of gravity.",
+      "rss_preview": false,
+      "summary_basis": "Official publisher RSS title and teaser; manually summarized"
     },
     {
       "date": "2026-11-05",
       "source": "Science",
       "url": "https://www.science.org/content/article/are-brain-scanning-hard-hats-safety-dream-or-privacy-nightmare",
-      "zh": "Are brain-scanning hard hats a safety dream—or a privacy nightmare?",
+      "zh": "监测工人疲劳的脑电设备引发隐私争议",
       "en": "Are brain-scanning hard hats a safety dream—or a privacy nightmare?",
-      "summary_zh": "来源英文简讯：Construction and mining firms are rolling out devices that track workers’ fatigue. Critics say",
-      "summary_en": "Publisher teaser: Construction and mining firms are rolling out devices that track workers’ fatigue. Critics say",
-      "rss_preview": true
+      "summary_zh": "Science关注建筑和采矿等行业使用的疲劳监测设备：这类装置通过记录脑活动相关信号，试图辅助判断工人的疲劳状态。其安全管理价值与数据使用边界需要同时讨论，尤其要防止健康监测数据被用于超出原定目的的管理。",
+      "summary_en": "Construction and mining companies are adopting devices intended to monitor fatigue through brain-related signals. The report examines both potential safety benefits and concerns over privacy and misuse.",
+      "rss_preview": false,
+      "summary_basis": "Official publisher RSS title and teaser; manually summarized"
     },
     {
       "date": "2026-11-05",
@@ -201,11 +206,12 @@
       "date": "2026-11-04",
       "source": "Science",
       "url": "https://www.science.org/content/article/goodbye-swift-after-22-years-nasa-spacecraft-burns-atmosphere",
-      "zh": "Goodbye Swift: After 22 years, NASA spacecraft burns up in atmosphere",
+      "zh": "Swift任务结束，天文学界回顾其宇宙爆发研究贡献",
       "en": "Goodbye Swift: After 22 years, NASA spacecraft burns up in atmosphere",
-      "summary_zh": "来源英文简讯：Astronomers mourn telescope that supercharged study of cosmic explosions",
-      "summary_en": "Publisher teaser: Astronomers mourn telescope that supercharged study of cosmic explosions",
-      "rss_preview": true
+      "summary_zh": "Science报道，NASA的Swift航天器在运行约二十二年后再入大气层。该任务推动了宇宙爆发现象的观测研究，其结束也使研究者重新关注相关观测能力的延续。",
+      "summary_en": "NASA’s Swift spacecraft re-entered the atmosphere after roughly twenty-two years. The report reflects on its contribution to observing cosmic explosions and the loss of that capability.",
+      "rss_preview": false,
+      "summary_basis": "Official publisher RSS title and teaser; manually summarized"
     },
     {
       "date": "2026-11-04",
