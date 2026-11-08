@@ -1,0 +1,270 @@
+{
+  "basis": "User-selected original-research journals; not an exhaustive CAS Zone 1 list",
+  "updated": "2026-11-08",
+  "journals": [
+    {
+      "name": "Nature",
+      "pubmed": "Nature",
+      "group": "综合与生命科学",
+      "priority": false
+    },
+    {
+      "name": "Science",
+      "pubmed": "Science",
+      "group": "综合与生命科学",
+      "priority": false
+    },
+    {
+      "name": "Cell",
+      "pubmed": "Cell",
+      "group": "综合与生命科学",
+      "priority": false
+    },
+    {
+      "name": "Nature Medicine",
+      "pubmed": "Nat Med",
+      "group": "综合与生命科学",
+      "priority": false
+    },
+    {
+      "name": "Nature Biotechnology",
+      "pubmed": "Nat Biotechnol",
+      "group": "综合与生命科学",
+      "priority": true
+    },
+    {
+      "name": "Nature Cell Biology",
+      "pubmed": "Nat Cell Biol",
+      "group": "综合与生命科学",
+      "priority": true
+    },
+    {
+      "name": "Nature Genetics",
+      "pubmed": "Nat Genet",
+      "group": "综合与生命科学",
+      "priority": false
+    },
+    {
+      "name": "Nature Immunology",
+      "pubmed": "Nat Immunol",
+      "group": "综合与生命科学",
+      "priority": true
+    },
+    {
+      "name": "Nature Microbiology",
+      "pubmed": "Nat Microbiol",
+      "group": "综合与生命科学",
+      "priority": true
+    },
+    {
+      "name": "Nature Communications",
+      "pubmed": "Nat Commun",
+      "group": "综合与生命科学",
+      "priority": true
+    },
+    {
+      "name": "Science Advances",
+      "pubmed": "Sci Adv",
+      "group": "综合与生命科学",
+      "priority": true
+    },
+    {
+      "name": "PNAS",
+      "pubmed": "Proc Natl Acad Sci U S A",
+      "group": "综合与生命科学",
+      "priority": true
+    },
+    {
+      "name": "Cell Research",
+      "pubmed": "Cell Res",
+      "group": "综合与生命科学",
+      "priority": true
+    },
+    {
+      "name": "Molecular Cell",
+      "pubmed": "Mol Cell",
+      "group": "综合与生命科学",
+      "priority": false
+    },
+    {
+      "name": "Developmental Cell",
+      "pubmed": "Dev Cell",
+      "group": "综合与生命科学",
+      "priority": true
+    },
+    {
+      "name": "Cell Stem Cell",
+      "pubmed": "Cell Stem Cell",
+      "group": "综合与生命科学",
+      "priority": true
+    },
+    {
+      "name": "New England Journal of Medicine",
+      "pubmed": "N Engl J Med",
+      "group": "医学与转化医学",
+      "priority": false
+    },
+    {
+      "name": "The Lancet",
+      "pubmed": "Lancet",
+      "group": "医学与转化医学",
+      "priority": false
+    },
+    {
+      "name": "JAMA",
+      "pubmed": "JAMA",
+      "group": "医学与转化医学",
+      "priority": false
+    },
+    {
+      "name": "The BMJ",
+      "pubmed": "BMJ",
+      "group": "医学与转化医学",
+      "priority": false
+    },
+    {
+      "name": "Nature Biomedical Engineering",
+      "pubmed": "Nat Biomed Eng",
+      "group": "医学与转化医学",
+      "priority": true
+    },
+    {
+      "name": "Science Translational Medicine",
+      "pubmed": "Sci Transl Med",
+      "group": "医学与转化医学",
+      "priority": true
+    },
+    {
+      "name": "Journal of Clinical Investigation",
+      "pubmed": "J Clin Invest",
+      "group": "医学与转化医学",
+      "priority": true
+    },
+    {
+      "name": "Journal of Experimental Medicine",
+      "pubmed": "J Exp Med",
+      "group": "医学与转化医学",
+      "priority": true
+    },
+    {
+      "name": "Cell Metabolism",
+      "pubmed": "Cell Metab",
+      "group": "医学与转化医学",
+      "priority": false
+    },
+    {
+      "name": "Cell Host & Microbe",
+      "pubmed": "Cell Host Microbe",
+      "group": "医学与转化医学",
+      "priority": true
+    },
+    {
+      "name": "EMBO Molecular Medicine",
+      "pubmed": "EMBO Mol Med",
+      "group": "医学与转化医学",
+      "priority": false
+    },
+    {
+      "name": "Signal Transduction and Targeted Therapy",
+      "pubmed": "Signal Transduct Target Ther",
+      "group": "医学与转化医学",
+      "priority": false
+    },
+    {
+      "name": "Advanced Science",
+      "pubmed": "Adv Sci (Weinh)",
+      "group": "医学与转化医学",
+      "priority": false
+    },
+    {
+      "name": "eBioMedicine",
+      "pubmed": "EBioMedicine",
+      "group": "医学与转化医学",
+      "priority": false
+    },
+    {
+      "name": "American Journal of Respiratory and Critical Care Medicine",
+      "pubmed": "Am J Respir Crit Care Med",
+      "group": "呼吸与肺血管",
+      "priority": false
+    },
+    {
+      "name": "European Respiratory Journal",
+      "pubmed": "Eur Respir J",
+      "group": "呼吸与肺血管",
+      "priority": false
+    },
+    {
+      "name": "The Lancet Respiratory Medicine",
+      "pubmed": "Lancet Respir Med",
+      "group": "呼吸与肺血管",
+      "priority": false
+    },
+    {
+      "name": "American Journal of Respiratory Cell and Molecular Biology",
+      "pubmed": "Am J Respir Cell Mol Biol",
+      "group": "呼吸与肺血管",
+      "priority": false
+    },
+    {
+      "name": "Thorax",
+      "pubmed": "Thorax",
+      "group": "呼吸与肺血管",
+      "priority": false
+    },
+    {
+      "name": "Chest",
+      "pubmed": "Chest",
+      "group": "呼吸与肺血管",
+      "priority": false
+    },
+    {
+      "name": "Circulation",
+      "pubmed": "Circulation",
+      "group": "呼吸与肺血管",
+      "priority": false
+    },
+    {
+      "name": "Circulation Research",
+      "pubmed": "Circ Res",
+      "group": "呼吸与肺血管",
+      "priority": true
+    },
+    {
+      "name": "Cardiovascular Research",
+      "pubmed": "Cardiovasc Res",
+      "group": "呼吸与肺血管",
+      "priority": false
+    },
+    {
+      "name": "Nature Cardiovascular Research",
+      "pubmed": "Nat Cardiovasc Res",
+      "group": "呼吸与肺血管",
+      "priority": true
+    },
+    {
+      "name": "Science Immunology",
+      "pubmed": "Sci Immunol",
+      "group": "此前指定保留",
+      "priority": false
+    },
+    {
+      "name": "Immunity",
+      "pubmed": "Immunity",
+      "group": "此前指定保留",
+      "priority": false
+    },
+    {
+      "name": "Cell Reports",
+      "pubmed": "Cell Rep",
+      "group": "此前指定保留",
+      "priority": false
+    },
+    {
+      "name": "JCI Insight",
+      "pubmed": "JCI Insight",
+      "group": "此前指定保留",
+      "priority": false
+    }
+  ]
+}
