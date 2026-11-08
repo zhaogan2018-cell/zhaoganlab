@@ -6,25 +6,25 @@
       "name": "Nature",
       "pubmed": "Nature",
       "group": "综合与生命科学",
-      "priority": false
+      "priority": true
     },
     {
       "name": "Science",
       "pubmed": "Science",
       "group": "综合与生命科学",
-      "priority": false
+      "priority": true
     },
     {
       "name": "Cell",
       "pubmed": "Cell",
       "group": "综合与生命科学",
-      "priority": false
+      "priority": true
     },
     {
       "name": "Nature Medicine",
       "pubmed": "Nat Med",
       "group": "综合与生命科学",
-      "priority": false
+      "priority": true
     },
     {
       "name": "Nature Biotechnology",
@@ -42,7 +42,7 @@
       "name": "Nature Genetics",
       "pubmed": "Nat Genet",
       "group": "综合与生命科学",
-      "priority": false
+      "priority": true
     },
     {
       "name": "Nature Immunology",
@@ -84,7 +84,7 @@
       "name": "Molecular Cell",
       "pubmed": "Mol Cell",
       "group": "综合与生命科学",
-      "priority": false
+      "priority": true
     },
     {
       "name": "Developmental Cell",
@@ -102,25 +102,25 @@
       "name": "New England Journal of Medicine",
       "pubmed": "N Engl J Med",
       "group": "医学与转化医学",
-      "priority": false
+      "priority": true
     },
     {
       "name": "The Lancet",
       "pubmed": "Lancet",
       "group": "医学与转化医学",
-      "priority": false
+      "priority": true
     },
     {
       "name": "JAMA",
       "pubmed": "JAMA",
       "group": "医学与转化医学",
-      "priority": false
+      "priority": true
     },
     {
       "name": "The BMJ",
       "pubmed": "BMJ",
       "group": "医学与转化医学",
-      "priority": false
+      "priority": true
     },
     {
       "name": "Nature Biomedical Engineering",
@@ -150,7 +150,7 @@
       "name": "Cell Metabolism",
       "pubmed": "Cell Metab",
       "group": "医学与转化医学",
-      "priority": false
+      "priority": true
     },
     {
       "name": "Cell Host & Microbe",
@@ -222,7 +222,7 @@
       "name": "Circulation",
       "pubmed": "Circulation",
       "group": "呼吸与肺血管",
-      "priority": false
+      "priority": true
     },
     {
       "name": "Circulation Research",
@@ -246,13 +246,13 @@
       "name": "Science Immunology",
       "pubmed": "Sci Immunol",
       "group": "此前指定保留",
-      "priority": false
+      "priority": true
     },
     {
       "name": "Immunity",
       "pubmed": "Immunity",
       "group": "此前指定保留",
-      "priority": false
+      "priority": true
     },
     {
       "name": "Cell Reports",
@@ -266,5 +266,6 @@
       "group": "此前指定保留",
       "priority": false
     }
-  ]
+  ],
+  "priority_basis": "User-named journals plus selected biomedical CNS-family journals from the existing list; not a claim of exhaustive CAS Zone 1 coverage"
 }

@@ -45,7 +45,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42844469/",
       "summary_zh": "研究通过小鼠双重重组酶谱系追踪，发现肺泡Ⅱ型细胞可迁移至受损细支气管并转分化为气道上皮细胞。免疫细胞分泌的SPP1通过ITGB1引导迁移，局部Notch信号进一步促进向club细胞分化。阻断相应信号会干扰这一过程，揭示了肺泡细胞跨区域参与气道再生的可塑性。",
       "summary_en": "Mouse lineage tracing shows that AT2 cells can relocate into damaged bronchioles and generate airway epithelial cells. Immune-derived SPP1 and ITGB1 guide migration, while local Notch signals promote conversion into club cells. Blocking these pathways disrupts repair, revealing regenerative flexibility across lung compartments.",
-      "priority": false
+      "priority": true
     }
   ]
 }
