@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-09T15:57:19.386147+08:00",
+  "checked_at": "2026-11-10T03:47:49.419973+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 45
+      "matching_items": 52
     },
     "Science": {
       "ok": true,
@@ -19,12 +19,92 @@
   "items": [
     {
       "date": "2026-11-09",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/researchers-sue-block-nsf-demolishing-social-science-directorate",
+      "zh": "Researchers sue to block NSF from demolishing social science directorate",
+      "en": "Researchers sue to block NSF from demolishing social science directorate",
+      "summary_zh": "来源英文简讯：Without intervention, NSF could fully close the Social, Behavioral and Economic Sciences Directorate in",
+      "summary_en": "Publisher teaser: Without intervention, NSF could fully close the Social, Behavioral and Economic Sciences Directorate in",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-09",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/ai-beats-scientists-finding-errors-clinical-research-papers",
+      "zh": "AI beats scientists at finding errors in clinical research papers",
+      "en": "AI beats scientists at finding errors in clinical research papers",
+      "summary_zh": "来源英文简讯：New findings demonstrate AI’s aptitude for identifying technical flaws in studies where medical decisions",
+      "summary_en": "Publisher teaser: New findings demonstrate AI’s aptitude for identifying technical flaws in studies where medical decisions",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-09",
       "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03631-w",
-      "zh": "COP31 kicks off as planet faces imminent overshoot of 1.5°C climate target",
-      "en": "COP31 kicks off as planet faces imminent overshoot of 1.5°C climate target",
-      "summary_zh": "来源英文简讯：Scientists say governments must commit to carbon dioxide removal if world is",
-      "summary_en": "Publisher teaser: Scientists say governments must commit to carbon dioxide removal if world is",
+      "zh": "COP31 kicks off as planet faces imminent overshoot of 1.5 °C climate target",
+      "en": "COP31 kicks off as planet faces imminent overshoot of 1.5 °C climate target",
+      "summary_zh": "来源英文简讯：Scientists say governments must commit to carbon dioxide removal if world",
+      "summary_en": "Publisher teaser: Scientists say governments must commit to carbon dioxide removal if world",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-09",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03628-5",
+      "zh": "The super El Niño is more than a climate shock – it’s a health one, too",
+      "en": "The super El Niño is more than a climate shock – it’s a health one, too",
+      "summary_zh": "来源英文简讯：Food shortages and disease outbreaks are to be",
+      "summary_en": "Publisher teaser: Food shortages and disease outbreaks are to be",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-09",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03627-6",
+      "zh": "AI has transformed maths — this is how we got here",
+      "en": "AI has transformed maths — this is how we got here",
+      "summary_zh": "来源英文简讯：The story of how maths came to run the world, and created the",
+      "summary_en": "Publisher teaser: The story of how maths came to run the world, and created the",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-09",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03626-7",
+      "zh": "Carlo Rovelli says fundamental physics is overrated",
+      "en": "Carlo Rovelli says fundamental physics is overrated",
+      "summary_zh": "来源英文简讯：The theoretical physicist unpacks the need for more humility in science and whether artificial intelligence could ever",
+      "summary_en": "Publisher teaser: The theoretical physicist unpacks the need for more humility in science and whether artificial intelligence could ever",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-09",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03588-w",
+      "zh": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
+      "en": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
+      "summary_zh": "来源英文简讯：Engineer Matthew Montgomery, who just finished a 378-day simulated Mars mission,",
+      "summary_en": "Publisher teaser: Engineer Matthew Montgomery, who just finished a 378-day simulated Mars mission,",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-09",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02998-0",
+      "zh": "How academic freedom is changing around the world — by the numbers",
+      "en": "How academic freedom is changing around the world — by the numbers",
+      "summary_zh": "来源英文简讯：Nature reports on five countries where academic freedom has either plummeted or",
+      "summary_en": "Publisher teaser: Nature reports on five countries where academic freedom has either plummeted or",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-09",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02903-9",
+      "zh": "What postdoc ads ask for and what they leave unsaid",
+      "en": "What postdoc ads ask for and what they leave unsaid",
+      "summary_zh": "来源英文简讯：Looking for a postdoc while raising four children made one thing clear to Wenhuan",
+      "summary_en": "Publisher teaser: Looking for a postdoc while raising four children made one thing clear to Wenhuan",
       "rss_preview": true
     },
     {
@@ -82,6 +162,16 @@
     {
       "date": "2026-11-06",
       "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03648-1",
+      "zh": "Daily briefing: Ancient cave art found hiding in plain sight",
+      "en": "Daily briefing: Ancient cave art found hiding in plain sight",
+      "summary_zh": "来源英文简讯：Rock-art in a Spanish cave dates back 26,000 years. Plus, flexible working policies can",
+      "summary_en": "Publisher teaser: Rock-art in a Spanish cave dates back 26,000 years. Plus, flexible working policies can",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03632-9",
       "zh": "Briefing Chat: Meet the snakes that cartwheel away from trouble",
       "en": "Briefing Chat: Meet the snakes that cartwheel away from trouble",
@@ -125,8 +215,8 @@
       "url": "https://www.nature.com/articles/d41586-026-03585-z",
       "zh": "The palaeo cave art that hid in plain sight for 26,000 years",
       "en": "The palaeo cave art that hid in plain sight for 26,000 years",
-      "summary_zh": "来源英文简讯：Hundreds of engravings were spotted in a widely visited cave — some",
-      "summary_en": "Publisher teaser: Hundreds of engravings were spotted in a widely visited cave — some",
+      "summary_zh": "来源英文简讯：Hundreds of engravings were spotted in a widely visited cave — and",
+      "summary_en": "Publisher teaser: Hundreds of engravings were spotted in a widely visited cave — and",
       "rss_preview": true
     },
     {

@@ -145,6 +145,31 @@
       "name": "LungMAP · Azimuth Mouse Lung CellRef",
       "status": 200,
       "active": true
+    },
+    {
+      "name": "LungMAP · ShinyCell Mouse Lung CellRef",
+      "status": 200,
+      "active": true
+    },
+    {
+      "name": "LungMAP · ShinyCell Mouse Post Flu",
+      "status": 200,
+      "active": true
+    },
+    {
+      "name": "LungMAP · ShinyCell BPD Vanderbilt",
+      "status": 200,
+      "active": true
+    },
+    {
+      "name": "LungMAP · ShinyCell ILD Natri 2024",
+      "status": 200,
+      "active": true
+    },
+    {
+      "name": "LungMAP · ShinyCell Pediatric Development",
+      "status": 200,
+      "active": true
     }
   ]
 }
