@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-08T21:09:51.934651+08:00",
+  "checked_at": "2026-11-09T15:57:19.386147+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 44
+      "matching_items": 45
     },
     "Science": {
       "ok": true,
@@ -17,6 +17,16 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-09",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03631-w",
+      "zh": "COP31 kicks off as planet faces imminent overshoot of 1.5°C climate target",
+      "en": "COP31 kicks off as planet faces imminent overshoot of 1.5°C climate target",
+      "summary_zh": "来源英文简讯：Scientists say governments must commit to carbon dioxide removal if world is",
+      "summary_en": "Publisher teaser: Scientists say governments must commit to carbon dioxide removal if world is",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-06",
       "source": "Science",

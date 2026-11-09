@@ -1,5 +1,5 @@
 {
-  "checked": "2026-11-08",
+  "checked": "2026-11-09",
   "items": [
     {
       "name": "HLCA · Integrated Human Lung Cell Atlas",
@@ -78,7 +78,7 @@
     },
     {
       "name": "CZ CELLxGENE Discover",
-      "status": 0,
+      "status": 200,
       "active": true
     },
     {
@@ -103,6 +103,46 @@
     },
     {
       "name": "NCBI GEO · Lung datasets",
+      "status": 200,
+      "active": true
+    },
+    {
+      "name": "LungMAP · Azimuth Lung Cell Cards Human",
+      "status": 200,
+      "active": true
+    },
+    {
+      "name": "LungMAP · ShinyCell Lung Cell Cards Human",
+      "status": 200,
+      "active": true
+    },
+    {
+      "name": "LungMAP · ShinyCell Rhesus Lung",
+      "status": 200,
+      "active": true
+    },
+    {
+      "name": "LungMAP · Azimuth Human Lung CellRef Seed v.1",
+      "status": 200,
+      "active": true
+    },
+    {
+      "name": "LungMAP · ShinyCell Human Lung CellRef",
+      "status": 200,
+      "active": true
+    },
+    {
+      "name": "LungMAP · ShinyCell LungMAP — Human data from a broad age healthy donor group",
+      "status": 200,
+      "active": true
+    },
+    {
+      "name": "LungMAP · ShinyCell BPD",
+      "status": 200,
+      "active": true
+    },
+    {
+      "name": "LungMAP · Azimuth Mouse Lung CellRef",
       "status": 200,
       "active": true
     }
