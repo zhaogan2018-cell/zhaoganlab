@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-10T03:47:49.419973+08:00",
+  "checked_at": "2026-11-10T16:25:23.613281+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 52
+      "matching_items": 53
     },
     "Science": {
       "ok": true,
@@ -30,11 +30,41 @@
     {
       "date": "2026-11-09",
       "source": "Science",
+      "url": "https://www.science.org/content/article/neurons-dish-are-newest-computing-machines",
+      "zh": "Neurons in a dish are the newest computing machines",
+      "en": "Neurons in a dish are the newest computing machines",
+      "summary_zh": "来源英文简讯：Brain organoids offer highly efficient processing—if researchers can learn how to harness their power",
+      "summary_en": "Publisher teaser: Brain organoids offer highly efficient processing—if researchers can learn how to harness their power",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-09",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "zh": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "en": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+      "summary_zh": "来源英文简讯：New policy draws tempered praise from biosecurity experts",
+      "summary_en": "Publisher teaser: New policy draws tempered praise from biosecurity experts",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-09",
+      "source": "Science",
       "url": "https://www.science.org/content/article/ai-beats-scientists-finding-errors-clinical-research-papers",
       "zh": "AI beats scientists at finding errors in clinical research papers",
       "en": "AI beats scientists at finding errors in clinical research papers",
       "summary_zh": "来源英文简讯：New findings demonstrate AI’s aptitude for identifying technical flaws in studies where medical decisions",
       "summary_en": "Publisher teaser: New findings demonstrate AI’s aptitude for identifying technical flaws in studies where medical decisions",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-09",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03654-3",
+      "zh": "How to make failure your friend and teacher in science",
+      "en": "How to make failure your friend and teacher in science",
+      "summary_zh": "来源英文简讯：Apprentices develop expertise after doing monotonous tasks repeatedly and learning from their mistakes. Scientists",
+      "summary_en": "Publisher teaser: Apprentices develop expertise after doing monotonous tasks repeatedly and learning from their mistakes. Scientists",
       "rss_preview": true
     },
     {
