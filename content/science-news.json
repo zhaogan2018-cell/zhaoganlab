@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-10T16:25:23.613281+08:00",
+  "checked_at": "2026-11-11T01:02:13.259634+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 53
+      "matching_items": 65
     },
     "Science": {
       "ok": true,
@@ -17,6 +17,136 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-10",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/can-researchers-bring-order-confusing-world-ai-benchmarks",
+      "zh": "Can researchers bring order to the confusing world of AI ‘benchmarks’?",
+      "en": "Can researchers bring order to the confusing world of AI ‘benchmarks’?",
+      "summary_zh": "来源英文简讯：Several efforts aim to make torrent of AI testing results easier to understand",
+      "summary_en": "Publisher teaser: Several efforts aim to make torrent of AI testing results easier to understand",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-10",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03645-4",
+      "zh": "PhD funding mechanisms should protect the right to disagree with supervisors",
+      "en": "PhD funding mechanisms should protect the right to disagree with supervisors",
+      "summary_zh": "来源英文简讯：PhD funding mechanisms should protect the right to disagree with supervisors",
+      "summary_en": "Publisher teaser: PhD funding mechanisms should protect the right to disagree with supervisors",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-10",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03644-5",
+      "zh": "Students need AI-free spaces to learn core skills",
+      "en": "Students need AI-free spaces to learn core skills",
+      "summary_zh": "来源英文简讯：Students need AI-free spaces to learn core skills",
+      "summary_en": "Publisher teaser: Students need AI-free spaces to learn core skills",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-10",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03643-6",
+      "zh": "Chile’s postdoc rules risk driving talent away",
+      "en": "Chile’s postdoc rules risk driving talent away",
+      "summary_zh": "来源英文简讯：Chile’s postdoc rules risk driving talent away",
+      "summary_en": "Publisher teaser: Chile’s postdoc rules risk driving talent away",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-10",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03635-6",
+      "zh": "California votes to give record $8.4 billion to medical research",
+      "en": "California votes to give record $8.4 billion to medical research",
+      "summary_zh": "来源英文简讯：The cash infusion, earmarked for immunology studies, is the largest ever for science authorized",
+      "summary_en": "Publisher teaser: The cash infusion, earmarked for immunology studies, is the largest ever for science authorized",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-10",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03629-4",
+      "zh": "How microbes can secure the critical minerals the world needs",
+      "en": "How microbes can secure the critical minerals the world needs",
+      "summary_zh": "来源英文简讯：To sustain supplies of key metals, policymakers should support the infrastructure needed to deploy",
+      "summary_en": "Publisher teaser: To sustain supplies of key metals, policymakers should support the infrastructure needed to deploy",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-10",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03625-8",
+      "zh": "Some people are resistant to dementia — here’s what their genes can teach us",
+      "en": "Some people are resistant to dementia — here’s what their genes can teach us",
+      "summary_zh": "来源英文简讯：For years, researchers have studied people with a genetic predisposition",
+      "summary_en": "Publisher teaser: For years, researchers have studied people with a genetic predisposition",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-10",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03623-w",
+      "zh": "Why your physics project needs an anthropologist",
+      "en": "Why your physics project needs an anthropologist",
+      "summary_zh": "来源英文简讯：Picking a site for an observatory should be about more than science. Humanities scholars have a crucial",
+      "summary_en": "Publisher teaser: Picking a site for an observatory should be about more than science. Humanities scholars have a crucial",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-10",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03620-z",
+      "zh": "Metascience should be a source of evidence, not a means of control",
+      "en": "Metascience should be a source of evidence, not a means of control",
+      "summary_zh": "来源英文简讯：The field has captured the interest of politicians. There are positives —",
+      "summary_en": "Publisher teaser: The field has captured the interest of politicians. There are positives —",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-10",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03589-9",
+      "zh": "Mongolia’s iconic grasslands are in crisis — invisible fungi could help save them",
+      "en": "Mongolia’s iconic grasslands are in crisis — invisible fungi could help save them",
+      "summary_zh": "来源英文简讯：Clues suggest that underground fungal networks might be key to reviving",
+      "summary_en": "Publisher teaser: Clues suggest that underground fungal networks might be key to reviving",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-10",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03578-y",
+      "zh": "The public trusts scientists with AI — more than it does anyone else",
+      "en": "The public trusts scientists with AI — more than it does anyone else",
+      "summary_zh": "来源英文简讯：Public confidence in scientists’ use of generative artificial intelligence remains high,",
+      "summary_en": "Publisher teaser: Public confidence in scientists’ use of generative artificial intelligence remains high,",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-10",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03278-7",
+      "zh": "A practically perfect plesiosaur",
+      "en": "A practically perfect plesiosaur",
+      "summary_zh": "来源英文简讯：A very well preserved ancient marine reptile and a Latin poem that describes an optical phenomenon, in this week’s pick",
+      "summary_en": "Publisher teaser: A very well preserved ancient marine reptile and a Latin poem that describes an optical phenomenon, in this week’s pick",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-10",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03017-y",
+      "zh": "PhDs worldwide are having a shake up — why now?",
+      "en": "PhDs worldwide are having a shake up — why now?",
+      "summary_zh": "来源英文简讯：Government-supported initiatives around the globe aim to change the PhD, with the goal of",
+      "summary_en": "Publisher teaser: Government-supported initiatives around the globe aim to change the PhD, with the goal of",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-09",
       "source": "Science",
@@ -113,8 +243,8 @@
       "url": "https://www.nature.com/articles/d41586-026-03588-w",
       "zh": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
       "en": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
-      "summary_zh": "来源英文简讯：Engineer Matthew Montgomery, who just finished a 378-day simulated Mars mission,",
-      "summary_en": "Publisher teaser: Engineer Matthew Montgomery, who just finished a 378-day simulated Mars mission,",
+      "summary_zh": "来源英文简讯：Engineer Matthew Montgomery, who has just finished a 378-day simulated Mars",
+      "summary_en": "Publisher teaser: Engineer Matthew Montgomery, who has just finished a 378-day simulated Mars",
       "rss_preview": true
     },
     {
