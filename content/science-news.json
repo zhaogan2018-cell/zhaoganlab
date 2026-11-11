@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-11T01:02:13.259634+08:00",
+  "checked_at": "2026-11-11T15:44:33.829462+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 65
+      "matching_items": 66
     },
     "Science": {
       "ok": true,
@@ -17,6 +17,36 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-10",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/what-makes-dinosaur-famous-jurassic-park-mostly",
+      "zh": "What makes a dinosaur famous? Jurassic Park , mostly",
+      "en": "What makes a dinosaur famous? Jurassic Park , mostly",
+      "summary_zh": "来源英文简讯：New study quantifies the “blockbuster effect”—and argues it could help today’s threatened species",
+      "summary_en": "Publisher teaser: New study quantifies the “blockbuster effect”—and argues it could help today’s threatened species",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-10",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/researchers-have-wish-list-can-new-congress-deliver",
+      "zh": "Researchers have a wish list. Can the new Congress deliver?",
+      "en": "Researchers have a wish list. Can the new Congress deliver?",
+      "summary_zh": "来源英文简讯：Despite a healthy majority, Democrats face limits on what they can achieve",
+      "summary_en": "Publisher teaser: Despite a healthy majority, Democrats face limits on what they can achieve",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-10",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/pathogen-hunters-track-microbes-around-world-are-their-data-real",
+      "zh": "The ‘Pathogen Hunters’ track microbes around the world. But are their data real?",
+      "en": "The ‘Pathogen Hunters’ track microbes around the world. But are their data real?",
+      "summary_zh": "来源英文简讯：Critics question baffling genetic data from prolific infectious diseases group",
+      "summary_en": "Publisher teaser: Critics question baffling genetic data from prolific infectious diseases group",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-10",
       "source": "Science",
@@ -185,6 +215,16 @@
       "en": "AI beats scientists at finding errors in clinical research papers",
       "summary_zh": "来源英文简讯：New findings demonstrate AI’s aptitude for identifying technical flaws in studies where medical decisions",
       "summary_en": "Publisher teaser: New findings demonstrate AI’s aptitude for identifying technical flaws in studies where medical decisions",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-09",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03658-z",
+      "zh": "Daily briefing: The ‘overshoot COP’ kicks off",
+      "en": "Daily briefing: The ‘overshoot COP’ kicks off",
+      "summary_zh": "来源英文简讯：The COP31 climate conference begins, with ‘climate overshoot’ a key talking point. Plus, the surprising benefits of",
+      "summary_en": "Publisher teaser: The COP31 climate conference begins, with ‘climate overshoot’ a key talking point. Plus, the surprising benefits of",
       "rss_preview": true
     },
     {
