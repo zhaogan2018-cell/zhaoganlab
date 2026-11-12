@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-12T16:19:09.900819+08:00",
+  "checked_at": "2026-11-13T01:35:00.472669+08:00",
   "sources": {
     "Nature": {
       "ok": true,
@@ -8,7 +8,7 @@
     },
     "Science": {
       "ok": true,
-      "matching_items": 0
+      "matching_items": 3
     },
     "Cell": {
       "ok": true,
@@ -18,13 +18,53 @@
   "summary_mode": "rss_preview",
   "items": [
     {
+      "date": "2026-11-12",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03639-2",
+      "zh": "This little brown mushroom is laced with a hallucinogen — and lethal toxins",
+      "en": "This little brown mushroom is laced with a hallucinogen — and lethal toxins",
+      "summary_zh": "来源英文简讯：A Florida fungus might combine the psychedelic compound psilocybin with deadly",
+      "summary_en": "Publisher teaser: A Florida fungus might combine the psychedelic compound psilocybin with deadly",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03573-3",
+      "zh": "RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus",
+      "en": "RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus",
+      "summary_zh": "来源英文简讯：Vaccines and monoclonal-antibody injections are cutting hospitalizations linked to the respiratory virus.",
+      "summary_en": "Publisher teaser: Vaccines and monoclonal-antibody injections are cutting hospitalizations linked to the respiratory virus.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03565-3",
+      "zh": "Massive atlas of brain region linked to a host of diseases is the most detailed yet",
+      "en": "Massive atlas of brain region linked to a host of diseases is the most detailed yet",
+      "summary_zh": "来源英文简讯：A global team profiled nearly 26 million brain",
+      "summary_en": "Publisher teaser: A global team profiled nearly 26 million brain",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03675-y",
+      "zh": "Daily briefing: Should old, bad science be culled from the literature?",
+      "en": "Daily briefing: Should old, bad science be culled from the literature?",
+      "summary_zh": "来源英文简讯：AI tools that summarize scientific literature are picking up decades-old flawed papers —",
+      "summary_en": "Publisher teaser: AI tools that summarize scientific literature are picking up decades-old flawed papers —",
+      "rss_preview": true
+    },
+    {
       "date": "2026-11-11",
       "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03673-0",
-      "zh": "DeepMind's ultra-powerful AI for genome mapping wows scientists",
-      "en": "DeepMind's ultra-powerful AI for genome mapping wows scientists",
-      "summary_zh": "来源英文简讯：AlphaGenome 2 can predict the types of cells where a DNA variant is likely to act.",
-      "summary_en": "Publisher teaser: AlphaGenome 2 can predict the types of cells where a DNA variant is likely to act.",
+      "zh": "DeepMind’s ultra-powerful AI for genome mapping wows scientists",
+      "en": "DeepMind’s ultra-powerful AI for genome mapping wows scientists",
+      "summary_zh": "来源英文简讯：AlphaGenome 2 can predict the types of cell in which a DNA variant is likely to",
+      "summary_en": "Publisher teaser: AlphaGenome 2 can predict the types of cell in which a DNA variant is likely to",
       "rss_preview": true
     },
     {
@@ -61,8 +101,8 @@
       "date": "2026-11-11",
       "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03655-2",
-      "zh": "New culprit in early Alzheimer’s: Blood–brain barrier blocks protective proteins",
-      "en": "New culprit in early Alzheimer’s: Blood–brain barrier blocks protective proteins",
+      "zh": "New culprit in early Alzheimer’s: blood–brain barrier blocks protective proteins",
+      "en": "New culprit in early Alzheimer’s: blood–brain barrier blocks protective proteins",
       "summary_zh": "来源英文简讯：The brain relies on crucial proteins to maintain neurons. This system is disrupted in",
       "summary_en": "Publisher teaser: The brain relies on crucial proteins to maintain neurons. This system is disrupted in",
       "rss_preview": true
@@ -93,8 +133,8 @@
       "url": "https://www.nature.com/articles/d41586-026-03640-9",
       "zh": "Anthropic bought a one-person, AI-powered biotech: is this drug discovery’s future?",
       "en": "Anthropic bought a one-person, AI-powered biotech: is this drug discovery’s future?",
-      "summary_zh": "来源英文简讯：A promising biotechnology company developed a new approach that might treat a rare",
-      "summary_en": "Publisher teaser: A promising biotechnology company developed a new approach that might treat a rare",
+      "summary_zh": "来源英文简讯：A promising biotechnology company developed an approach that might treat a rare disease",
+      "summary_en": "Publisher teaser: A promising biotechnology company developed an approach that might treat a rare disease",
       "rss_preview": true
     },
     {
