@@ -1,9 +1,25 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-12T01:06:36.255378+08:00",
+  "checked_at": "2026-11-12T16:19:13.416368+08:00",
   "query": "(\"Nature\"[Journal] OR \"Science\"[Journal] OR \"Cell\"[Journal] OR \"Nat Med\"[Journal] OR \"Nat Biotechnol\"[Journal] OR \"Nat Cell Biol\"[Journal] OR \"Nat Genet\"[Journal] OR \"Nat Immunol\"[Journal] OR \"Nat Microbiol\"[Journal] OR \"Nat Commun\"[Journal] OR \"Sci Adv\"[Journal] OR \"Proc Natl Acad Sci U S A\"[Journal] OR \"Cell Res\"[Journal] OR \"Mol Cell\"[Journal] OR \"Dev Cell\"[Journal] OR \"Cell Stem Cell\"[Journal] OR \"N Engl J Med\"[Journal] OR \"Lancet\"[Journal] OR \"JAMA\"[Journal] OR \"BMJ\"[Journal] OR \"Nat Biomed Eng\"[Journal] OR \"Sci Transl Med\"[Journal] OR \"J Clin Invest\"[Journal] OR \"J Exp Med\"[Journal] OR \"Cell Metab\"[Journal] OR \"Cell Host Microbe\"[Journal] OR \"EMBO Mol Med\"[Journal] OR \"Signal Transduct Target Ther\"[Journal] OR \"Adv Sci (Weinh)\"[Journal] OR \"EBioMedicine\"[Journal] OR \"Am J Respir Crit Care Med\"[Journal] OR \"Eur Respir J\"[Journal] OR \"Lancet Respir Med\"[Journal] OR \"Am J Respir Cell Mol Biol\"[Journal] OR \"Thorax\"[Journal] OR \"Chest\"[Journal] OR \"Circulation\"[Journal] OR \"Circ Res\"[Journal] OR \"Cardiovasc Res\"[Journal] OR \"Nat Cardiovasc Res\"[Journal] OR \"Sci Immunol\"[Journal] OR \"Immunity\"[Journal] OR \"Cell Rep\"[Journal] OR \"JCI Insight\"[Journal]) AND (lung[Title/Abstract] OR pulmonary[Title/Abstract] OR alveolar[Title/Abstract]) AND (injur*[Title/Abstract] OR repair[Title/Abstract] OR fibros*[Title/Abstract] OR develop*[Title/Abstract] OR regenerat*[Title/Abstract] OR pneumonia[Title/Abstract] OR infection[Title/Abstract] OR epithel*[Title/Abstract] OR endothel*[Title/Abstract] OR vascular[Title/Abstract]) NOT (neoplasms[MeSH Terms] OR cancer[Title] OR tumor[Title] OR tumour[Title] OR carcinoma[Title] OR metastas*[Title]) AND (\"2026/09/01\"[Date - Publication] : \"2026/11/12\"[Date - Publication]) NOT (Review[Publication Type] OR Systematic Review[Publication Type] OR Meta-Analysis[Publication Type] OR Editorial[Publication Type] OR Comment[Publication Type])",
-  "search_count": 311,
+  "search_count": 314,
   "items": [
+    {
+      "pmid": "43014670",
+      "title": "Pragmatic Clinical indicators of Tuberculosis Transmission Risk: a Household Contact Cohort Study.",
+      "journal": "Chest",
+      "date": "2026-11-11",
+      "abstract": "Interrupting TB transmission is a priority in high-burden settings. Identifying highly infectious people with TB may guide targeted interventions. Can readily available clinical characteristics (eg, lung cavitation, cough duration, modified Bandim TB score) indicate the transmission risk in participants with TB? We conducted an observational cohort study in Lima, Peru, enrolling 4,500 index participants. Of the 4,044 people with microbiologically confirmed TB, 3,109 had at least 1 household contact (HHC), yielding 12,767 HHCs. Index participants underwent chest radiograph and TB symptom assessment, from which we derived a modified Bandim TB score. We assessed HHCs for TB infection at baseline and 6 months, and for incident TB disease over 12 months. We analyzed associations between index participant indicators and TB outcomes in HHCs using modified Poisson regression with generalized estimating equations, adjusting for relevant covariates. Among child HHCs, baseline TB infection risk increased with greater cavitary extent (adjusted trend P = .005) and longer cough duration (adjusted trend P = .002), with similar trends at 6 months. Among cavitation categories, multiple-quadrant involvement was associated with the highest baseline infection risk (adjusted prevalence risk ratio, 1.62; 95% CI, 1.10-2.39), but not with incident disease (adjusted cumulative risk ratio, 1.20; 95% CI, 0.56-2.60). Among cough duration categories, ≥ 56 days showed the highest baseline infection risk (adjusted prevalence risk ratio, 1.59; 95% CI, 1.18-2.13), but not incident disease (adjusted cumulative risk ratio, 1.30; 95% CI, 0.85-1.99). The modified Bandim TB score was not associated with transmission risk. Our results show that in this large household cohort, cavitary extent on chest radiograph and cough duration in people with TB were associated with increased TB transmission risk and showed dose-response relationships with TB infection. These simple, readily available indicators may help target preventive interventions in high-burden settings; however, associations with incident TB remain uncertain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43014670/"
+    },
+    {
+      "pmid": "43013392",
+      "title": "Multi-ancestry genetic analysis of lung function identifies candidate causal variants and improves polygenic prediction.",
+      "journal": "Cell reports",
+      "date": "2026-11-11",
+      "abstract": "Most genome-wide association studies (GWASs) and polygenic score (PGS) models for lung function are based on European-ancestry individuals. Here, we performed GWASs in 17,738 Chinese individuals from the Dongfeng-Tongji (DFTJ) and Wuhan-Zhuhai (WHZH) cohorts, followed by meta-analysis with lung function GWASs from the China Kadoorie Biobank (sample size, n = 100,285), the Taiwan Biobank (n = 62,901), and European-ancestry studies (n = 400,102). Multi-ancestry fine-mapping pinpoints four novel candidate causal variants: one insertion (rs56381615, LINC02270) and three SNPs (rs6941411, PTK7; rs13315867, EPHA3; and rs2713769, ABI3BP). Cross-ancestry genetic correlations are high (0.682-0.811) but significantly lower than 1 (p < 0.005). Transcriptome-wide association analysis across 16 tissues identifies 1,374 genes, including PTK7, CUL7, and EPHA3 as leading novel candidates. Finally, we develop multi-ancestry PGS models that outperform existing models. Overall, this study quantifies cross-ancestry genetic correlation, prioritizes candidate genes, and enhances PGS prediction accuracy of lung function traits in East Asian populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013392/"
+    },
     {
       "pmid": "43012862",
       "title": "Targeting Kynurenine Synthesis Attenuated Cigarette Smoke-Induced COPD-Like Lung Injury Driven by TALDO1-Mediated Metabolic Reprogramming.",
@@ -11,6 +27,22 @@
       "date": "2026-11-11",
       "abstract": "Chronic obstructive pulmonary disease (COPD) is a devastating condition characterized by airflow limitation, inflammation, and structural lung damage. Metabolic dysregulation is recognized as a critical feature, but the key metabolic drivers remain unclear. This study identifies transaldolase1 (TALDO1) as a previously unrecognized metabolic regulator in cigarette smoke (CS)-induced COPD pathogenesis. TALDO1 is markedly upregulated in airway epithelial cells by CS exposure. Elevated TALDO1 promotes mitochondrial dysfunction, whereas its genetic knockdown attenuates CS-induced lung function decline and pulmonary inflammation. Mechanistically, TALDO1 activation redirects tryptophan metabolism toward the kynurenine pathway, leading to L-kynurenine accumulation. Genetic or pharmacological inhibition of this pathway significantly alleviates mitochondrial damage, while L-kynurenine supplementation exacerbates injury. Treatment with the IDO inhibitor Epacadostat ameliorates CS-induced lung impairment and inflammation in vivo. These findings define a TALDO1-kynurenine-mitochondrial injury axis linking airway epithelial metabolic reprogramming to COPD, providing translational evidence for targeting this pathway as a therapeutic strategy.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43012862/"
+    },
+    {
+      "pmid": "42962660",
+      "title": "VAPA-dependent lipid transport at ER-lamellar body contact sites promotes human lung surfactant formation.",
+      "journal": "Developmental cell",
+      "date": "2026-10-30",
+      "abstract": "Vesicle-associated membrane protein-associated proteins (VAPs) establish membrane contact sites (MCS) between the endoplasmic reticulum (ER) and other organelles through interactions with FFAT-containing proteins, coordinating lipid synthesis, transfer, and metabolism. Their tissue-specific functions remain poorly understood. We report a patient with a homozygous nonsense variant in VAPA (p.(Glu12∗)), presenting with profound global developmental delay and progressive surfactant dysfunction leading to cholesterol pneumonitis and pulmonary fibrosis. Alternative translation initiation partially bypasses the premature stop codon, producing an N-terminally truncated VAPA protein with impaired FFAT binding capacity and disrupted lamellar body (LB) formation in human alveolar type 2 cells. We identify the pulmonary disease-associated ATP-binding cassette transporter A3 (ABCA3), a regulator of surfactant lipid accumulation, as a VAPA interactor. VAPA-ABCA3 interaction facilitates lipid exchange at previously uncharacterized ER-LB MCSs, a function lost upon VAPA truncation. Our findings establish VAPA-dependent MCS dysfunction as a mechanism of syndromic lung disease and define a pathway for surfactant lipid trafficking.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962660/"
+    },
+    {
+      "pmid": "42914979",
+      "title": "Mesothelial plasticity regulates lung mechanical homeostasis in regeneration and fibrosis.",
+      "journal": "Developmental cell",
+      "date": "2026-10-23",
+      "abstract": "Tissue mechanical adaptation is fundamental to organ development, regeneration, and disease, yet the cellular mechanisms that regulate tissue mechanical adaptation remain poorly understood. Here, we show that mesothelial cells are key regulators of lung mechanical adaptation. Following pneumonectomy, elevated stretch activates YAP (yes-associated protein 1) and induces a transient fibroblast-like mesothelial cell state (F-LMC) characterized by reduced mesothelial identity, increased fibroblast features, and extracellular matrix remodeling at the pleural surface. Yap deletion suppresses F-LMC formation, resulting in lung overinflation and defective regeneration following pneumonectomy. By contrast, in fibrotic lungs, this mesothelial remodeling program is aberrantly activated and restricts lung inflation. Inhibition of this maladaptive response prevents the decline in lung capacity following bleomycin-induced pulmonary fibrosis. Collectively, our findings redefine the mesothelium as a mechanosensitive regulator of organ-scale mechanical adaptation and reveal how pleural surface remodeling controls tissue mechanics during regeneration and disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42914979/"
     },
     {
       "pmid": "43010732",
@@ -221,6 +253,14 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42841903/"
     },
     {
+      "pmid": "42945893",
+      "title": "Evaluation of Andes virus vaccine-derived human antibody for protection in Syrian hamsters: a passive transfer study using phase 1 trial sera.",
+      "journal": "EBioMedicine",
+      "date": "2026-10-27",
+      "abstract": "Andes virus (ANDV) causes severe hantavirus pulmonary syndrome and is uniquely capable of person-to-person transmission, with no licenced vaccines or therapeutics available. A Phase 1 trial (NCT03682107) demonstrated that an ANDV DNA vaccine targeting Gn/Gc envelope proteins elicits neutralising antibodies in humans. We evaluated whether these human antibodies protect against lethal disease in an animal model. Day 197 sera from vaccinated human subjects were pooled, purified, and passively transferred to female Syrian hamsters one day prior to lethal ANDV challenge across two independent experiments. Controls included normal human IgG, PBS (negative controls), and SAB-400 (positive control). Neutralising antibody levels were quantified using pseudovirion neutralisation assays (PsVNA) and plaque reduction neutralisation tests (PRNT) to determine exploratory cutoff titres predicting survival. Human antibodies from DNA-vaccinated subjects-unlike normal IgG-conferred significant protection against lethal ANDV challenge in both experiments. The exploratory cutoff titres predicting protection were determined to be 31-184 for PsVNA50 and 20-80 for PRNT50, depending on the analysis population and model parameters. Vaccine-induced human antibodies are sufficient to protect against lethal ANDV infection in an established animal model. If confirmed, these results indicate that neutralising antibody titres could serve as a surrogate endpoint and correlate of protection for future hantavirus Gn/Gc-targeted vaccines. Defense Health Program and the National Institutes of Health (NIH).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945893/"
+    },
+    {
       "pmid": "42844469",
       "title": "Alveolar stem cells transdifferentiate to drive bronchiolar regeneration.",
       "journal": "Nature",
@@ -269,14 +309,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42968391/"
     },
     {
-      "pmid": "42962660",
-      "title": "VAPA-dependent lipid transport at ER-lamellar body contact sites promotes human lung surfactant formation.",
-      "journal": "Developmental cell",
-      "date": "2026-10-30",
-      "abstract": "Vesicle-associated membrane protein-associated proteins (VAPs) establish membrane contact sites (MCS) between the endoplasmic reticulum (ER) and other organelles through interactions with FFAT-containing proteins, coordinating lipid synthesis, transfer, and metabolism. Their tissue-specific functions remain poorly understood. We report a patient with a homozygous nonsense variant in VAPA (p.(Glu12∗)), presenting with profound global developmental delay and progressive surfactant dysfunction leading to cholesterol pneumonitis and pulmonary fibrosis. Alternative translation initiation partially bypasses the premature stop codon, producing an N-terminally truncated VAPA protein with impaired FFAT binding capacity and disrupted lamellar body (LB) formation in human alveolar type 2 cells. We identify the pulmonary disease-associated ATP-binding cassette transporter A3 (ABCA3), a regulator of surfactant lipid accumulation, as a VAPA interactor. VAPA-ABCA3 interaction facilitates lipid exchange at previously uncharacterized ER-LB MCSs, a function lost upon VAPA truncation. Our findings establish VAPA-dependent MCS dysfunction as a mechanism of syndromic lung disease and define a pathway for surfactant lipid trafficking.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42962660/"
-    },
-    {
       "pmid": "42957847",
       "title": "Autophagy in macrophages curtails IL-1α-mediated immune priming against lung infections.",
       "journal": "Nature immunology",
@@ -323,14 +355,6 @@
       "date": "2026-10-28",
       "abstract": "Chronic obstructive pulmonary disease (COPD) is characterized by small airway disease (SAD) and emphysema, but mechanisms linking these pathologies remain unclear. SAD arises early and is the primary site of airflow limitation, marked by epithelial injury, mucus obstruction, and bronchiole loss. Excessive production of the mucin MUC5B by bronchiolar club cells is a key feature of SAD and is associated with impaired mucociliary clearance and inflammation. Club cells also function as progenitors for alveolar type II (ATII) cells, yet how their regenerative capacity is altered in COPD is unknown. To determine whether MUC5B overproduction in small airway club cells alters their capacity to regenerate ATII cells and contributes to emphysema progression. We assessed MUC5B expression in human emphysematous lungs and a porcine pancreatic elastase (PPE)-induced mouse model of emphysema. Genetic approaches were used to overexpress or conditionally delete Muc5b in club cells to evaluate effects on club-to-ATII differentiation, alveolar structure, and lung function in health and emphysema. MUC5B is overexpressed in small airway club cells in human emphysematous lungs and animal models. Muc5b overexpression impairs differentiation of club cells into ATII cells and worsened lung function decline in emphysema. Importantly, conditional deletion of Muc5b during early disease stages restored club cell-derived alveolar regeneration. MUC5B overproduction links SAD to defective alveolar repair by limiting club cell progenitor function. Targeting MUC5B may restore epithelial regeneration and slow early COPD progression.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42949073/"
-    },
-    {
-      "pmid": "42945893",
-      "title": "Evaluation of Andes virus vaccine-derived human antibody for protection in Syrian hamsters: a passive transfer study using phase 1 trial sera.",
-      "journal": "EBioMedicine",
-      "date": "2026-10-27",
-      "abstract": "Andes virus (ANDV) causes severe hantavirus pulmonary syndrome and is uniquely capable of person-to-person transmission, with no licenced vaccines or therapeutics available. A Phase 1 trial (NCT03682107) demonstrated that an ANDV DNA vaccine targeting Gn/Gc envelope proteins elicits neutralising antibodies in humans. We evaluated whether these human antibodies protect against lethal disease in an animal model. Day 197 sera from vaccinated human subjects were pooled, purified, and passively transferred to female Syrian hamsters one day prior to lethal ANDV challenge across two independent experiments. Controls included normal human IgG, PBS (negative controls), and SAB-400 (positive control). Neutralising antibody levels were quantified using pseudovirion neutralisation assays (PsVNA) and plaque reduction neutralisation tests (PRNT) to determine exploratory cutoff titres predicting survival. Human antibodies from DNA-vaccinated subjects-unlike normal IgG-conferred significant protection against lethal ANDV challenge in both experiments. The exploratory cutoff titres predicting protection were determined to be 31-184 for PsVNA50 and 20-80 for PRNT50, depending on the analysis population and model parameters. Vaccine-induced human antibodies are sufficient to protect against lethal ANDV infection in an established animal model. If confirmed, these results indicate that neutralising antibody titres could serve as a surrogate endpoint and correlate of protection for future hantavirus Gn/Gc-targeted vaccines. Defense Health Program and the National Institutes of Health (NIH).",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42945893/"
     },
     {
       "pmid": "42937131",
@@ -443,14 +467,6 @@
       "date": "2026-10-23",
       "abstract": "",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42919642/"
-    },
-    {
-      "pmid": "42914979",
-      "title": "Mesothelial plasticity regulates lung mechanical homeostasis in regeneration and fibrosis.",
-      "journal": "Developmental cell",
-      "date": "2026-10-23",
-      "abstract": "Tissue mechanical adaptation is fundamental to organ development, regeneration, and disease, yet the cellular mechanisms that regulate tissue mechanical adaptation remain poorly understood. Here, we show that mesothelial cells are key regulators of lung mechanical adaptation. Following pneumonectomy, elevated stretch activates YAP (yes-associated protein 1) and induces a transient fibroblast-like mesothelial cell state (F-LMC) characterized by reduced mesothelial identity, increased fibroblast features, and extracellular matrix remodeling at the pleural surface. Yap deletion suppresses F-LMC formation, resulting in lung overinflation and defective regeneration following pneumonectomy. By contrast, in fibrotic lungs, this mesothelial remodeling program is aberrantly activated and restricts lung inflation. Inhibition of this maladaptive response prevents the decline in lung capacity following bleomycin-induced pulmonary fibrosis. Collectively, our findings redefine the mesothelium as a mechanosensitive regulator of organ-scale mechanical adaptation and reveal how pleural surface remodeling controls tissue mechanics during regeneration and disease.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42914979/"
     },
     {
       "pmid": "42913002",

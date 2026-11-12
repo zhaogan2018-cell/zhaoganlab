@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-12T01:06:31.088593+08:00",
+  "checked_at": "2026-11-12T16:19:09.900819+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 48
+      "matching_items": 49
     },
     "Science": {
       "ok": true,
@@ -30,11 +30,31 @@
     {
       "date": "2026-11-11",
       "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03671-2",
+      "zh": "Too dry for cacti: extreme droughts could push iconic species to extinction",
+      "en": "Too dry for cacti: extreme droughts could push iconic species to extinction",
+      "summary_zh": "来源英文简讯：Analysis reveals these plants face severe habitat loss across the Americas —",
+      "summary_en": "Publisher teaser: Analysis reveals these plants face severe habitat loss across the Americas —",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03669-w",
+      "zh": "Give biologists the space to be curious, not just better tools",
+      "en": "Give biologists the space to be curious, not just better tools",
+      "summary_zh": "来源英文简讯：Technology is making biological studies more powerful than ever. But people are the",
+      "summary_en": "Publisher teaser: Technology is making biological studies more powerful than ever. But people are the",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03660-5",
-      "zh": "Even giant anteaters in the remote Amazon have microplastics in their blood",
-      "en": "Even giant anteaters in the remote Amazon have microplastics in their blood",
-      "summary_zh": "来源英文简讯：A map of the movements of Brazilian wildlife and their exposure to",
-      "summary_en": "Publisher teaser: A map of the movements of Brazilian wildlife and their exposure to",
+      "zh": "Even giant anteaters in remote Brazil have microplastics in their blood",
+      "en": "Even giant anteaters in remote Brazil have microplastics in their blood",
+      "summary_zh": "来源英文简讯：Mapping the movements of wildlife across the Amazon and other regions to their",
+      "summary_en": "Publisher teaser: Mapping the movements of wildlife across the Amazon and other regions to their",
       "rss_preview": true
     },
     {
@@ -55,6 +75,36 @@
       "en": "Iconic first image of black hole holds up to scrutiny",
       "summary_zh": "来源英文简讯：Picture produced by fresh analysis of the data that yielded the first-ever image of",
       "summary_en": "Publisher teaser: Picture produced by fresh analysis of the data that yielded the first-ever image of",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03641-8",
+      "zh": "Engineered bacteria are weaning farms away from synthetic fertilizers",
+      "en": "Engineered bacteria are weaning farms away from synthetic fertilizers",
+      "summary_zh": "来源英文简讯：Scientists are editing microbes to supply more nitrogen to staple crops.",
+      "summary_en": "Publisher teaser: Scientists are editing microbes to supply more nitrogen to staple crops.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03640-9",
+      "zh": "Anthropic bought a one-person, AI-powered biotech: is this drug discovery’s future?",
+      "en": "Anthropic bought a one-person, AI-powered biotech: is this drug discovery’s future?",
+      "summary_zh": "来源英文简讯：A promising biotechnology company developed a new approach that might treat a rare",
+      "summary_en": "Publisher teaser: A promising biotechnology company developed a new approach that might treat a rare",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03637-4",
+      "zh": "Microplastics change the colour of the sea near the Great Pacific Garbage Patch",
+      "en": "Microplastics change the colour of the sea near the Great Pacific Garbage Patch",
+      "summary_zh": "来源英文简讯：The waters around the zone of floating debris appear greener and",
+      "summary_en": "Publisher teaser: The waters around the zone of floating debris appear greener and",
       "rss_preview": true
     },
     {
@@ -105,6 +155,16 @@
       "en": "Getting a grasp on the global wildlife trade",
       "summary_zh": "来源英文简讯：A study reports that about 107,000 species are traded worldwide, legally or illegally — more than",
       "summary_en": "Publisher teaser: A study reports that about 107,000 species are traded worldwide, legally or illegally — more than",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03536-8",
+      "zh": "Rattlesnakes have personalities too — to venomous effect",
+      "en": "Rattlesnakes have personalities too — to venomous effect",
+      "summary_zh": "来源英文简讯：A snake’s defensiveness might affect how much venom it produces in a laboratory test.",
+      "summary_en": "Publisher teaser: A snake’s defensiveness might affect how much venom it produces in a laboratory test.",
       "rss_preview": true
     },
     {
