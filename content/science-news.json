@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-13T01:35:00.472669+08:00",
+  "checked_at": "2026-11-13T15:56:02.113643+08:00",
   "sources": {
     "Nature": {
       "ok": true,
@@ -8,7 +8,7 @@
     },
     "Science": {
       "ok": true,
-      "matching_items": 3
+      "matching_items": 0
     },
     "Cell": {
       "ok": true,
@@ -20,11 +20,51 @@
     {
       "date": "2026-11-12",
       "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03705-9",
+      "zh": "Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
+      "en": "Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
+      "summary_zh": "来源英文简讯：Earlier CRISPR treatments require removal of a participant’s",
+      "summary_en": "Publisher teaser: Earlier CRISPR treatments require removal of a participant’s",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03666-z",
+      "zh": "Record-breaking Ebola outbreak: phone data reconstruct first weeks of spread",
+      "en": "Record-breaking Ebola outbreak: phone data reconstruct first weeks of spread",
+      "summary_zh": "来源英文简讯：The Bundibugyo virus strain was circulating for weeks before its detection in May, but",
+      "summary_en": "Publisher teaser: The Bundibugyo virus strain was circulating for weeks before its detection in May, but",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03665-0",
+      "zh": "Who needs sex? Kelp reproduce asexually when no mate is nearby",
+      "en": "Who needs sex? Kelp reproduce asexually when no mate is nearby",
+      "summary_zh": "来源英文简讯：Insights into the reproductive modes of brown algae could help in the fight",
+      "summary_en": "Publisher teaser: Insights into the reproductive modes of brown algae could help in the fight",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03639-2",
       "zh": "This little brown mushroom is laced with a hallucinogen — and lethal toxins",
       "en": "This little brown mushroom is laced with a hallucinogen — and lethal toxins",
       "summary_zh": "来源英文简讯：A Florida fungus might combine the psychedelic compound psilocybin with deadly",
       "summary_en": "Publisher teaser: A Florida fungus might combine the psychedelic compound psilocybin with deadly",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "zh": "Found: a protein that drives ageing without unleashing inflammation",
+      "en": "Found: a protein that drives ageing without unleashing inflammation",
+      "summary_zh": "来源英文简讯：Aged mice engineered to lack granzyme K have improved heart and liver function and less",
+      "summary_en": "Publisher teaser: Aged mice engineered to lack granzyme K have improved heart and liver function and less",
       "rss_preview": true
     },
     {
