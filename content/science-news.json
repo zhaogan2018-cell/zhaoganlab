@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-13T15:56:02.113643+08:00",
+  "checked_at": "2026-11-14T01:12:18.936020+08:00",
   "sources": {
     "Nature": {
       "ok": true,
@@ -8,7 +8,7 @@
     },
     "Science": {
       "ok": true,
-      "matching_items": 0
+      "matching_items": 2
     },
     "Cell": {
       "ok": true,
@@ -17,6 +17,46 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-13",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03716-6",
+      "zh": "Is the climate totally cooked? What the data say",
+      "en": "Is the climate totally cooked? What the data say",
+      "summary_zh": "来源英文简讯：In the first of our new podcast series, a Nature reporter looks for reasons for",
+      "summary_en": "Publisher teaser: In the first of our new podcast series, a Nature reporter looks for reasons for",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-13",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03679-8",
+      "zh": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
+      "en": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
+      "summary_zh": "来源英文简讯：Being able to target and debug systems could improve artificial-intelligence safety",
+      "summary_en": "Publisher teaser: Being able to target and debug systems could improve artificial-intelligence safety",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-13",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03516-y",
+      "zh": "Accept all changes",
+      "en": "Accept all changes",
+      "summary_zh": "来源英文简讯：It’s the end — or is it?",
+      "summary_en": "Publisher teaser: It’s the end — or is it?",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-13",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03456-7",
+      "zh": "Chinese graduate students are now choosing to stay closer to home",
+      "en": "Chinese graduate students are now choosing to stay closer to home",
+      "summary_zh": "来源英文简讯：Malaysia, Hong Kong and Macau are the new hot destinations for students.",
+      "summary_en": "Publisher teaser: Malaysia, Hong Kong and Macau are the new hot destinations for students.",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-12",
       "source": "Nature",
