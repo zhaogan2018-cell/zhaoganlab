@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-14T01:12:18.936020+08:00",
+  "checked_at": "2026-11-14T15:36:22.317370+08:00",
   "sources": {
     "Nature": {
       "ok": true,
@@ -8,7 +8,7 @@
     },
     "Science": {
       "ok": true,
-      "matching_items": 2
+      "matching_items": 1
     },
     "Cell": {
       "ok": true,
@@ -40,6 +40,16 @@
     {
       "date": "2026-11-13",
       "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03668-x",
+      "zh": "Number of international students arriving in US plunges — worrying scientists",
+      "en": "Number of international students arriving in US plunges — worrying scientists",
+      "summary_zh": "来源英文简讯：Declines in students from China and India are driving the trend, which researchers",
+      "summary_en": "Publisher teaser: Declines in students from China and India are driving the trend, which researchers",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-13",
+      "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03516-y",
       "zh": "Accept all changes",
       "en": "Accept all changes",
@@ -63,8 +73,8 @@
       "url": "https://www.nature.com/articles/d41586-026-03705-9",
       "zh": "Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
       "en": "Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
-      "summary_zh": "来源英文简讯：Earlier CRISPR treatments require removal of a participant’s",
-      "summary_en": "Publisher teaser: Earlier CRISPR treatments require removal of a participant’s",
+      "summary_zh": "来源英文简讯：Current gene-editing treatments require removal of a participant’s",
+      "summary_en": "Publisher teaser: Current gene-editing treatments require removal of a participant’s",
       "rss_preview": true
     },
     {
