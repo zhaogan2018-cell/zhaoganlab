@@ -1,14 +1,14 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-16T15:58:12.547727+08:00",
+  "checked_at": "2026-11-17T03:35:10.754105+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 49
+      "matching_items": 48
     },
     "Science": {
       "ok": true,
-      "matching_items": 1
+      "matching_items": 0
     },
     "Cell": {
       "ok": true,
@@ -17,6 +17,56 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03760-2",
+      "zh": "The climate is in crisis — here’s four things we can do",
+      "en": "The climate is in crisis — here’s four things we can do",
+      "summary_zh": "来源英文简讯：More needs to be done to combat climate change, but what? We",
+      "summary_en": "Publisher teaser: More needs to be done to combat climate change, but what? We",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03752-2",
+      "zh": "Chinese scientist sacked after child died in gene-editing trial",
+      "en": "Chinese scientist sacked after child died in gene-editing trial",
+      "summary_zh": "来源英文简讯：Institutions and other researchers involved have also been reprimanded.",
+      "summary_en": "Publisher teaser: Institutions and other researchers involved have also been reprimanded.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03715-7",
+      "zh": "As El Niño builds, studies of extreme marine heatwaves must start now",
+      "en": "As El Niño builds, studies of extreme marine heatwaves must start now",
+      "summary_zh": "来源英文简讯：Researchers must track warming oceans and use the knowledge gained to inform",
+      "summary_en": "Publisher teaser: Researchers must track warming oceans and use the knowledge gained to inform",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03713-9",
+      "zh": "The psychology of imaginary friends — and why they are good for kids",
+      "en": "The psychology of imaginary friends — and why they are good for kids",
+      "summary_zh": "来源英文简讯：Children often conjure up invisible pals to keep them company. A",
+      "summary_en": "Publisher teaser: Children often conjure up invisible pals to keep them company. A",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03712-w",
+      "zh": "Is the sixth great extinction imminent? Scientists must draw on natural history for clues",
+      "en": "Is the sixth great extinction imminent? Scientists must draw on natural history for clues",
+      "summary_zh": "来源英文简讯：A lack of crosstalk between research disciplines is hampering scholars’",
+      "summary_en": "Publisher teaser: A lack of crosstalk between research disciplines is hampering scholars’",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-13",
       "source": "Nature",
@@ -43,8 +93,8 @@
       "url": "https://www.nature.com/articles/d41586-026-03668-x",
       "zh": "Number of international students arriving in US plunges — worrying scientists",
       "en": "Number of international students arriving in US plunges — worrying scientists",
-      "summary_zh": "来源英文简讯：Declines in students from China and India are driving the trend, which researchers",
-      "summary_en": "Publisher teaser: Declines in students from China and India are driving the trend, which researchers",
+      "summary_zh": "来源英文简讯：Decline in the number of students from China and India are driving the",
+      "summary_en": "Publisher teaser: Decline in the number of students from China and India are driving the",
       "rss_preview": true
     },
     {
@@ -75,6 +125,16 @@
       "en": "Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
       "summary_zh": "来源英文简讯：Current gene-editing treatments require removal of a participant’s",
       "summary_en": "Publisher teaser: Current gene-editing treatments require removal of a participant’s",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03684-x",
+      "zh": "Daily briefing: Are one-person firms the future of biotech?",
+      "en": "Daily briefing: Are one-person firms the future of biotech?",
+      "summary_zh": "来源英文简讯：Researchers are debating whether small, AI-enabled biotech companies are the future of drug discovery. Plus,",
+      "summary_en": "Publisher teaser: Researchers are debating whether small, AI-enabled biotech companies are the future of drug discovery. Plus,",
       "rss_preview": true
     },
     {
