@@ -1,5 +1,4 @@
 import json,time,re,calendar,os,csv
-from summary_service import configured, summarize, valid_pair
 from datetime import datetime,timedelta,timezone
 from pathlib import Path
 from urllib.request import urlopen,Request
@@ -59,28 +58,12 @@ def main():
     config=json.loads((ROOT/'content/lung-frontier-journals.json').read_text(encoding='utf-8'))
     def norm(value):return re.sub(r'[^a-z0-9]','',re.sub(r'^the ','',value.lower()))
     priority={norm(j[k]) for j in config['journals'] if j.get('priority') for k in ['name','pubmed']}
-    errors=[]
-    generated=0
-    for item in items:
-        if item['pmid'] in cache or not item['abstract'] or not configured():continue
-        if generated>=int(os.getenv('FRONTIER_SUMMARY_LIMIT','60')):break
-        generated+=1
-        try:
-            value=summarize(item,'Decide whether this is original non-oncology research directly about distal lung development, alveolar regeneration, epithelial or endothelial repair, pulmonary fibrosis, pneumonia or lung infection. Exclude unrelated cardiovascular or systemic studies. Return include (boolean), reason, zh and en (2-3 concise scientific sentences each, explaining the actual findings and evidence limitations).')
-            if type(value.get('include')) is not bool or (value['include'] and not valid_pair(value)):raise ValueError('Invalid summary')
-            cache[item['pmid']]=value|{'generated_at':now.isoformat(),'method':'automated_abstract_summary'}
-            cache_path.write_text(json.dumps(cache,ensure_ascii=False,indent=2),encoding='utf-8')
-        except Exception as exc:
-            errors.append(type(exc).__name__)
-            break
     published=[]
     for item in items:
         summary=cache.get(item['pmid'])
         if summary and summary.get('include'):
             published.append({k:v for k,v in item.items() if k!='abstract'}|{'summary_zh':summary['zh'],'summary_en':summary['en'],'priority':norm(item['journal']) in priority})
-    output=dict(journal_count=len(journals),scope='user_selected',start_month=start_month,month=month,checked_at=now.isoformat(),query=q,pending_count=sum(i['pmid'] not in cache for i in items),summary_status=('error' if errors else 'automatic' if configured() else 'missing_api_key'),summary_errors=errors,items=published)
+    output=dict(journal_count=len(journals),scope='user_selected',start_month=start_month,month=month,checked_at=now.isoformat(),query=q,pending_count=sum(i['pmid'] not in cache for i in items),items=published)
     (ROOT/'content/lung-frontier.json').write_text(json.dumps(output,ensure_ascii=False,indent=2),encoding='utf-8')
-    if not configured():print('::warning::NEWS_AI_API_KEY missing: new literature summaries cannot be published')
-    if errors:print('::warning::Literature summary failed: '+','.join(errors))
     print('Month:',month,'search hits:',data['count'],'candidates:',len(items),'published:',len(published),'pending:',output['pending_count'])
 if __name__=='__main__':main()

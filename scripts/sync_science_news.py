@@ -5,7 +5,6 @@ from datetime import datetime,timezone,timedelta
 from urllib.request import Request,urlopen
 from urllib.parse import urlsplit,urlunsplit
 from xml.etree import ElementTree as ET
-from email.utils import parsedate_to_datetime
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'content/science-news.json'
 FEEDS={'Nature':'https://www.nature.com/nature.rss','Science':'https://www.science.org/rss/news_current.xml','Cell':'https://www.cell.com/cell/inpress.rss'}
 def request(url,data=None,headers=None):
@@ -21,8 +20,8 @@ def generate(title,brief):
  key=os.getenv('NEWS_AI_API_KEY')
  if not key:return None
  body={'model':(os.getenv('NEWS_AI_MODEL') or 'gpt-4.1-mini'),'messages':[{'role':'system','content':'Write precise, professional science journalism in Chinese and English. Summarize only the supplied publisher news title and teaser, not an unseen full article. Preserve evidence strength, distinguish clinical outcomes from biomarkers and animal from human studies; do not invent mechanisms, numbers or causal claims. Chinese must be fluent scientific Chinese, never English placeholders. Return JSON with zh (Chinese title), en (English title), summary_zh (one concise Chinese paragraph), summary_en (one concise English paragraph). Paraphrase, do not invent details or overstate evidence.'},{'role':'user','content':json.dumps({'title':title,'teaser':brief})}],'response_format':{'type':'json_object'}}
- result=json.loads(request((os.getenv('NEWS_AI_ENDPOINT') or 'https://api.openai.com/v1/chat/completions'),json.dumps(body).encode(),{'Authorization':'Bearer '+key,'Content-Type':'application/json'}))
- value=json.loads(result['choices'][0]['message']['content']);assert all(isinstance(value.get(k),str) and value[k].strip() for k in ['zh','en','summary_zh','summary_en']) and re.search(r'[\u3400-\u9fff]',value['summary_zh']);return value
+ result=json.loads(request(os.getenv('NEWS_AI_ENDPOINT','https://api.openai.com/v1/chat/completions'),json.dumps(body).encode(),{'Authorization':'Bearer '+key,'Content-Type':'application/json'}))
+ value=json.loads(result['choices'][0]['message']['content']);assert all(isinstance(value.get(k),str) and value[k].strip() for k in ['zh','en','summary_zh','summary_en']);return value
 
 def main():
  now=datetime.now(timezone(timedelta(hours=8)));month=now.strftime('%Y-%m');today=now.strftime('%Y-%m-%d');old=json.loads(OUT.read_text(encoding='utf-8')) if OUT.exists() else {'items':[]}
@@ -33,9 +32,6 @@ def main():
    for node in root.iter():
     if node.tag.split('}')[-1]!='item':continue
     f=fields(node);date=(f.get('date') or f.get('publicationDate') or '')[:10];link=f.get('link','');title=clean(f.get('title',''));brief=clean(f.get('description') or f.get('encoded',''));section=f.get('section','')
-    if not re.fullmatch(r'\d{4}-\d{2}-\d{2}',date) and f.get('pubDate'):
-     try:date=parsedate_to_datetime(f['pubDate']).strftime('%Y-%m-%d')
-     except (TypeError,ValueError):pass
     if not re.fullmatch(r'\d{4}-\d{2}-\d{2}',date) or date[:7]!=month or date>today:continue
     if source=='Nature' and ('/articles/d41586-' not in link or re.search(r'books in brief|book review|podcast|correction',title,re.I)):continue
     if source=='Cell' and not re.search(r'news',section,re.I):continue
@@ -56,8 +52,7 @@ def main():
    statuses[source]={'ok':True,'matching_items':found};success+=1
   except Exception as exc:statuses[source]={'ok':False,'error':type(exc).__name__+': '+str(exc)[:150]}
  if not success:raise RuntimeError('All news feeds failed; previous data preserved')
- result={'month':month,'checked_at':now.isoformat(),'sources':statuses,'summary_mode':('degraded' if any(k.endswith('_summary') for k in statuses) else 'ai') if os.getenv('NEWS_AI_API_KEY') else 'rss_preview','items':sorted(known.values(),key=lambda i:(i['date'],i['url']),reverse=True)}
+ result={'month':month,'checked_at':now.isoformat(),'sources':statuses,'summary_mode':'ai' if os.getenv('NEWS_AI_API_KEY') else 'rss_preview','items':sorted(known.values(),key=lambda i:(i['date'],i['url']),reverse=True)}
  temp=OUT.with_suffix('.tmp');temp.write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8');temp.replace(OUT)
- if not os.getenv('NEWS_AI_API_KEY'):print('::warning::NEWS_AI_API_KEY missing: Chinese news cannot update automatically')
  print(json.dumps({'month':month,'items':len(result['items']),'sources':statuses},ensure_ascii=False))
 if __name__=='__main__':main()
