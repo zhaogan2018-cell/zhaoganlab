@@ -13,6 +13,10 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      NEWS_AI_API_KEY: ${{ secrets.NEWS_AI_API_KEY }}
+      NEWS_AI_MODEL: ${{ vars.NEWS_AI_MODEL }}
+      NEWS_AI_ENDPOINT: ${{ vars.NEWS_AI_ENDPOINT }}
     outputs:
       changed: ${{ steps.commit.outputs.changed }}
     steps:

@@ -11,12 +11,16 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    env:
+      NEWS_AI_API_KEY: ${{ secrets.NEWS_AI_API_KEY }}
+      NEWS_AI_MODEL: ${{ vars.NEWS_AI_MODEL }}
+      NEWS_AI_ENDPOINT: ${{ vars.NEWS_AI_ENDPOINT }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Search PubMed and publish reviewed summaries
+      - name: Search PubMed and generate bilingual summaries
         run: python scripts/sync_lung_frontier.py
       - name: Save literature data
         run: |
