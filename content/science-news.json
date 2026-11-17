@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-17T03:35:10.754105+08:00",
+  "checked_at": "2026-11-17T17:12:32.300695+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 48
+      "matching_items": 51
     },
     "Science": {
       "ok": true,
@@ -17,6 +17,36 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03765-x",
+      "zh": "US Supreme Court rebuffs White House effort to cut research grants",
+      "en": "US Supreme Court rebuffs White House effort to cut research grants",
+      "summary_zh": "来源英文简讯：The high court has declined for now to intervene in a key case,",
+      "summary_en": "Publisher teaser: The high court has declined for now to intervene in a key case,",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03763-z",
+      "zh": "Can AI actually help the climate? Nations want to harness the technology to cut emissions",
+      "en": "Can AI actually help the climate? Nations want to harness the technology to cut emissions",
+      "summary_zh": "来源英文简讯：Countries pledge to use artificial-intelligence tools to accelerate the",
+      "summary_en": "Publisher teaser: Countries pledge to use artificial-intelligence tools to accelerate the",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03762-0",
+      "zh": "Genetic variant that reshaped the human brain was inherited from Neanderthals",
+      "en": "Genetic variant that reshaped the human brain was inherited from Neanderthals",
+      "summary_zh": "来源英文简讯：DNA derived from the ancient hominin might make parts of our brains smaller",
+      "summary_en": "Publisher teaser: DNA derived from the ancient hominin might make parts of our brains smaller",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-16",
       "source": "Nature",
@@ -65,6 +95,16 @@
       "en": "Is the sixth great extinction imminent? Scientists must draw on natural history for clues",
       "summary_zh": "来源英文简讯：A lack of crosstalk between research disciplines is hampering scholars’",
       "summary_en": "Publisher teaser: A lack of crosstalk between research disciplines is hampering scholars’",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03706-8",
+      "zh": "Secrets of the vampires: genomes reveal how these bats live off blood alone",
+      "en": "Secrets of the vampires: genomes reveal how these bats live off blood alone",
+      "summary_zh": "来源英文简讯：Expandable stomachs allow these flying mammals to gulp large amounts of",
+      "summary_en": "Publisher teaser: Expandable stomachs allow these flying mammals to gulp large amounts of",
       "rss_preview": true
     },
     {
