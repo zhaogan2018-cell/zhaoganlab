@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-08T21:09:51.934651+08:00",
+  "checked_at": "2026-11-18T02:35:55.930931+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 44
+      "matching_items": 65
     },
     "Science": {
       "ok": true,
@@ -17,6 +17,756 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-17",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03772-y",
+      "zh": "Is academia’s risk-averse culture stifling scientific discovery?",
+      "en": "Is academia’s risk-averse culture stifling scientific discovery?",
+      "summary_zh": "来源英文简讯：Fear of failure can cause researchers to stay within their comfort zone, impacting innovation, argues Nessa Carey.",
+      "summary_en": "Publisher teaser: Fear of failure can cause researchers to stay within their comfort zone, impacting innovation, argues Nessa Carey.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03770-0",
+      "zh": "‘Light and sound’ therapy for Alzheimer’s flops in long-anticipated trial",
+      "en": "‘Light and sound’ therapy for Alzheimer’s flops in long-anticipated trial",
+      "summary_zh": "来源英文简讯：A closely watched study found no cognitive benefit from a brain-stimulating headset designed to",
+      "summary_en": "Publisher teaser: A closely watched study found no cognitive benefit from a brain-stimulating headset designed to",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03749-x",
+      "zh": "Dinosaur’s rest break leaves a lasting impression",
+      "en": "Dinosaur’s rest break leaves a lasting impression",
+      "summary_zh": "来源英文简讯：A fossilized print records marks left by the feet and bum of a juvenile reptile that measured",
+      "summary_en": "Publisher teaser: A fossilized print records marks left by the feet and bum of a juvenile reptile that measured",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03744-2",
+      "zh": "The prospect of a ‘super’ El Niño demands better ocean monitoring",
+      "en": "The prospect of a ‘super’ El Niño demands better ocean monitoring",
+      "summary_zh": "来源英文简讯：The prospect of a ‘super’ El Niño demands better ocean monitoring",
+      "summary_en": "Publisher teaser: The prospect of a ‘super’ El Niño demands better ocean monitoring",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03743-3",
+      "zh": "Should we move from artificial intelligence to artificial life?",
+      "en": "Should we move from artificial intelligence to artificial life?",
+      "summary_zh": "来源英文简讯：Should we move from artificial intelligence to artificial life?",
+      "summary_en": "Publisher teaser: Should we move from artificial intelligence to artificial life?",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03742-4",
+      "zh": "AI wearables could exploit people’s most vulnerable moments",
+      "en": "AI wearables could exploit people’s most vulnerable moments",
+      "summary_zh": "来源英文简讯：AI wearables could exploit people’s most vulnerable moments",
+      "summary_en": "Publisher teaser: AI wearables could exploit people’s most vulnerable moments",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03714-8",
+      "zh": "How measuring the state of nature can reverse biodiversity loss",
+      "en": "How measuring the state of nature can reverse biodiversity loss",
+      "summary_zh": "来源英文简讯：A collective effort by governments, communities and businesses to track the impacts of conservation",
+      "summary_en": "Publisher teaser: A collective effort by governments, communities and businesses to track the impacts of conservation",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03711-x",
+      "zh": "The world’s most precious brain samples — and what they teach us about being human",
+      "en": "The world’s most precious brain samples — and what they teach us about being human",
+      "summary_zh": "来源英文简讯：How do human neurons behave in their natural environment?",
+      "summary_en": "Publisher teaser: How do human neurons behave in their natural environment?",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03709-5",
+      "zh": "New US Congress should ‘reimagine’ science — not just return to the past",
+      "en": "New US Congress should ‘reimagine’ science — not just return to the past",
+      "summary_zh": "来源英文简讯：For science policy to be effective, the public must be engaged",
+      "summary_en": "Publisher teaser: For science policy to be effective, the public must be engaged",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03707-7",
+      "zh": "Open up peer review to early-career researchers",
+      "en": "Open up peer review to early-career researchers",
+      "summary_zh": "来源英文简讯：The peer-review process lacks participation from those most immersed in day-to-day research. An initiative from Nature Portfolio",
+      "summary_en": "Publisher teaser: The peer-review process lacks participation from those most immersed in day-to-day research. An initiative from Nature Portfolio",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03672-1",
+      "zh": "Voyager 1 is about to achieve a cosmic first: one ‘light day’ from Earth",
+      "en": "Voyager 1 is about to achieve a cosmic first: one ‘light day’ from Earth",
+      "summary_zh": "来源英文简讯：Its power supply is faltering and most of its instruments",
+      "summary_en": "Publisher teaser: Its power supply is faltering and most of its instruments",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03279-6",
+      "zh": "The origins of scrotal asymmetry",
+      "en": "The origins of scrotal asymmetry",
+      "summary_zh": "来源英文简讯：Why does the left testicle tend to hang lower than the right? And a small village with a surprisingly",
+      "summary_en": "Publisher teaser: Why does the left testicle tend to hang lower than the right? And a small village with a surprisingly",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/supreme-court-rejects-trump-s-bid-appeal-decision-restoring-terminated-grants",
+      "zh": "Supreme Court rejects Trump’s bid to appeal decision restoring terminated grants",
+      "en": "Supreme Court rejects Trump’s bid to appeal decision restoring terminated grants",
+      "summary_zh": "来源英文简讯：Justices let stand lower court ruling saying agencies violated free-speech clause of U.S.",
+      "summary_en": "Publisher teaser: Justices let stand lower court ruling saying agencies violated free-speech clause of U.S.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/scientific-peer-review-should-rate-quality-and-impact-separately-study-argues",
+      "zh": "Scientific peer review should rate quality and impact separately, study argues",
+      "en": "Scientific peer review should rate quality and impact separately, study argues",
+      "summary_zh": "来源英文简讯：A pilot experiment explores alternatives to traditional journal peer review",
+      "summary_en": "Publisher teaser: A pilot experiment explores alternatives to traditional journal peer review",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/neanderthal-brain-gene-may-lower-odds-schizophrenia",
+      "zh": "Neanderthal brain gene may lower odds of schizophrenia",
+      "en": "Neanderthal brain gene may lower odds of schizophrenia",
+      "summary_zh": "来源英文简讯：About 20% of people with European ancestry carry variant, which affects brain structure",
+      "summary_en": "Publisher teaser: About 20% of people with European ancestry carry variant, which affects brain structure",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/longtime-nih-contractor-named-director-infectious-disease-institute",
+      "zh": "Longtime NIH contractor named director of infectious disease institute",
+      "en": "Longtime NIH contractor named director of infectious disease institute",
+      "summary_zh": "来源英文简讯：Physician John Powers III, acting director of NIAID since June, will become permanent chief as",
+      "summary_en": "Publisher teaser: Physician John Powers III, acting director of NIAID since June, will become permanent chief as",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/energy-department-delay-atom-smasher-and-speed-ai-quantum-and-fusion-projects",
+      "zh": "Energy Department to delay atom smasher and speed AI, quantum, and fusion projects",
+      "en": "Energy Department to delay atom smasher and speed AI, quantum, and fusion projects",
+      "summary_zh": "来源英文简讯：First new to-do list in 23 years reflects rapidly evolving science",
+      "summary_en": "Publisher teaser: First new to-do list in 23 years reflects rapidly evolving science",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/chinese-gene-therapy-researchers-fired-after-probe-child-s-death",
+      "zh": "Chinese gene therapy researchers fired after probe into child’s death",
+      "en": "Chinese gene therapy researchers fired after probe into child’s death",
+      "summary_zh": "来源英文简讯：Punishments and institutional sanctions follow investigation into clinical trial tragedy disclosed by Science and",
+      "summary_en": "Publisher teaser: Punishments and institutional sanctions follow investigation into clinical trial tragedy disclosed by Science and",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03769-7",
+      "zh": "Daily briefing: A worrier’s guide to climate hope",
+      "en": "Daily briefing: A worrier’s guide to climate hope",
+      "summary_zh": "来源英文简讯：Nature Podcast seeks an antidote for climate anxiety. Plus, the impact of international students avoiding the",
+      "summary_en": "Publisher teaser: Nature Podcast seeks an antidote for climate anxiety. Plus, the impact of international students avoiding the",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03765-x",
+      "zh": "US Supreme Court rebuffs White House effort to cut research grants",
+      "en": "US Supreme Court rebuffs White House effort to cut research grants",
+      "summary_zh": "来源英文简讯：The high court has declined for now to intervene in a key case,",
+      "summary_en": "Publisher teaser: The high court has declined for now to intervene in a key case,",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03763-z",
+      "zh": "Can AI actually help the climate? Nations want to harness the technology to cut emissions",
+      "en": "Can AI actually help the climate? Nations want to harness the technology to cut emissions",
+      "summary_zh": "来源英文简讯：Countries pledge to use artificial-intelligence tools to accelerate the",
+      "summary_en": "Publisher teaser: Countries pledge to use artificial-intelligence tools to accelerate the",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03762-0",
+      "zh": "Genetic variant that reshaped the human brain was inherited from Neanderthals",
+      "en": "Genetic variant that reshaped the human brain was inherited from Neanderthals",
+      "summary_zh": "来源英文简讯：DNA derived from the ancient hominin might make parts of our brains smaller",
+      "summary_en": "Publisher teaser: DNA derived from the ancient hominin might make parts of our brains smaller",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03760-2",
+      "zh": "The climate is in crisis — here’s four things we can do",
+      "en": "The climate is in crisis — here’s four things we can do",
+      "summary_zh": "来源英文简讯：More needs to be done to combat climate change, but what? We",
+      "summary_en": "Publisher teaser: More needs to be done to combat climate change, but what? We",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03752-2",
+      "zh": "Chinese scientist sacked after child died in gene-editing trial",
+      "en": "Chinese scientist sacked after child died in gene-editing trial",
+      "summary_zh": "来源英文简讯：Institutions and other researchers involved have also been reprimanded.",
+      "summary_en": "Publisher teaser: Institutions and other researchers involved have also been reprimanded.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03715-7",
+      "zh": "As El Niño builds, studies of extreme marine heatwaves must start now",
+      "en": "As El Niño builds, studies of extreme marine heatwaves must start now",
+      "summary_zh": "来源英文简讯：Researchers must track warming oceans and use the knowledge gained to inform",
+      "summary_en": "Publisher teaser: Researchers must track warming oceans and use the knowledge gained to inform",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03713-9",
+      "zh": "The psychology of imaginary friends — and why they are good for kids",
+      "en": "The psychology of imaginary friends — and why they are good for kids",
+      "summary_zh": "来源英文简讯：Children often conjure up invisible pals to keep them company. A",
+      "summary_en": "Publisher teaser: Children often conjure up invisible pals to keep them company. A",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03712-w",
+      "zh": "Is the sixth great extinction imminent? Scientists must draw on natural history for clues",
+      "en": "Is the sixth great extinction imminent? Scientists must draw on natural history for clues",
+      "summary_zh": "来源英文简讯：A lack of crosstalk between research disciplines is hampering scholars’",
+      "summary_en": "Publisher teaser: A lack of crosstalk between research disciplines is hampering scholars’",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-16",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03706-8",
+      "zh": "Secrets of the vampires: genomes reveal how these bats live off blood alone",
+      "en": "Secrets of the vampires: genomes reveal how these bats live off blood alone",
+      "summary_zh": "来源英文简讯：Expandable stomachs allow these flying mammals to gulp large amounts of",
+      "summary_en": "Publisher teaser: Expandable stomachs allow these flying mammals to gulp large amounts of",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-13",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/senate-spending-panel-backs-raises-science-agencies-and-questions-trump-policies",
+      "zh": "Senate spending panel backs raises for science agencies and questions Trump policies",
+      "en": "Senate spending panel backs raises for science agencies and questions Trump policies",
+      "summary_zh": "来源英文简讯：Fate of 2027 budget bill is uncertain as Congress tries to avoid",
+      "summary_en": "Publisher teaser: Fate of 2027 budget bill is uncertain as Congress tries to avoid",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-13",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/extinct-vampire-camel-once-stalked-north-american-plains",
+      "zh": "Extinct ‘vampire camel’ once stalked North American plains",
+      "en": "Extinct ‘vampire camel’ once stalked North American plains",
+      "summary_zh": "来源英文简讯：New fossil survey shines light on this mysterious creature, as well as ancient camels’ ecological importance",
+      "summary_en": "Publisher teaser: New fossil survey shines light on this mysterious creature, as well as ancient camels’ ecological importance",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-13",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03757-x",
+      "zh": "Daily briefing: Huge basal ganglia atlas could transform brain health",
+      "en": "Daily briefing: Huge basal ganglia atlas could transform brain health",
+      "summary_zh": "来源英文简讯：The massive resource includes data from more than 25 million cells. Plus, the Ebola",
+      "summary_en": "Publisher teaser: The massive resource includes data from more than 25 million cells. Plus, the Ebola",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-13",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03716-6",
+      "zh": "Is the climate totally cooked? What the data say",
+      "en": "Is the climate totally cooked? What the data say",
+      "summary_zh": "来源英文简讯：In the first of our new podcast series, a Nature reporter looks for reasons for",
+      "summary_en": "Publisher teaser: In the first of our new podcast series, a Nature reporter looks for reasons for",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-13",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03679-8",
+      "zh": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
+      "en": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
+      "summary_zh": "来源英文简讯：Being able to target and debug systems could improve artificial-intelligence safety",
+      "summary_en": "Publisher teaser: Being able to target and debug systems could improve artificial-intelligence safety",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-13",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03668-x",
+      "zh": "Number of international students arriving in US plunges — worrying scientists",
+      "en": "Number of international students arriving in US plunges — worrying scientists",
+      "summary_zh": "来源英文简讯：Decline in the number of students from China and India are driving the",
+      "summary_en": "Publisher teaser: Decline in the number of students from China and India are driving the",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-13",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03516-y",
+      "zh": "Accept all changes",
+      "en": "Accept all changes",
+      "summary_zh": "来源英文简讯：It’s the end — or is it?",
+      "summary_en": "Publisher teaser: It’s the end — or is it?",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-13",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03456-7",
+      "zh": "Chinese graduate students are now choosing to stay closer to home",
+      "en": "Chinese graduate students are now choosing to stay closer to home",
+      "summary_zh": "来源英文简讯：Malaysia, Hong Kong and Macau are the new hot destinations for students.",
+      "summary_en": "Publisher teaser: Malaysia, Hong Kong and Macau are the new hot destinations for students.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/long-overlooked-alzheimer-s-hypothesis-makes-comeback",
+      "zh": "Long-overlooked Alzheimer’s hypothesis makes a comeback",
+      "en": "Long-overlooked Alzheimer’s hypothesis makes a comeback",
+      "summary_zh": "来源英文简讯：Decades after it fell out of fashion, researchers return to an idea linking the disease to the loss",
+      "summary_en": "Publisher teaser: Decades after it fell out of fashion, researchers return to an idea linking the disease to the loss",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/food-becomes-scarce-asian-elephant-friendships-fall-apart",
+      "zh": "As food becomes scarce, Asian elephant friendships fall apart",
+      "en": "As food becomes scarce, Asian elephant friendships fall apart",
+      "summary_zh": "来源英文简讯：Social breakdown poses long-term risks to the population",
+      "summary_en": "Publisher teaser: Social breakdown poses long-term risks to the population",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03705-9",
+      "zh": "New CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
+      "en": "New CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
+      "summary_zh": "来源英文简讯：Current gene-editing treatments require removal of a participant’s",
+      "summary_en": "Publisher teaser: Current gene-editing treatments require removal of a participant’s",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03684-x",
+      "zh": "Daily briefing: Are one-person firms the future of biotech?",
+      "en": "Daily briefing: Are one-person firms the future of biotech?",
+      "summary_zh": "来源英文简讯：Researchers are debating whether small, AI-enabled biotech companies are the future of drug discovery. Plus,",
+      "summary_en": "Publisher teaser: Researchers are debating whether small, AI-enabled biotech companies are the future of drug discovery. Plus,",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03666-z",
+      "zh": "Record-breaking Ebola outbreak: phone data reconstruct first weeks of spread",
+      "en": "Record-breaking Ebola outbreak: phone data reconstruct first weeks of spread",
+      "summary_zh": "来源英文简讯：The Bundibugyo virus strain was circulating for weeks before its detection in May, but",
+      "summary_en": "Publisher teaser: The Bundibugyo virus strain was circulating for weeks before its detection in May, but",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03665-0",
+      "zh": "Who needs sex? Kelp reproduce asexually when no mate is nearby",
+      "en": "Who needs sex? Kelp reproduce asexually when no mate is nearby",
+      "summary_zh": "来源英文简讯：Insights into the reproductive modes of brown algae could help in the fight",
+      "summary_en": "Publisher teaser: Insights into the reproductive modes of brown algae could help in the fight",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03639-2",
+      "zh": "This little brown mushroom is laced with a hallucinogen — and lethal toxins",
+      "en": "This little brown mushroom is laced with a hallucinogen — and lethal toxins",
+      "summary_zh": "来源英文简讯：A Florida fungus might combine the psychedelic compound psilocybin with deadly",
+      "summary_en": "Publisher teaser: A Florida fungus might combine the psychedelic compound psilocybin with deadly",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03638-3",
+      "zh": "Found: a protein that drives ageing without unleashing inflammation",
+      "en": "Found: a protein that drives ageing without unleashing inflammation",
+      "summary_zh": "来源英文简讯：Aged mice engineered to lack granzyme K have improved heart and liver function and less",
+      "summary_en": "Publisher teaser: Aged mice engineered to lack granzyme K have improved heart and liver function and less",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03573-3",
+      "zh": "RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus",
+      "en": "RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus",
+      "summary_zh": "来源英文简讯：Vaccines and monoclonal-antibody injections are cutting hospitalizations linked to the respiratory virus.",
+      "summary_en": "Publisher teaser: Vaccines and monoclonal-antibody injections are cutting hospitalizations linked to the respiratory virus.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-12",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03565-3",
+      "zh": "Massive atlas of brain region linked to a host of diseases is the most detailed yet",
+      "en": "Massive atlas of brain region linked to a host of diseases is the most detailed yet",
+      "summary_zh": "来源英文简讯：A global team profiled nearly 26 million brain",
+      "summary_en": "Publisher teaser: A global team profiled nearly 26 million brain",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03675-y",
+      "zh": "Daily briefing: Should old, bad science be culled from the literature?",
+      "en": "Daily briefing: Should old, bad science be culled from the literature?",
+      "summary_zh": "来源英文简讯：AI tools that summarize scientific literature are picking up decades-old flawed papers —",
+      "summary_en": "Publisher teaser: AI tools that summarize scientific literature are picking up decades-old flawed papers —",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03673-0",
+      "zh": "DeepMind’s ultra-powerful AI for genome mapping wows scientists",
+      "en": "DeepMind’s ultra-powerful AI for genome mapping wows scientists",
+      "summary_zh": "来源英文简讯：AlphaGenome 2 can predict the types of cell in which a DNA variant is likely to",
+      "summary_en": "Publisher teaser: AlphaGenome 2 can predict the types of cell in which a DNA variant is likely to",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03671-2",
+      "zh": "Too dry for cacti: extreme droughts could push iconic species to extinction",
+      "en": "Too dry for cacti: extreme droughts could push iconic species to extinction",
+      "summary_zh": "来源英文简讯：Analysis reveals these plants face severe habitat loss across the Americas —",
+      "summary_en": "Publisher teaser: Analysis reveals these plants face severe habitat loss across the Americas —",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03669-w",
+      "zh": "Give biologists the space to be curious, not just better tools",
+      "en": "Give biologists the space to be curious, not just better tools",
+      "summary_zh": "来源英文简讯：Technology is making biological studies more powerful than ever. But people are the",
+      "summary_en": "Publisher teaser: Technology is making biological studies more powerful than ever. But people are the",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03660-5",
+      "zh": "Even giant anteaters in remote Brazil have microplastics in their blood",
+      "en": "Even giant anteaters in remote Brazil have microplastics in their blood",
+      "summary_zh": "来源英文简讯：Mapping the movements of wildlife across the Amazon and other regions to their",
+      "summary_en": "Publisher teaser: Mapping the movements of wildlife across the Amazon and other regions to their",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03655-2",
+      "zh": "New culprit in early Alzheimer’s: blood–brain barrier blocks protective proteins",
+      "en": "New culprit in early Alzheimer’s: blood–brain barrier blocks protective proteins",
+      "summary_zh": "来源英文简讯：The brain relies on crucial proteins to maintain neurons. This system is disrupted in",
+      "summary_en": "Publisher teaser: The brain relies on crucial proteins to maintain neurons. This system is disrupted in",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03642-7",
+      "zh": "Iconic first image of black hole holds up to scrutiny",
+      "en": "Iconic first image of black hole holds up to scrutiny",
+      "summary_zh": "来源英文简讯：Picture produced by fresh analysis of the data that yielded the first-ever image of",
+      "summary_en": "Publisher teaser: Picture produced by fresh analysis of the data that yielded the first-ever image of",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03641-8",
+      "zh": "Engineered bacteria are weaning farms away from synthetic fertilizers",
+      "en": "Engineered bacteria are weaning farms away from synthetic fertilizers",
+      "summary_zh": "来源英文简讯：Scientists are editing microbes to supply more nitrogen to staple crops.",
+      "summary_en": "Publisher teaser: Scientists are editing microbes to supply more nitrogen to staple crops.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03640-9",
+      "zh": "Anthropic bought a one-person, AI-powered biotech: is this drug discovery’s future?",
+      "en": "Anthropic bought a one-person, AI-powered biotech: is this drug discovery’s future?",
+      "summary_zh": "来源英文简讯：A promising biotechnology company developed an approach that might treat a rare disease",
+      "summary_en": "Publisher teaser: A promising biotechnology company developed an approach that might treat a rare disease",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03637-4",
+      "zh": "Microplastics change the colour of the sea near the Great Pacific Garbage Patch",
+      "en": "Microplastics change the colour of the sea near the Great Pacific Garbage Patch",
+      "summary_zh": "来源英文简讯：The waters around the zone of floating debris appear greener and",
+      "summary_en": "Publisher teaser: The waters around the zone of floating debris appear greener and",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03636-5",
+      "zh": "Move over BMI: new obesity definition is better for predicting your health",
+      "en": "Move over BMI: new obesity definition is better for predicting your health",
+      "summary_zh": "来源英文简讯：A fresh approach considers waist circumference, rather than just weight and height,",
+      "summary_en": "Publisher teaser: A fresh approach considers waist circumference, rather than just weight and height,",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03633-8",
+      "zh": "Hideki Shirakawa obituary: chemist who showed that plastics can conduct electricity",
+      "en": "Hideki Shirakawa obituary: chemist who showed that plastics can conduct electricity",
+      "summary_zh": "来源英文简讯：Nobel prizewinner’s accidental discovery led to new forms of materials, light-emitting diodes and",
+      "summary_en": "Publisher teaser: Nobel prizewinner’s accidental discovery led to new forms of materials, light-emitting diodes and",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03624-9",
+      "zh": "Retractions of old papers are on the rise: when should bad science be culled?",
+      "en": "Retractions of old papers are on the rise: when should bad science be culled?",
+      "summary_zh": "来源英文简讯：Decades-old papers are increasingly being pulled from the literature, bringing",
+      "summary_en": "Publisher teaser: Decades-old papers are increasingly being pulled from the literature, bringing",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03621-y",
+      "zh": "Biotech innovations are an opportunity to limit climate change",
+      "en": "Biotech innovations are an opportunity to limit climate change",
+      "summary_zh": "来源英文简讯：Agricultural biotechnology once found itself in opposition to environmental science. Now it could reduce the",
+      "summary_en": "Publisher teaser: Agricultural biotechnology once found itself in opposition to environmental science. Now it could reduce the",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03591-1",
+      "zh": "Getting a grasp on the global wildlife trade",
+      "en": "Getting a grasp on the global wildlife trade",
+      "summary_zh": "来源英文简讯：A study reports that about 107,000 species are traded worldwide, legally or illegally — more than",
+      "summary_en": "Publisher teaser: A study reports that about 107,000 species are traded worldwide, legally or illegally — more than",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03536-8",
+      "zh": "Rattlesnakes have personalities too — to venomous effect",
+      "en": "Rattlesnakes have personalities too — to venomous effect",
+      "summary_zh": "来源英文简讯：A snake’s defensiveness might affect how much venom it produces in a laboratory test.",
+      "summary_en": "Publisher teaser: A snake’s defensiveness might affect how much venom it produces in a laboratory test.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03515-z",
+      "zh": "How to avoid aliens and live",
+      "en": "How to avoid aliens and live",
+      "summary_zh": "来源英文简讯：Silence is golden.",
+      "summary_en": "Publisher teaser: Silence is golden.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03499-w",
+      "zh": "Earth’s early history told by 3.9-billion-year-old rocks from northern China",
+      "en": "Earth’s early history told by 3.9-billion-year-old rocks from northern China",
+      "summary_zh": "来源英文简讯：Ancient rocks in northern China reveal that by 3.95 billion years ago, surface-altered oceanic",
+      "summary_en": "Publisher teaser: Ancient rocks in northern China reveal that by 3.95 billion years ago, surface-altered oceanic",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03496-z",
+      "zh": "Cacti are severely threatened by drought in a warming world",
+      "en": "Cacti are severely threatened by drought in a warming world",
+      "summary_zh": "来源英文简讯：Forecasts of the effects that climate change will have on biodiversity typically rely on",
+      "summary_en": "Publisher teaser: Forecasts of the effects that climate change will have on biodiversity typically rely on",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03489-y",
+      "zh": "Salty grains in Saturn’s outermost ring formed from the slow freeze of plumes from the moon Enceladus",
+      "en": "Salty grains in Saturn’s outermost ring formed from the slow freeze of plumes from the moon Enceladus",
+      "summary_zh": "来源英文简讯：One of Saturn’s rings consists of a",
+      "summary_en": "Publisher teaser: One of Saturn’s rings consists of a",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03448-7",
+      "zh": "Author or just ‘acknowledged’? How women are not gaining full credit for research",
+      "en": "Author or just ‘acknowledged’? How women are not gaining full credit for research",
+      "summary_zh": "来源英文简讯：An analysis of who is more likely to get authorship than",
+      "summary_en": "Publisher teaser: An analysis of who is more likely to get authorship than",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03441-0",
+      "zh": "A guide to Nature Index tables",
+      "en": "A guide to Nature Index tables",
+      "summary_zh": "来源英文简讯：Information on the methodology used in the ranking for the 2026 Nature Spotlight: Energy.",
+      "summary_en": "Publisher teaser: Information on the methodology used in the ranking for the 2026 Nature Spotlight: Energy.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03428-x",
+      "zh": "Proteins that form the nuclear pore barrier move like liquids",
+      "en": "Proteins that form the nuclear pore barrier move like liquids",
+      "summary_zh": "来源英文简讯：Nuclear pores control molecular traffic into and out of the cell nucleus. Measurements in",
+      "summary_en": "Publisher teaser: Nuclear pores control molecular traffic into and out of the cell nucleus. Measurements in",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03425-0",
+      "zh": "Proposed approach for diagnosing obesity outperforms old method",
+      "en": "Proposed approach for diagnosing obesity outperforms old method",
+      "summary_zh": "来源英文简讯：A framework for diagnosing obesity that was proposed in 2025 incorporates waist circumference and related measures",
+      "summary_en": "Publisher teaser: A framework for diagnosing obesity that was proposed in 2025 incorporates waist circumference and related measures",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03412-5",
+      "zh": "AI’s energy paradox: will the AI boom strain energy systems or be the source of solutions?",
+      "en": "AI’s energy paradox: will the AI boom strain energy systems or be the source of solutions?",
+      "summary_zh": "来源英文简讯：Ginelle Greene-Dewasmes is leading a community of interdisciplinary",
+      "summary_en": "Publisher teaser: Ginelle Greene-Dewasmes is leading a community of interdisciplinary",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03409-0",
+      "zh": "Can green technologies deliver energy security in an unstable world?",
+      "en": "Can green technologies deliver energy security in an unstable world?",
+      "summary_zh": "来源英文简讯：As global energy markets grapple with a period of sustained political volatility, researchers are",
+      "summary_en": "Publisher teaser: As global energy markets grapple with a period of sustained political volatility, researchers are",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03274-x",
+      "zh": "Personal incentives for public officials drove a drop in China’s fertility",
+      "en": "Personal incentives for public officials drove a drop in China’s fertility",
+      "summary_zh": "来源英文简讯：Once the promotion prospects of bureaucrats became tied to birth targets, the country’s",
+      "summary_en": "Publisher teaser: Once the promotion prospects of bureaucrats became tied to birth targets, the country’s",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03272-z",
+      "zh": "Extraordinary materials shaped by the principles of complex networks",
+      "en": "Extraordinary materials shaped by the principles of complex networks",
+      "summary_zh": "来源英文简讯：Network science has inspired the design of materials that spread out their deformation when a",
+      "summary_en": "Publisher teaser: Network science has inspired the design of materials that spread out their deformation when a",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-11",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03183-z",
+      "zh": "How I balance my life as a professional surfer and a university researcher",
+      "en": "How I balance my life as a professional surfer and a university researcher",
+      "summary_zh": "来源英文简讯：Cliff Kapono shares his advice on ways to navigate and grow",
+      "summary_en": "Publisher teaser: Cliff Kapono shares his advice on ways to navigate and grow",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-06",
       "source": "Science",
