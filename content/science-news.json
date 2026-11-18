@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-18T02:35:55.930931+08:00",
+  "checked_at": "2026-11-18T16:32:10.232134+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 65
+      "matching_items": 67
     },
     "Science": {
       "ok": true,
@@ -17,6 +17,46 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-17",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/u-k-seizes-once-lifetime-research-opportunity-ahead-social-media-ban",
+      "zh": "U.K. seizes ‘once-in-a-lifetime’ research opportunity ahead of social media ban",
+      "en": "U.K. seizes ‘once-in-a-lifetime’ research opportunity ahead of social media ban",
+      "summary_zh": "来源英文简讯：Ten studies will track mental health before and after kids are booted from platforms",
+      "summary_en": "Publisher teaser: Ten studies will track mental health before and after kids are booted from platforms",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/senate-bill-gives-nih-500-million-raise-2027",
+      "zh": "Senate bill gives NIH a $500 million raise in 2027",
+      "en": "Senate bill gives NIH a $500 million raise in 2027",
+      "summary_zh": "来源英文简讯：Research advocates pleased by 1% increase to $49 billion, but urge Congress to block",
+      "summary_en": "Publisher teaser: Research advocates pleased by 1% increase to $49 billion, but urge Congress to block",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/it-s-not-just-u-s-measles-roaring-back-around-globe",
+      "zh": "It’s not just the U.S. Measles is roaring back around the globe",
+      "en": "It’s not just the U.S. Measles is roaring back around the globe",
+      "summary_zh": "来源英文简讯：Eroding trust, decreased funding, and political strife have fanned the flames of",
+      "summary_en": "Publisher teaser: Eroding trust, decreased funding, and political strife have fanned the flames of",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/europe-s-wealthy-women-stopped-flaunting-their-curves-over-centuries-portraits-reveal",
+      "zh": "Europe’s wealthy women stopped flaunting their curves over the centuries, portraits reveal",
+      "en": "Europe’s wealthy women stopped flaunting their curves over the centuries, portraits reveal",
+      "summary_zh": "来源英文简讯：Researchers use hundreds of historical paintings to track how beauty standards shifted",
+      "summary_en": "Publisher teaser: Researchers use hundreds of historical paintings to track how beauty standards shifted",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-17",
       "source": "Nature",
@@ -40,11 +80,31 @@
     {
       "date": "2026-11-17",
       "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03750-4",
+      "zh": "Meet the ‘celestial bodies of fathomless powerful darkness’",
+      "en": "Meet the ‘celestial bodies of fathomless powerful darkness’",
+      "summary_zh": "来源英文简讯：Astronomers report a rare pair of extremely bright black holes that were gobbling gas less than",
+      "summary_en": "Publisher teaser: Astronomers report a rare pair of extremely bright black holes that were gobbling gas less than",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03749-x",
       "zh": "Dinosaur’s rest break leaves a lasting impression",
       "en": "Dinosaur’s rest break leaves a lasting impression",
       "summary_zh": "来源英文简讯：A fossilized print records marks left by the feet and bum of a juvenile reptile that measured",
       "summary_en": "Publisher teaser: A fossilized print records marks left by the feet and bum of a juvenile reptile that measured",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03747-z",
+      "zh": "Measles is back in the US: what worries scientists",
+      "en": "Measles is back in the US: what worries scientists",
+      "summary_zh": "来源英文简讯：Outbreak in the United States that has killed both adults and children increases risk of",
+      "summary_en": "Publisher teaser: Outbreak in the United States that has killed both adults and children increases risk of",
       "rss_preview": true
     },
     {
