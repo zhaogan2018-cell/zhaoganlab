@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-18T16:32:10.232134+08:00",
+  "checked_at": "2026-11-19T02:02:09.675109+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 67
+      "matching_items": 47
     },
     "Science": {
       "ok": true,
@@ -17,6 +17,186 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-18",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/last-remaining-nih-owned-chimpanzees-will-retire-sanctuary-next-year",
+      "zh": "Last remaining NIH-owned chimpanzees will retire to a sanctuary next year",
+      "en": "Last remaining NIH-owned chimpanzees will retire to a sanctuary next year",
+      "summary_zh": "来源英文简讯：Transfer of 33 animals from a research facility is the culmination of a",
+      "summary_en": "Publisher teaser: Transfer of 33 animals from a research facility is the culmination of a",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03784-8",
+      "zh": "First observation of a giant star swallowing its neighbour",
+      "en": "First observation of a giant star swallowing its neighbour",
+      "summary_zh": "来源英文简讯：Finding provides new insights into what happens within stellar mergers — plus, using quantum physics",
+      "summary_en": "Publisher teaser: Finding provides new insights into what happens within stellar mergers — plus, using quantum physics",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03777-7",
+      "zh": "Kings of the jungle? This early human had surprising survival skills that rivalled ours",
+      "en": "Kings of the jungle? This early human had surprising survival skills that rivalled ours",
+      "summary_zh": "来源英文简讯：Teeth found in south China challenge the idea that Homo",
+      "summary_en": "Publisher teaser: Teeth found in south China challenge the idea that Homo",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03766-w",
+      "zh": "Meet ‘egoviruses’: the surprise microbes living in the guts of millions of people",
+      "en": "Meet ‘egoviruses’: the surprise microbes living in the guts of millions of people",
+      "summary_zh": "来源英文简讯：Egoviruses could be the evolutionary missing link between giant viruses that",
+      "summary_en": "Publisher teaser: Egoviruses could be the evolutionary missing link between giant viruses that",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03717-5",
+      "zh": "AI must be held accountable — value statements won’t protect human dignity",
+      "en": "AI must be held accountable — value statements won’t protect human dignity",
+      "summary_zh": "来源英文简讯：Technology companies can’t be the judges of their own regulatory compliance. Centuries",
+      "summary_en": "Publisher teaser: Technology companies can’t be the judges of their own regulatory compliance. Centuries",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03710-y",
+      "zh": "Microbiome home tests are taking off. Can they be trusted?",
+      "en": "Microbiome home tests are taking off. Can they be trusted?",
+      "summary_zh": "来源英文简讯：Our reporter mailed off her poo to find out what two companies say about",
+      "summary_en": "Publisher teaser: Our reporter mailed off her poo to find out what two companies say about",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03708-6",
+      "zh": "How to make AI data centres more sustainable",
+      "en": "How to make AI data centres more sustainable",
+      "summary_zh": "来源英文简讯：Tech companies and governments face opposition over data centres’ expansion, in part because of their huge",
+      "summary_en": "Publisher teaser: Tech companies and governments face opposition over data centres’ expansion, in part because of their huge",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03689-6",
+      "zh": "A grant to hand out more grants — and build a research area",
+      "en": "A grant to hand out more grants — and build a research area",
+      "summary_zh": "来源英文简讯：A rapid microgrants scheme called the Field Building Accelerator aims to",
+      "summary_en": "Publisher teaser: A rapid microgrants scheme called the Field Building Accelerator aims to",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03678-9",
+      "zh": "Conference networking made simple, in three short videos",
+      "en": "Conference networking made simple, in three short videos",
+      "summary_zh": "来源英文简讯：Working the room is a skill you can practise and prepare for. Here’s how.",
+      "summary_en": "Publisher teaser: Working the room is a skill you can practise and prepare for. Here’s how.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03602-1",
+      "zh": "Tropical land-use intensification reshapes biodiversity in expected and unexpected ways",
+      "en": "Tropical land-use intensification reshapes biodiversity in expected and unexpected ways",
+      "summary_zh": "来源英文简讯：Global agricultural demand has increased over the past few decades, driving land-use intensification in",
+      "summary_en": "Publisher teaser: Global agricultural demand has increased over the past few decades, driving land-use intensification in",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03599-7",
+      "zh": "Injured locusts heal or are cannibalized depending on levels of a bacterial odour molecule",
+      "en": "Injured locusts heal or are cannibalized depending on levels of a bacterial odour molecule",
+      "summary_zh": "来源英文简讯：When migratory locusts are injured, an odorous chemical produced by",
+      "summary_en": "Publisher teaser: When migratory locusts are injured, an odorous chemical produced by",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03517-x",
+      "zh": "The right to do wrong",
+      "en": "The right to do wrong",
+      "summary_zh": "来源英文简讯：An equal chance.",
+      "summary_en": "Publisher teaser: An equal chance.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03490-5",
+      "zh": "A new view of Amazonian leaf seasonality",
+      "en": "A new view of Amazonian leaf seasonality",
+      "summary_zh": "来源英文简讯：Much of the Amazon rainforest was thought to be evergreen, but high-resolution satellite imagery reveals that many",
+      "summary_en": "Publisher teaser: Much of the Amazon rainforest was thought to be evergreen, but high-resolution satellite imagery reveals that many",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03436-x",
+      "zh": "Poxviruses probably evolved in the digestive system of animals",
+      "en": "Poxviruses probably evolved in the digestive system of animals",
+      "summary_zh": "来源英文简讯：Large and giant DNA viruses that infect unicellular eukaryotes are abundant in the environment but",
+      "summary_en": "Publisher teaser: Large and giant DNA viruses that infect unicellular eukaryotes are abundant in the environment but",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03378-4",
+      "zh": "Quantum physics can prove where you are",
+      "en": "Quantum physics can prove where you are",
+      "summary_zh": "来源英文简讯：Demonstrating your location to someone far away is surprisingly hard. Quantum correlations offer a way to do",
+      "summary_en": "Publisher teaser: Demonstrating your location to someone far away is surprisingly hard. Quantum correlations offer a way to do",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03377-5",
+      "zh": "Glucose-powered implant brings devices for treating diabetes a step closer",
+      "en": "Glucose-powered implant brings devices for treating diabetes a step closer",
+      "summary_zh": "来源英文简讯：A device that stimulates the main nerve between the brain and the internal organs",
+      "summary_en": "Publisher teaser: A device that stimulates the main nerve between the brain and the internal organs",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03273-y",
+      "zh": "Intra-stellar: a star inside a giant star",
+      "en": "Intra-stellar: a star inside a giant star",
+      "summary_zh": "来源英文简讯：Long-term monitoring of a giant star in the Andromeda galaxy reveals, for the first time, the decay",
+      "summary_en": "Publisher teaser: Long-term monitoring of a giant star in the Andromeda galaxy reveals, for the first time, the decay",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03040-z",
+      "zh": "Are you a budding science sleuth? Take our plagiarism quiz to test your skills",
+      "en": "Are you a budding science sleuth? Take our plagiarism quiz to test your skills",
+      "summary_zh": "来源英文简讯：Sleuths and publishers seize on ‘tortured phrases’ to detect research",
+      "summary_en": "Publisher teaser: Sleuths and publishers seize on ‘tortured phrases’ to detect research",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-17",
       "source": "Science",
@@ -181,10 +361,10 @@
       "date": "2026-11-17",
       "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03672-1",
-      "zh": "Voyager 1 is about to achieve a cosmic first: one ‘light day’ from Earth",
-      "en": "Voyager 1 is about to achieve a cosmic first: one ‘light day’ from Earth",
-      "summary_zh": "来源英文简讯：Its power supply is faltering and most of its instruments",
-      "summary_en": "Publisher teaser: Its power supply is faltering and most of its instruments",
+      "zh": "Voyager 1 achieves a cosmic first: one ‘light day’ from Earth",
+      "en": "Voyager 1 achieves a cosmic first: one ‘light day’ from Earth",
+      "summary_zh": "来源英文简讯：Its power supply is faltering and most of its instruments are off, but",
+      "summary_en": "Publisher teaser: Its power supply is faltering and most of its instruments are off, but",
       "rss_preview": true
     },
     {
