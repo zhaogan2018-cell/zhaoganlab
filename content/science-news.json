@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-19T16:46:59.035236+08:00",
+  "checked_at": "2026-11-20T02:16:13.436480+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 47
+      "matching_items": 43
     },
     "Science": {
       "ok": true,
@@ -17,6 +17,96 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-19",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/china-importing-thousands-research-primates-sparking-fears-monkey-trade-war",
+      "zh": "China is importing thousands of research primates, sparking fears of monkey trade war",
+      "en": "China is importing thousands of research primates, sparking fears of monkey trade war",
+      "summary_zh": "来源英文简讯：Animals are coming from Cambodia, which has been accused of laundering",
+      "summary_en": "Publisher teaser: Animals are coming from Cambodia, which has been accused of laundering",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-19",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03788-4",
+      "zh": "Anthropic IPO: four ways the AI giant wants to disrupt science",
+      "en": "Anthropic IPO: four ways the AI giant wants to disrupt science",
+      "summary_zh": "来源英文简讯：The firm aims to cure diseases, accelerate discovery and automate science — but",
+      "summary_en": "Publisher teaser: The firm aims to cure diseases, accelerate discovery and automate science — but",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-19",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03783-9",
+      "zh": "People entering old age now have better memory than their parents did",
+      "en": "People entering old age now have better memory than their parents did",
+      "summary_zh": "来源英文简讯：Older people today maintain memory function for longer than previous generations did,",
+      "summary_en": "Publisher teaser: Older people today maintain memory function for longer than previous generations did,",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-19",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03775-9",
+      "zh": "AI is turbocharging cyberattacks — can computer scientists catch up?",
+      "en": "AI is turbocharging cyberattacks — can computer scientists catch up?",
+      "summary_zh": "来源英文简讯：Cybersecurity researchers who don’t use the technology for spotting software bugs now 'risk falling",
+      "summary_en": "Publisher teaser: Cybersecurity researchers who don’t use the technology for spotting software bugs now 'risk falling",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-19",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03774-w",
+      "zh": "Sore throat? The brain has surprising control over how ill you feel",
+      "en": "Sore throat? The brain has surprising control over how ill you feel",
+      "summary_zh": "来源英文简讯：The brain might decode pathogens, store memories of previous illnesses and prepare",
+      "summary_en": "Publisher teaser: The brain might decode pathogens, store memories of previous illnesses and prepare",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-19",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03753-1",
+      "zh": "AI is ditching hallucinated references — and other bad habits",
+      "en": "AI is ditching hallucinated references — and other bad habits",
+      "summary_zh": "来源英文简讯：An analysis finds that many undesirable LLM behaviours dissipate after about 16 months.",
+      "summary_en": "Publisher teaser: An analysis finds that many undesirable LLM behaviours dissipate after about 16 months.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-19",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03748-y",
+      "zh": "More tropical cyclones hit peak fury at the worst possible time",
+      "en": "More tropical cyclones hit peak fury at the worst possible time",
+      "summary_zh": "来源英文简讯：Climate change is creating conditions that pump up the intensity of hurricanes and",
+      "summary_en": "Publisher teaser: Climate change is creating conditions that pump up the intensity of hurricanes and",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-19",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03746-0",
+      "zh": "University students are biggest spreaders of COVID",
+      "en": "University students are biggest spreaders of COVID",
+      "summary_zh": "来源英文简讯：Undergraduates were the first group to spread genetic variants of SARS-CoV-2 during the pandemic, mega-analysis finds.",
+      "summary_en": "Publisher teaser: Undergraduates were the first group to spread genetic variants of SARS-CoV-2 during the pandemic, mega-analysis finds.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-19",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03606-x",
+      "zh": "Bacteria and viruses team up to hasten the demise of algal blooms",
+      "en": "Bacteria and viruses team up to hasten the demise of algal blooms",
+      "summary_zh": "来源英文简讯：Algal blooms are important ecological phenomena that drive carbon fixation and fuel",
+      "summary_en": "Publisher teaser: Algal blooms are important ecological phenomena that drive carbon fixation and fuel",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-18",
       "source": "Science",
@@ -65,6 +155,16 @@
       "en": "Are T cell ‘engagers’ the next big thing in autoimmune disease treatment?",
       "summary_zh": "来源英文简讯：Engineered antibodies may produce remissions and offer safety benefits over cell therapies",
       "summary_en": "Publisher teaser: Engineered antibodies may produce remissions and offer safety benefits over cell therapies",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-18",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03791-9",
+      "zh": "Daily briefing: Can you spot the ‘tortured phrases’?",
+      "en": "Daily briefing: Can you spot the ‘tortured phrases’?",
+      "summary_zh": "来源英文简讯：Take Nature’s quiz to test your skills as a research-integrity sleuth. Plus, a milestone for Voyager",
+      "summary_en": "Publisher teaser: Take Nature’s quiz to test your skills as a research-integrity sleuth. Plus, a milestone for Voyager",
       "rss_preview": true
     },
     {
@@ -275,6 +375,16 @@
       "en": "Europe’s wealthy women stopped flaunting their curves over the centuries, portraits reveal",
       "summary_zh": "来源英文简讯：Researchers use hundreds of historical paintings to track how beauty standards shifted",
       "summary_en": "Publisher teaser: Researchers use hundreds of historical paintings to track how beauty standards shifted",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-17",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03780-y",
+      "zh": "Daily briefing: How vampire bats survive on blood alone",
+      "en": "Daily briefing: How vampire bats survive on blood alone",
+      "summary_zh": "来源英文简讯：The animals rely on specially adapted stomachs. Plus, why children create imaginary friends and a",
+      "summary_en": "Publisher teaser: The animals rely on specially adapted stomachs. Plus, why children create imaginary friends and a",
       "rss_preview": true
     },
     {
