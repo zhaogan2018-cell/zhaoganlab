@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-20T16:31:59.404503+08:00",
+  "checked_at": "2026-11-21T01:47:10.436891+08:00",
   "sources": {
     "Nature": {
       "ok": true,
@@ -20,11 +20,101 @@
     {
       "date": "2026-11-20",
       "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03806-5",
+      "zh": "Briefing Chat: Voyager 1 is now one ‘light day’ from Earth — setting a cosmic record",
+      "en": "Briefing Chat: Voyager 1 is now one ‘light day’ from Earth — setting a cosmic record",
+      "summary_zh": "来源英文简讯：Nature staff discuss the probe’s epic journey —",
+      "summary_en": "Publisher teaser: Nature staff discuss the probe’s epic journey —",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-20",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03805-6",
+      "zh": "‘Incredibly frustrating’: prestigious fellowship applications close in just 21 hours",
+      "en": "‘Incredibly frustrating’: prestigious fellowship applications close in just 21 hours",
+      "summary_zh": "来源英文简讯：The Humboldt Foundation says that applications for its fellowships have increased markedly in the",
+      "summary_en": "Publisher teaser: The Humboldt Foundation says that applications for its fellowships have increased markedly in the",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-20",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03790-w",
+      "zh": "Claude, find me a planet: amateur astronomers are using AI with mixed results",
+      "en": "Claude, find me a planet: amateur astronomers are using AI with mixed results",
+      "summary_zh": "来源英文简讯：Artificial-intelligence tools are helping citizen scientists to identify previously unknown exoplanet",
+      "summary_en": "Publisher teaser: Artificial-intelligence tools are helping citizen scientists to identify previously unknown exoplanet",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-20",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03787-5",
+      "zh": "US science academy urges journals to fix errors more quickly",
+      "en": "US science academy urges journals to fix errors more quickly",
+      "summary_zh": "来源英文简讯：Long-awaited report makes recommendations for strengthening the reliability of the scientific record.",
+      "summary_en": "Publisher teaser: Long-awaited report makes recommendations for strengthening the reliability of the scientific record.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-20",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03776-8",
+      "zh": "Fraud helps little fire ants to survive and conquer",
+      "en": "Fraud helps little fire ants to survive and conquer",
+      "summary_zh": "来源英文简讯：Invasive ants in China overcome larger rivals with a crafty stratagem and vigorous attack.",
+      "summary_en": "Publisher teaser: Invasive ants in China overcome larger rivals with a crafty stratagem and vigorous attack.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-20",
+      "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03751-3",
       "zh": "Lifting weights reduces muscle loss from obesity drugs",
       "en": "Lifting weights reduces muscle loss from obesity drugs",
       "summary_zh": "来源英文简讯：Resistance exercise could help middle-aged and older individuals to maintain muscle mass and strength during weight-loss",
       "summary_en": "Publisher teaser: Resistance exercise could help middle-aged and older individuals to maintain muscle mass and strength during weight-loss",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-20",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03680-1",
+      "zh": "How AI is affecting science careers",
+      "en": "How AI is affecting science careers",
+      "summary_zh": "来源英文简讯：Join a free webinar to discuss how the technology is changing researchers' roles, their skills and job security.",
+      "summary_en": "Publisher teaser: Join a free webinar to discuss how the technology is changing researchers' roles, their skills and job security.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-20",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03590-2",
+      "zh": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
+      "en": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
+      "summary_zh": "来源英文简讯：Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and",
+      "summary_en": "Publisher teaser: Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-20",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03519-9",
+      "zh": "Ruminations on a last movement",
+      "en": "Ruminations on a last movement",
+      "summary_zh": "来源英文简讯：Keeping a note.",
+      "summary_en": "Publisher teaser: Keeping a note.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-20",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03465-6",
+      "zh": "How to turn impostor syndrome into a superpower",
+      "en": "How to turn impostor syndrome into a superpower",
+      "summary_zh": "来源英文简讯：A nagging sense that you don’t belong can keep you grounded and might help to improve",
+      "summary_en": "Publisher teaser: A nagging sense that you don’t belong can keep you grounded and might help to improve",
       "rss_preview": true
     },
     {
@@ -75,6 +165,16 @@
       "en": "Chemists are uncovering a hidden world of pollution",
       "summary_zh": "来源英文简讯：New analytical tools are revealing thousands of chemicals that conventional tests miss",
       "summary_en": "Publisher teaser: New analytical tools are revealing thousands of chemicals that conventional tests miss",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-19",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03797-3",
+      "zh": "Daily briefing: Homo erectus had what it takes to thrive in the rainforest",
+      "en": "Daily briefing: Homo erectus had what it takes to thrive in the rainforest",
+      "summary_zh": "来源英文简讯：Fossil teeth suggest that Homo erectus could live in a habitat",
+      "summary_en": "Publisher teaser: Fossil teeth suggest that Homo erectus could live in a habitat",
       "rss_preview": true
     },
     {
