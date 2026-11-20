@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-20T02:16:13.436480+08:00",
+  "checked_at": "2026-11-20T16:31:59.404503+08:00",
   "sources": {
     "Nature": {
       "ok": true,
@@ -18,6 +18,46 @@
   "summary_mode": "rss_preview",
   "items": [
     {
+      "date": "2026-11-20",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03751-3",
+      "zh": "Lifting weights reduces muscle loss from obesity drugs",
+      "en": "Lifting weights reduces muscle loss from obesity drugs",
+      "summary_zh": "来源英文简讯：Resistance exercise could help middle-aged and older individuals to maintain muscle mass and strength during weight-loss",
+      "summary_en": "Publisher teaser: Resistance exercise could help middle-aged and older individuals to maintain muscle mass and strength during weight-loss",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-19",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/killing-more-sea-lions-won-t-help-endangered-salmon-recover-model-suggests",
+      "zh": "Killing more sea lions won’t help endangered salmon recover, model suggests",
+      "en": "Killing more sea lions won’t help endangered salmon recover, model suggests",
+      "summary_zh": "来源英文简讯：Surprising result contrasts with earlier studies and complicates policy debates about culling",
+      "summary_en": "Publisher teaser: Surprising result contrasts with earlier studies and complicates policy debates about culling",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-19",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/flawed-research-papers-should-be-retracted-faster-u-s-academy-urges",
+      "zh": "Flawed research papers should be retracted faster, U.S. academy urges",
+      "en": "Flawed research papers should be retracted faster, U.S. academy urges",
+      "summary_zh": "来源英文简讯：Report recommends deadlines and destigmatizing errors",
+      "summary_en": "Publisher teaser: Report recommends deadlines and destigmatizing errors",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-19",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/exclusive-i-got-eavesdrop-ai-agents-doing-science-it-was-eye-opening",
+      "zh": "Exclusive: I got to eavesdrop on AI agents doing science. It was eye opening",
+      "en": "Exclusive: I got to eavesdrop on AI agents doing science. It was eye opening",
+      "summary_zh": "来源英文简讯：936 agents exchanged thousands of messages, each publishing end-to-end research",
+      "summary_en": "Publisher teaser: 936 agents exchanged thousands of messages, each publishing end-to-end research",
+      "rss_preview": true
+    },
+    {
       "date": "2026-11-19",
       "source": "Science",
       "url": "https://www.science.org/content/article/china-importing-thousands-research-primates-sparking-fears-monkey-trade-war",
@@ -25,6 +65,16 @@
       "en": "China is importing thousands of research primates, sparking fears of monkey trade war",
       "summary_zh": "来源英文简讯：Animals are coming from Cambodia, which has been accused of laundering",
       "summary_en": "Publisher teaser: Animals are coming from Cambodia, which has been accused of laundering",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-19",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/chemists-are-uncovering-hidden-world-pollution",
+      "zh": "Chemists are uncovering a hidden world of pollution",
+      "en": "Chemists are uncovering a hidden world of pollution",
+      "summary_zh": "来源英文简讯：New analytical tools are revealing thousands of chemicals that conventional tests miss",
+      "summary_en": "Publisher teaser: New analytical tools are revealing thousands of chemicals that conventional tests miss",
       "rss_preview": true
     },
     {
@@ -105,6 +155,16 @@
       "en": "Bacteria and viruses team up to hasten the demise of algal blooms",
       "summary_zh": "来源英文简讯：Algal blooms are important ecological phenomena that drive carbon fixation and fuel",
       "summary_en": "Publisher teaser: Algal blooms are important ecological phenomena that drive carbon fixation and fuel",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-19",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03379-3",
+      "zh": "What do various cancers have in common?",
+      "en": "What do various cancers have in common?",
+      "summary_zh": "来源英文简讯：An analysis of 42 cancer types reveals shared patterns of gene activity in the tumour microenvironment, which",
+      "summary_en": "Publisher teaser: An analysis of 42 cancer types reveals shared patterns of gene activity in the tumour microenvironment, which",
       "rss_preview": true
     },
     {
