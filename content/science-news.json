@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-21T01:47:10.436891+08:00",
+  "checked_at": "2026-11-21T16:16:23.392968+08:00",
   "sources": {
     "Nature": {
       "ok": true,
@@ -17,6 +17,46 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-20",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/scientists-control-virtual-fruit-fly-map-insect-s-brain",
+      "zh": "Scientists control a virtual fruit fly with map of insect’s brain",
+      "en": "Scientists control a virtual fruit fly with map of insect’s brain",
+      "summary_zh": "来源英文简讯：Modeling effort aims to predict how neuron activity drives animal movement",
+      "summary_en": "Publisher teaser: Modeling effort aims to predict how neuron activity drives animal movement",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-20",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer",
+      "zh": "AI may have solved math’s greatest mystery. Can humans understand the answer?",
+      "en": "AI may have solved math’s greatest mystery. Can humans understand the answer?",
+      "summary_zh": "来源英文简讯：Anthropic researcher says Claude cracked 166-year-old Riemann hypothesis, but sprawling proof could",
+      "summary_en": "Publisher teaser: Anthropic researcher says Claude cracked 166-year-old Riemann hypothesis, but sprawling proof could",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-20",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03812-7",
+      "zh": "Mathematician says he and AI solved Riemann hypothesis — the field’s biggest outstanding challenge",
+      "en": "Mathematician says he and AI solved Riemann hypothesis — the field’s biggest outstanding challenge",
+      "summary_zh": "来源英文简讯：Scholars say that the claim to have derived a proof",
+      "summary_en": "Publisher teaser: Scholars say that the claim to have derived a proof",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-20",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03811-8",
+      "zh": "These gaps in weather data affect forecasts everywhere: plugging them is not charity",
+      "en": "These gaps in weather data affect forecasts everywhere: plugging them is not charity",
+      "summary_zh": "来源英文简讯：Investing in observations in low-income countries will help to prevent climate",
+      "summary_en": "Publisher teaser: Investing in observations in low-income countries will help to prevent climate",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-20",
       "source": "Nature",
@@ -40,11 +80,31 @@
     {
       "date": "2026-11-20",
       "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03799-1",
+      "zh": "Sleuth finds ‘impossible proteins’ in hundreds of research papers",
+      "en": "Sleuth finds ‘impossible proteins’ in hundreds of research papers",
+      "summary_zh": "来源英文简讯：Investigation exposes a potentially widespread problem, prompting retractions and corrections.",
+      "summary_en": "Publisher teaser: Investigation exposes a potentially widespread problem, prompting retractions and corrections.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-20",
+      "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03790-w",
       "zh": "Claude, find me a planet: amateur astronomers are using AI with mixed results",
       "en": "Claude, find me a planet: amateur astronomers are using AI with mixed results",
       "summary_zh": "来源英文简讯：Artificial-intelligence tools are helping citizen scientists to identify previously unknown exoplanet",
       "summary_en": "Publisher teaser: Artificial-intelligence tools are helping citizen scientists to identify previously unknown exoplanet",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-20",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03789-3",
+      "zh": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
+      "en": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
+      "summary_zh": "来源英文简讯：Countries are starting to grapple with the reality that bringing",
+      "summary_en": "Publisher teaser: Countries are starting to grapple with the reality that bringing",
       "rss_preview": true
     },
     {
