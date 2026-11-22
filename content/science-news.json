@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-22T00:46:37.882308+08:00",
+  "checked_at": "2026-11-22T15:58:48.901230+08:00",
   "sources": {
     "Nature": {
       "ok": true,
@@ -17,6 +17,16 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-21",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03803-8",
+      "zh": "BepiColombo finally reaches Mercury after eight-year odyssey",
+      "en": "BepiColombo finally reaches Mercury after eight-year odyssey",
+      "summary_zh": "来源英文简讯：European and Japanese probes will trace different paths around the planet to study its surface and its",
+      "summary_en": "Publisher teaser: European and Japanese probes will trace different paths around the planet to study its surface and its",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-20",
       "source": "Science",
@@ -41,10 +51,10 @@
       "date": "2026-11-20",
       "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03812-7",
-      "zh": "Mathematician says he and AI solved Riemann hypothesis — the field’s biggest outstanding challenge",
-      "en": "Mathematician says he and AI solved Riemann hypothesis — the field’s biggest outstanding challenge",
-      "summary_zh": "来源英文简讯：Scholars say that the claim to have derived a proof",
-      "summary_en": "Publisher teaser: Scholars say that the claim to have derived a proof",
+      "zh": "Mathematicians astounded by AI and human-written proofs of iconic Riemann hypothesis",
+      "en": "Mathematicians astounded by AI and human-written proofs of iconic Riemann hypothesis",
+      "summary_zh": "来源英文简讯：Scholars say that the rival claims to have derived a proof for a",
+      "summary_en": "Publisher teaser: Scholars say that the rival claims to have derived a proof for a",
       "rss_preview": true
     },
     {
