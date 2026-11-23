@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-23T17:01:18.684829+08:00",
+  "checked_at": "2026-11-24T05:20:34.187440+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 43
+      "matching_items": 52
     },
     "Science": {
       "ok": true,
@@ -17,6 +17,116 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-23",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/tiny-tracking-device-documents-record-breaking-hummingbird-journey",
+      "zh": "Tiny tracking device documents a record-breaking hummingbird journey",
+      "en": "Tiny tracking device documents a record-breaking hummingbird journey",
+      "summary_zh": "来源英文简讯：Solar-powered transmitter allows researchers to follow a bird’s 6526-kilometer migration from Alabama to Alaska",
+      "summary_en": "Publisher teaser: Solar-powered transmitter allows researchers to follow a bird’s 6526-kilometer migration from Alabama to Alaska",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-23",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/fire-brazilian-university-scorches-research-debilitating-mosquito-borne-disease",
+      "zh": "Fire at Brazilian university scorches research into debilitating mosquito-borne disease",
+      "en": "Fire at Brazilian university scorches research into debilitating mosquito-borne disease",
+      "summary_zh": "来源英文简讯：More than 80,000 samples from patients with chikungunya were lost when fire struck the",
+      "summary_en": "Publisher teaser: More than 80,000 samples from patients with chikungunya were lost when fire struck the",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-23",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/both-poles-warm-water-eating-away-sea-ice-below",
+      "zh": "At both poles, warm water is eating away sea ice from below",
+      "en": "At both poles, warm water is eating away sea ice from below",
+      "summary_zh": "来源英文简讯：A weakened cold layer has put Antarctic sea ice on the same",
+      "summary_en": "Publisher teaser: A weakened cold layer has put Antarctic sea ice on the same",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-23",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03818-1",
+      "zh": "How to make climate anxiety your superpower",
+      "en": "How to make climate anxiety your superpower",
+      "summary_zh": "来源英文简讯：Climate change can provoke anxiety in many. Here’s how one Nature reporter channelled his anxiety into action.",
+      "summary_en": "Publisher teaser: Climate change can provoke anxiety in many. Here’s how one Nature reporter channelled his anxiety into action.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-23",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03808-3",
+      "zh": "Chemistry giant George Whitesides dies: one of the most influential researchers of his generation",
+      "en": "Chemistry giant George Whitesides dies: one of the most influential researchers of his generation",
+      "summary_zh": "来源英文简讯：Beloved intellectual mentored hundreds of scientists and switched fields many",
+      "summary_en": "Publisher teaser: Beloved intellectual mentored hundreds of scientists and switched fields many",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-23",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03795-5",
+      "zh": "How AI shocks are rattling the next generation of mathematicians — in charts",
+      "en": "How AI shocks are rattling the next generation of mathematicians — in charts",
+      "summary_zh": "来源英文简讯：Students are markedly less optimistic about the technology than their professors,",
+      "summary_en": "Publisher teaser: Students are markedly less optimistic about the technology than their professors,",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-23",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03724-6",
+      "zh": "Is trust in science falling, or does it just feel that way?",
+      "en": "Is trust in science falling, or does it just feel that way?",
+      "summary_zh": "来源英文简讯：Half of the scientists who took Nature’s survey felt that trust in",
+      "summary_en": "Publisher teaser: Half of the scientists who took Nature’s survey felt that trust in",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-23",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03722-8",
+      "zh": "Build for the future climate — or waste trillions of dollars",
+      "en": "Build for the future climate — or waste trillions of dollars",
+      "summary_zh": "来源英文简讯：Development planning needs a permanent system that connects climate projections to the decisions",
+      "summary_en": "Publisher teaser: Development planning needs a permanent system that connects climate projections to the decisions",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-23",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03721-9",
+      "zh": "Ayanna Howard thinks ‘everyone has to be part of’ building ethical AI tools",
+      "en": "Ayanna Howard thinks ‘everyone has to be part of’ building ethical AI tools",
+      "summary_zh": "来源英文简讯：The researcher and educator explains why she’s optimistic about the future",
+      "summary_en": "Publisher teaser: The researcher and educator explains why she’s optimistic about the future",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-23",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03720-w",
+      "zh": "‘Mozart of maths’ Terence Tao is your guide to what underpins reality",
+      "en": "‘Mozart of maths’ Terence Tao is your guide to what underpins reality",
+      "summary_zh": "来源英文简讯：A Fields Medallist reveals how curiosity about numbers can lead to solutions",
+      "summary_en": "Publisher teaser: A Fields Medallist reveals how curiosity about numbers can lead to solutions",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-23",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02203-2",
+      "zh": "I t’s our duty to promote ourselves: even to other scientists. Am I wrong?",
+      "en": "I t’s our duty to promote ourselves: even to other scientists. Am I wrong?",
+      "summary_zh": "来源英文简讯：A jury weighs in on whether it’s a researcher’s responsibility",
+      "summary_en": "Publisher teaser: A jury weighs in on whether it’s a researcher’s responsibility",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-21",
       "source": "Nature",
@@ -45,6 +155,16 @@
       "en": "AI may have solved math’s greatest mystery. Can humans understand the answer?",
       "summary_zh": "来源英文简讯：Anthropic researcher says Claude cracked 166-year-old Riemann hypothesis, but sprawling proof could",
       "summary_en": "Publisher teaser: Anthropic researcher says Claude cracked 166-year-old Riemann hypothesis, but sprawling proof could",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-20",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03816-3",
+      "zh": "Daily briefing: Older people are staying sharp for longer",
+      "en": "Daily briefing: Older people are staying sharp for longer",
+      "summary_zh": "来源英文简讯：Being ‘old’ isn’t what it used to be. Plus, the first observation of a giant",
+      "summary_en": "Publisher teaser: Being ‘old’ isn’t what it used to be. Plus, the first observation of a giant",
       "rss_preview": true
     },
     {
