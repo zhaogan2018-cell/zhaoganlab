@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-24T05:20:34.187440+08:00",
+  "checked_at": "2026-11-24T18:54:18.631389+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 52
+      "matching_items": 57
     },
     "Science": {
       "ok": true,
@@ -17,6 +17,46 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03825-2",
+      "zh": "Himalayan disasters demand biodiversity conservation across borders",
+      "en": "Himalayan disasters demand biodiversity conservation across borders",
+      "summary_zh": "来源英文简讯：Himalayan disasters demand biodiversity conservation across borders",
+      "summary_en": "Publisher teaser: Himalayan disasters demand biodiversity conservation across borders",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03824-3",
+      "zh": "Fight AI slop without punishing legitimate researchers",
+      "en": "Fight AI slop without punishing legitimate researchers",
+      "summary_zh": "来源英文简讯：Fight AI slop without punishing legitimate researchers",
+      "summary_en": "Publisher teaser: Fight AI slop without punishing legitimate researchers",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03823-4",
+      "zh": "Submission caps aren’t enough to tackle AI slop",
+      "en": "Submission caps aren’t enough to tackle AI slop",
+      "summary_zh": "来源英文简讯：Submission caps aren’t enough to tackle AI slop",
+      "summary_en": "Publisher teaser: Submission caps aren’t enough to tackle AI slop",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03822-5",
+      "zh": "The science on AI consciousness must acknowledge uncertainty",
+      "en": "The science on AI consciousness must acknowledge uncertainty",
+      "summary_zh": "来源英文简讯：The science on AI consciousness must acknowledge uncertainty",
+      "summary_en": "Publisher teaser: The science on AI consciousness must acknowledge uncertainty",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-23",
       "source": "Science",
@@ -45,6 +85,16 @@
       "en": "At both poles, warm water is eating away sea ice from below",
       "summary_zh": "来源英文简讯：A weakened cold layer has put Antarctic sea ice on the same",
       "summary_en": "Publisher teaser: A weakened cold layer has put Antarctic sea ice on the same",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-23",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03827-0",
+      "zh": "COP31 went down in flames over fossil fuels — it sends an important message",
+      "en": "COP31 went down in flames over fossil fuels — it sends an important message",
+      "summary_zh": "来源英文简讯：Nature reporter James Dinneen reflects on the first international climate",
+      "summary_en": "Publisher teaser: Nature reporter James Dinneen reflects on the first international climate",
       "rss_preview": true
     },
     {
