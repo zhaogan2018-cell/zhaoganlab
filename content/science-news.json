@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-24T18:54:18.631389+08:00",
+  "checked_at": "2026-11-25T17:51:19.949650+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 57
+      "matching_items": 64
     },
     "Science": {
       "ok": true,
@@ -17,6 +17,86 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-24",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/when-will-insect-size-robots-be-able-fly-beyond-lab",
+      "zh": "When will insect-size robots be able to fly beyond the lab?",
+      "en": "When will insect-size robots be able to fly beyond the lab?",
+      "summary_zh": "来源英文简讯：With a bit more grit, agility, and independence, the tiny machines could find",
+      "summary_en": "Publisher teaser: With a bit more grit, agility, and independence, the tiny machines could find",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/scientists-scramble-track-lead-plume-planned-u-s-army-blast",
+      "zh": "Scientists scramble to track lead plume from planned U.S. Army blast",
+      "en": "Scientists scramble to track lead plume from planned U.S. Army blast",
+      "summary_zh": "来源英文简讯：Unprecedented detonation of lead azide munitions could spread hazardous dust over more than",
+      "summary_en": "Publisher teaser: Unprecedented detonation of lead azide munitions could spread hazardous dust over more than",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/national-academies-corrects-some-not-all-errors-delayed-retractions-report",
+      "zh": "U.S. National Academies corrects some, but not all, errors in delayed retractions report",
+      "en": "U.S. National Academies corrects some, but not all, errors in delayed retractions report",
+      "summary_zh": "来源英文简讯：Some authors of corrected version are dismayed the changes weren’t discussed",
+      "summary_en": "Publisher teaser: Some authors of corrected version are dismayed the changes weren’t discussed",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/mathathon-reimagines-math-age-ai",
+      "zh": "A ‘Mathathon’ reimagines math in the age of AI",
+      "en": "A ‘Mathathon’ reimagines math in the age of AI",
+      "summary_zh": "来源英文简讯：After near-collapse, event highlights how mathematicians and AI might coexist",
+      "summary_en": "Publisher teaser: After near-collapse, event highlights how mathematicians and AI might coexist",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/enormous-fear-scientist-shares-arrest-ice-despite-pristine-paper-trail",
+      "zh": "‘Enormous fear’: Scientist shares arrest by ICE despite pristine paper trail",
+      "en": "‘Enormous fear’: Scientist shares arrest by ICE despite pristine paper trail",
+      "summary_zh": "来源英文简讯：Impossible visa timelines and delays left Di Liu vulnerable—and may snare other scholars",
+      "summary_en": "Publisher teaser: Impossible visa timelines and delays left Di Liu vulnerable—and may snare other scholars",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03847-w",
+      "zh": "William D. Nordhaus obituary: economist whose tools transformed climate policy",
+      "en": "William D. Nordhaus obituary: economist whose tools transformed climate policy",
+      "summary_zh": "来源英文简讯：Far-sighted researcher who set out how economic growth depends on the environment and how",
+      "summary_en": "Publisher teaser: Far-sighted researcher who set out how economic growth depends on the environment and how",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03836-z",
+      "zh": "Watch out, AlphaFold: Claude and ChatGPT’s new biology skills wow scientists",
+      "en": "Watch out, AlphaFold: Claude and ChatGPT’s new biology skills wow scientists",
+      "summary_zh": "来源英文简讯：Anthropic and OpenAI’s language models can design proteins and predict their sequences and",
+      "summary_en": "Publisher teaser: Anthropic and OpenAI’s language models can design proteins and predict their sequences and",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03829-y",
+      "zh": "Pakistani astronaut to become first foreign visitor to China’s space station",
+      "en": "Pakistani astronaut to become first foreign visitor to China’s space station",
+      "summary_zh": "来源英文简讯：Muhammad Zeeshan Ali is flying this week to the Tiangong module aboard a",
+      "summary_en": "Publisher teaser: Muhammad Zeeshan Ali is flying this week to the Tiangong module aboard a",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-24",
       "source": "Nature",
@@ -58,6 +138,106 @@
       "rss_preview": true
     },
     {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03821-6",
+      "zh": "The brain keeps the score: how trauma leaves molecular scars in cells",
+      "en": "The brain keeps the score: how trauma leaves molecular scars in cells",
+      "summary_zh": "来源英文简讯：Large post-mortem study identifies epigenetic changes in the brain linked to post-traumatic",
+      "summary_en": "Publisher teaser: Large post-mortem study identifies epigenetic changes in the brain linked to post-traumatic",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03810-9",
+      "zh": "‘The worst COP ever’ offers a chance to learn from failure",
+      "en": "‘The worst COP ever’ offers a chance to learn from failure",
+      "summary_zh": "来源英文简讯：COP31 ended without agreement, but consensus-based approaches are essential to solve global issues,",
+      "summary_en": "Publisher teaser: COP31 ended without agreement, but consensus-based approaches are essential to solve global issues,",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03804-7",
+      "zh": "Pregnancy rewires the brain — scientists are finally mapping it",
+      "en": "Pregnancy rewires the brain — scientists are finally mapping it",
+      "summary_zh": "来源英文简讯：Brain scans show what healthy pregnancy looks like, and offer clues about how depression",
+      "summary_en": "Publisher teaser: Brain scans show what healthy pregnancy looks like, and offer clues about how depression",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03725-5",
+      "zh": "Richard of Wallingford and his Rectangulus",
+      "en": "Richard of Wallingford and his Rectangulus",
+      "summary_zh": "来源英文简讯：The life of the man who brought trigonometry to England, and experiments begin on a newly completed accelerator",
+      "summary_en": "Publisher teaser: The life of the man who brought trigonometry to England, and experiments begin on a newly completed accelerator",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03723-7",
+      "zh": "Blend public cash and private innovation to unlock drug development",
+      "en": "Blend public cash and private innovation to unlock drug development",
+      "summary_zh": "来源英文简讯：Common health conditions lack medicines and treatments because industry finds them too risky to",
+      "summary_en": "Publisher teaser: Common health conditions lack medicines and treatments because industry finds them too risky to",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03719-3",
+      "zh": "AI is ‘the end of mathematics as we know it’ — where does the field go next?",
+      "en": "AI is ‘the end of mathematics as we know it’ — where does the field go next?",
+      "summary_zh": "来源英文简讯：Mathematicians are bracing for a future when",
+      "summary_en": "Publisher teaser: Mathematicians are bracing for a future when",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03667-y",
+      "zh": "Menopause can speed up brain ageing — hormone therapy might protect it",
+      "en": "Menopause can speed up brain ageing — hormone therapy might protect it",
+      "summary_zh": "来源英文简讯：Studies are revealing how menopause can also affect the progression of Alzheimer’s",
+      "summary_en": "Publisher teaser: Studies are revealing how menopause can also affect the progression of Alzheimer’s",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03542-w",
+      "zh": "Who did figure 3? Why scientists should make experimental contributions visible",
+      "en": "Who did figure 3? Why scientists should make experimental contributions visible",
+      "summary_zh": "来源英文简讯：Research papers rarely make plain which authors performed which experiments. That’s a missed",
+      "summary_en": "Publisher teaser: Research papers rarely make plain which authors performed which experiments. That’s a missed",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03381-9",
+      "zh": "How acidic compounds in human sweat open a mosquito ion channel",
+      "en": "How acidic compounds in human sweat open a mosquito ion channel",
+      "summary_zh": "来源英文简讯：Structures of a mosquito receptor bound to acids from human skin could inspire",
+      "summary_en": "Publisher teaser: Structures of a mosquito receptor bound to acids from human skin could inspire",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03380-w",
+      "zh": "Mini microscope captures brain activity while mice are on the go",
+      "en": "Mini microscope captures brain activity while mice are on the go",
+      "summary_zh": "来源英文简讯：A head-mounted device records neuronal activity as mice explore a naturalistic environment and",
+      "summary_en": "Publisher teaser: A head-mounted device records neuronal activity as mice explore a naturalistic environment and",
+      "rss_preview": true
+    },
+    {
       "date": "2026-11-23",
       "source": "Science",
       "url": "https://www.science.org/content/article/tiny-tracking-device-documents-record-breaking-hummingbird-journey",
@@ -91,8 +271,8 @@
       "date": "2026-11-23",
       "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03827-0",
-      "zh": "COP31 went down in flames over fossil fuels — it sends an important message",
-      "en": "COP31 went down in flames over fossil fuels — it sends an important message",
+      "zh": "COP31 went up in flames over fossil fuels — it sends an important message",
+      "en": "COP31 went up in flames over fossil fuels — it sends an important message",
       "summary_zh": "来源英文简讯：Nature reporter James Dinneen reflects on the first international climate",
       "summary_en": "Publisher teaser: Nature reporter James Dinneen reflects on the first international climate",
       "rss_preview": true
@@ -120,11 +300,21 @@
     {
       "date": "2026-11-23",
       "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03802-9",
+      "zh": "Mariana Trench holds deepest-ever evidence of volcanic explosion",
+      "en": "Mariana Trench holds deepest-ever evidence of volcanic explosion",
+      "summary_zh": "来源英文简讯：Robotic vehicle spots telltale rocks in Challenger Deep.",
+      "summary_en": "Publisher teaser: Robotic vehicle spots telltale rocks in Challenger Deep.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-23",
+      "source": "Nature",
       "url": "https://www.nature.com/articles/d41586-026-03795-5",
       "zh": "How AI shocks are rattling the next generation of mathematicians — in charts",
       "en": "How AI shocks are rattling the next generation of mathematicians — in charts",
-      "summary_zh": "来源英文简讯：Students are markedly less optimistic about the technology than their professors,",
-      "summary_en": "Publisher teaser: Students are markedly less optimistic about the technology than their professors,",
+      "summary_zh": "来源英文简讯：Students are markedly less optimistic about artificial intelligence than their professors,",
+      "summary_en": "Publisher teaser: Students are markedly less optimistic about artificial intelligence than their professors,",
       "rss_preview": true
     },
     {
