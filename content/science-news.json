@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-25T17:51:19.949650+08:00",
+  "checked_at": "2026-11-26T17:30:23.275572+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 64
+      "matching_items": 47
     },
     "Science": {
       "ok": true,
@@ -17,6 +17,326 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-25",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/when-humans-walloped-asteroid-we-left-stadium-size-crater",
+      "zh": "When humans walloped an asteroid, we left a stadium-size crater",
+      "en": "When humans walloped an asteroid, we left a stadium-size crater",
+      "summary_zh": "来源英文简讯：European spacecraft Hera surveys damage left in 2022 during a key NASA planetary defense",
+      "summary_en": "Publisher teaser: European spacecraft Hera surveys damage left in 2022 during a key NASA planetary defense",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/strange-topological-wires-conduct-electricity-better-thinner-they-get",
+      "zh": "Strange ‘topological’ wires conduct electricity better the thinner they get",
+      "en": "Strange ‘topological’ wires conduct electricity better the thinner they get",
+      "summary_zh": "来源英文简讯：Unusual conductors could someday enable even tinier computer chips by ferrying electrons faster when",
+      "summary_en": "Publisher teaser: Unusual conductors could someday enable even tinier computer chips by ferrying electrons faster when",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/release-mosquitoes-infected-virus-fighting-bacteria-slashes-dengue-children",
+      "zh": "Release of mosquitoes infected with virus-fighting bacteria slashes dengue in children",
+      "en": "Release of mosquitoes infected with virus-fighting bacteria slashes dengue in children",
+      "summary_zh": "来源英文简讯：Large trial in Brazil confirms the power of Wolbachia to thwart several mosquito-borne",
+      "summary_en": "Publisher teaser: Large trial in Brazil confirms the power of Wolbachia to thwart several mosquito-borne",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/europe-s-earliest-farmers-offered-milk-their-dead",
+      "zh": "Europe’s earliest farmers offered milk to their dead",
+      "en": "Europe’s earliest farmers offered milk to their dead",
+      "summary_zh": "来源英文简讯：Pitted ceramic bowls suggest dairy, not booze, was the preferred libation 5300 years ago",
+      "summary_en": "Publisher teaser: Pitted ceramic bowls suggest dairy, not booze, was the preferred libation 5300 years ago",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Science",
+      "url": "https://www.science.org/content/article/europe-looks-beyond-its-giant-telescope-its-next-big-bet",
+      "zh": "Europe looks beyond its giant telescope to its next big bet",
+      "en": "Europe looks beyond its giant telescope to its next big bet",
+      "summary_zh": "来源英文简讯：With its 39-meter scope nearly complete, the European Southern Observatory weighs bids for",
+      "summary_en": "Publisher teaser: With its 39-meter scope nearly complete, the European Southern Observatory weighs bids for",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03872-9",
+      "zh": "Rare gene variants can affect a person’s height by up to 17 centimetres",
+      "en": "Rare gene variants can affect a person’s height by up to 17 centimetres",
+      "summary_zh": "来源英文简讯：An analysis of 1.4 million people uncovered rare gene variants that",
+      "summary_en": "Publisher teaser: An analysis of 1.4 million people uncovered rare gene variants that",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03854-x",
+      "zh": "What is the Riemann hypothesis? A guide to the famed conjecture that rules prime numbers",
+      "en": "What is the Riemann hypothesis? A guide to the famed conjecture that rules prime numbers",
+      "summary_zh": "来源英文简讯：The biggest problem in mathematics has to do with",
+      "summary_en": "Publisher teaser: The biggest problem in mathematics has to do with",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03853-y",
+      "zh": "Dual proofs of legendary Riemann hypothesis stun mathematicians",
+      "en": "Dual proofs of legendary Riemann hypothesis stun mathematicians",
+      "summary_zh": "来源英文简讯：Experts say the AI and human-written proofs will need careful checking — plus, the fallout from",
+      "summary_en": "Publisher teaser: Experts say the AI and human-written proofs will need careful checking — plus, the fallout from",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03837-y",
+      "zh": "Succumbing to certainty is a failure in science",
+      "en": "Succumbing to certainty is a failure in science",
+      "summary_zh": "来源英文简讯：Researchers can face pressure from policymakers and politicians to provide single, definitive answers to complex challenges.",
+      "summary_en": "Publisher teaser: Researchers can face pressure from policymakers and politicians to provide single, definitive answers to complex challenges.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03835-0",
+      "zh": "‘If we can solve Riemann, what can’t we do?’: mathematicians shocked and excited by AI breakthroughs",
+      "en": "‘If we can solve Riemann, what can’t we do?’: mathematicians shocked and excited by AI breakthroughs",
+      "summary_zh": "来源英文简讯：Awe, anxiety and opportunity: mathematics community shares mixed",
+      "summary_en": "Publisher teaser: Awe, anxiety and opportunity: mathematics community shares mixed",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03813-6",
+      "zh": "Dengue has exploded globally with shocking speed",
+      "en": "Dengue has exploded globally with shocking speed",
+      "summary_zh": "来源英文简讯：The number of recorded cases of the mosquito-borne disease worldwide rose by a factor of 34 over",
+      "summary_en": "Publisher teaser: The number of recorded cases of the mosquito-borne disease worldwide rose by a factor of 34 over",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03809-2",
+      "zh": "The world has a golden chance to improve HIV prevention: don’t squander it",
+      "en": "The world has a golden chance to improve HIV prevention: don’t squander it",
+      "summary_zh": "来源英文简讯：Generic versions of an effective HIV drug have been approved, and",
+      "summary_en": "Publisher teaser: Generic versions of an effective HIV drug have been approved, and",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03718-4",
+      "zh": "A powerful HIV vaccine is finally within reach — thanks to these super antibodies",
+      "en": "A powerful HIV vaccine is finally within reach — thanks to these super antibodies",
+      "summary_zh": "来源英文简讯：Potent immune responses against diverse HIV strains have ignited the",
+      "summary_en": "Publisher teaser: Potent immune responses against diverse HIV strains have ignited the",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03693-w",
+      "zh": "Bogong moths can migrate using an internal geomagnetic compass",
+      "en": "Bogong moths can migrate using an internal geomagnetic compass",
+      "summary_zh": "来源英文简讯：Australian migratory moths navigate long distances, in part owing to a stellar ‘compass’. It transpires",
+      "summary_en": "Publisher teaser: Australian migratory moths navigate long distances, in part owing to a stellar ‘compass’. It transpires",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03521-1",
+      "zh": "The Mona Lisa Lottery",
+      "en": "The Mona Lisa Lottery",
+      "summary_zh": "来源英文简讯：Worth the wait.",
+      "summary_en": "Publisher teaser: Worth the wait.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03513-1",
+      "zh": "From sketch to publication-ready flowchart: how AI tools can bridge the gap",
+      "en": "From sketch to publication-ready flowchart: how AI tools can bridge the gap",
+      "summary_zh": "来源英文简讯：The use of generative AI is a practical way to translate hand-drawn",
+      "summary_en": "Publisher teaser: The use of generative AI is a practical way to translate hand-drawn",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03494-1",
+      "zh": "A fine-grained reconstruction of barley’s evolutionary history",
+      "en": "A fine-grained reconstruction of barley’s evolutionary history",
+      "summary_zh": "来源英文简讯：Chromosome-scale genome sequences from across the barley genus Hordeum reveal large structural variation, evidence of ancient genetic",
+      "summary_en": "Publisher teaser: Chromosome-scale genome sequences from across the barley genus Hordeum reveal large structural variation, evidence of ancient genetic",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03492-3",
+      "zh": "Pockets in compacted DNA tune gene activation",
+      "en": "Pockets in compacted DNA tune gene activation",
+      "summary_zh": "来源英文简讯：The stochastic activation of specific genes is needed for the proper formation of neuronal circuits. Opposing forces",
+      "summary_en": "Publisher teaser: The stochastic activation of specific genes is needed for the proper formation of neuronal circuits. Opposing forces",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03491-4",
+      "zh": "How arteries keep their shape in the face of overgrowth-inducing mutations",
+      "en": "How arteries keep their shape in the face of overgrowth-inducing mutations",
+      "summary_zh": "来源英文简讯：Why do cancer-associated mutations cause some blood vessels to develop abnormally, but not",
+      "summary_en": "Publisher teaser: Why do cancer-associated mutations cause some blood vessels to develop abnormally, but not",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03475-4",
+      "zh": "Saving Nepal’s wild orchids — in photos",
+      "en": "Saving Nepal’s wild orchids — in photos",
+      "summary_zh": "来源英文简讯：Prized for their ornamental and medicinal value, hundreds of orchids are illegally harvested and sold each year.",
+      "summary_en": "Publisher teaser: Prized for their ornamental and medicinal value, hundreds of orchids are illegally harvested and sold each year.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03474-5",
+      "zh": "A guide to the Nature Index",
+      "en": "A guide to the Nature Index",
+      "summary_zh": "来源英文简讯：A description of the terminology and methodology used in this supplement, and a guide to the functionality that",
+      "summary_en": "Publisher teaser: A description of the terminology and methodology used in this supplement, and a guide to the functionality that",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03473-6",
+      "zh": "China’s AI-powered smart-city model is going global",
+      "en": "China’s AI-powered smart-city model is going global",
+      "summary_zh": "来源英文简讯：China is using AI and big data to connect its cities and rural regions. Now, its smart-city",
+      "summary_en": "Publisher teaser: China is using AI and big data to connect its cities and rural regions. Now, its smart-city",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03472-7",
+      "zh": "How Singapore has turned a nation into a smart-city testing ground",
+      "en": "How Singapore has turned a nation into a smart-city testing ground",
+      "summary_zh": "来源英文简讯：The city-state’s compact size and centralized governance allow digital infrastructure to be introduced",
+      "summary_en": "Publisher teaser: The city-state’s compact size and centralized governance allow digital infrastructure to be introduced",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03471-8",
+      "zh": "London’s people-first approach to smart-city development",
+      "en": "London’s people-first approach to smart-city development",
+      "summary_zh": "来源英文简讯：Digital twins and open-data platforms are part of London’s aim to innovate for citizens.",
+      "summary_en": "Publisher teaser: Digital twins and open-data platforms are part of London’s aim to innovate for citizens.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03470-9",
+      "zh": "Can Beijing scale up its smart-city ambitions?",
+      "en": "Can Beijing scale up its smart-city ambitions?",
+      "summary_zh": "来源英文简讯：The world’s leading science city is testing AI and intelligent transport at scale, but linking data across",
+      "summary_en": "Publisher teaser: The world’s leading science city is testing AI and intelligent transport at scale, but linking data across",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03469-2",
+      "zh": "Helsinki puts trust at the heart of its smart-city model",
+      "en": "Helsinki puts trust at the heart of its smart-city model",
+      "summary_zh": "来源英文简讯：Open urban data, recycled data-centre heat and a public AI register are helping the",
+      "summary_en": "Publisher teaser: Open urban data, recycled data-centre heat and a public AI register are helping the",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03468-3",
+      "zh": "The leading cities in the world for high-quality research in 2025",
+      "en": "The leading cities in the world for high-quality research in 2025",
+      "summary_zh": "来源英文简讯：A decade of data on the top-performing science cities in the Nature Index.",
+      "summary_en": "Publisher teaser: A decade of data on the top-performing science cities in the Nature Index.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03467-4",
+      "zh": "Can smart cities attract the talent they need to thrive?",
+      "en": "Can smart cities attract the talent they need to thrive?",
+      "summary_zh": "来源英文简讯：The challenges of high-tech cities in South Korea and China reveal what scientists really",
+      "summary_en": "Publisher teaser: The challenges of high-tech cities in South Korea and China reveal what scientists really",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03466-5",
+      "zh": "The world’s leading science cities are changing — here’s why",
+      "en": "The world’s leading science cities are changing — here’s why",
+      "summary_zh": "来源英文简讯：Nature Index data reveal the cities that are gaining ground in research, as smart",
+      "summary_en": "Publisher teaser: Nature Index data reveal the cities that are gaining ground in research, as smart",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03382-8",
+      "zh": "Enzymatic reactions adapted to make ‘living’ chains of sugars",
+      "en": "Enzymatic reactions adapted to make ‘living’ chains of sugars",
+      "summary_zh": "来源英文简讯：By tuning the binding between enzymes that chain sugars together and the molecules that initiate",
+      "summary_en": "Publisher teaser: By tuning the binding between enzymes that chain sugars together and the molecules that initiate",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03333-3",
+      "zh": "Just eight universities dominate Nobel and other top economics prizes",
+      "en": "Just eight universities dominate Nobel and other top economics prizes",
+      "summary_zh": "来源英文简讯：Economics is the outlier — top prizes in science, engineering and other social sciences",
+      "summary_en": "Publisher teaser: Economics is the outlier — top prizes in science, engineering and other social sciences",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03268-9",
+      "zh": "Gut microbes can adapt to our ageing bodies",
+      "en": "Gut microbes can adapt to our ageing bodies",
+      "summary_zh": "来源英文简讯：A study of more than 10,000 individuals reveals specific mutations in gut bacteria that arise during",
+      "summary_en": "Publisher teaser: A study of more than 10,000 individuals reveals specific mutations in gut bacteria that arise during",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-24",
       "source": "Science",
