@@ -1,10 +1,10 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-26T17:30:23.275572+08:00",
+  "checked_at": "2026-11-27T17:39:55.087861+08:00",
   "sources": {
     "Nature": {
       "ok": true,
-      "matching_items": 47
+      "matching_items": 49
     },
     "Science": {
       "ok": true,
@@ -17,6 +17,46 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-26",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03875-6",
+      "zh": "Has AI just cracked Internet encryption? Rumoured ‘bombshell’ stuns scientists",
+      "en": "Has AI just cracked Internet encryption? Rumoured ‘bombshell’ stuns scientists",
+      "summary_zh": "来源英文简讯：AI-generated algorithms could be about to break public-key cryptography, the technology central to commerce,",
+      "summary_en": "Publisher teaser: AI-generated algorithms could be about to break public-key cryptography, the technology central to commerce,",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-26",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03874-7",
+      "zh": "Chromosome ‘glue’ could boost fertility by stabilizing ageing eggs",
+      "en": "Chromosome ‘glue’ could boost fertility by stabilizing ageing eggs",
+      "summary_zh": "来源英文简讯：A system tested in mice mimics a protein that declines with age and could help",
+      "summary_en": "Publisher teaser: A system tested in mice mimics a protein that declines with age and could help",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-26",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03828-z",
+      "zh": "Orangutans face bleak future after Indonesia’s devastating wildfires",
+      "en": "Orangutans face bleak future after Indonesia’s devastating wildfires",
+      "summary_zh": "来源英文简讯：The super El Niño intensified Indonesian fires, which ravaged the habitat of the critically endangered Bornean",
+      "summary_en": "Publisher teaser: The super El Niño intensified Indonesian fires, which ravaged the habitat of the critically endangered Bornean",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-26",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-02752-6",
+      "zh": "Navigating grief in academia: ways to find balance",
+      "en": "Navigating grief in academia: ways to find balance",
+      "summary_zh": "来源英文简讯：Pamela Yeh found it hard to manage grief and the demands of her work. Here are",
+      "summary_en": "Publisher teaser: Pamela Yeh found it hard to manage grief and the demands of her work. Here are",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-25",
       "source": "Science",
@@ -395,6 +435,16 @@
       "en": "William D. Nordhaus obituary: economist whose tools transformed climate policy",
       "summary_zh": "来源英文简讯：Far-sighted researcher who set out how economic growth depends on the environment and how",
       "summary_en": "Publisher teaser: Far-sighted researcher who set out how economic growth depends on the environment and how",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-24",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03841-2",
+      "zh": "Daily briefing: Is AI ‘the end of mathematics as we know it’?",
+      "en": "Daily briefing: Is AI ‘the end of mathematics as we know it’?",
+      "summary_zh": "来源英文简讯：Mathematicians are grappling with the future of their field in the age",
+      "summary_en": "Publisher teaser: Mathematicians are grappling with the future of their field in the age",
       "rss_preview": true
     },
     {
