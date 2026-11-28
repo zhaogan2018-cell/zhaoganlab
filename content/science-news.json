@@ -1,6 +1,6 @@
 {
   "month": "2026-11",
-  "checked_at": "2026-11-27T17:39:55.087861+08:00",
+  "checked_at": "2026-11-28T16:54:54.479427+08:00",
   "sources": {
     "Nature": {
       "ok": true,
@@ -17,6 +17,76 @@
   },
   "summary_mode": "rss_preview",
   "items": [
+    {
+      "date": "2026-11-27",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03900-8",
+      "zh": "Audio long read: The world’s most precious brain samples — and what they teach us about being human",
+      "en": "Audio long read: The world’s most precious brain samples — and what they teach us about being human",
+      "summary_zh": "来源英文简讯：Rare neurons taken from living humans",
+      "summary_en": "Publisher teaser: Rare neurons taken from living humans",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-27",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03849-8",
+      "zh": "Why the incoming US Congress should ban the development of self-improving AI",
+      "en": "Why the incoming US Congress should ban the development of self-improving AI",
+      "summary_zh": "来源英文简讯：Voters are demanding greater control over this new technology. Political leaders must",
+      "summary_en": "Publisher teaser: Voters are demanding greater control over this new technology. Political leaders must",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-27",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03801-w",
+      "zh": "Life-saving cancer drug pumped out by a plant",
+      "en": "Life-saving cancer drug pumped out by a plant",
+      "summary_zh": "来源英文简讯：In a proof-of-concept study, scientists have coaxed a tobacco-related plant to synthesize the chemotherapy drug paclitaxel.",
+      "summary_en": "Publisher teaser: In a proof-of-concept study, scientists have coaxed a tobacco-related plant to synthesize the chemotherapy drug paclitaxel.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-27",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03800-x",
+      "zh": "Brain area’s mysterious role in speech decoded at last",
+      "en": "Brain area’s mysterious role in speech decoded at last",
+      "summary_zh": "来源英文简讯：Wernicke’s area is known for processing spoken words, but brain recordings reveal that it also",
+      "summary_en": "Publisher teaser: Wernicke’s area is known for processing spoken words, but brain recordings reveal that it also",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-27",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03754-0",
+      "zh": "Want your research cited in patents? Publishing open access increases your chances",
+      "en": "Want your research cited in patents? Publishing open access increases your chances",
+      "summary_zh": "来源英文简讯：Studies are more likely to be cited in patents if they are",
+      "summary_en": "Publisher teaser: Studies are more likely to be cited in patents if they are",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-27",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03523-z",
+      "zh": "Postcards from your graves",
+      "en": "Postcards from your graves",
+      "summary_zh": "来源英文简讯：A disastrous outcome.",
+      "summary_en": "Publisher teaser: A disastrous outcome.",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-26",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03894-3",
+      "zh": "Daily briefing: A guide to the Riemann hypothesis",
+      "en": "Daily briefing: A guide to the Riemann hypothesis",
+      "summary_zh": "来源英文简讯：Get to grips with the famed conjecture, and hear mathematicians’ reactions to its proofs. Plus, the",
+      "summary_en": "Publisher teaser: Get to grips with the famed conjecture, and hear mathematicians’ reactions to its proofs. Plus, the",
+      "rss_preview": true
+    },
     {
       "date": "2026-11-26",
       "source": "Nature",
@@ -105,6 +175,16 @@
       "en": "Europe looks beyond its giant telescope to its next big bet",
       "summary_zh": "来源英文简讯：With its 39-meter scope nearly complete, the European Southern Observatory weighs bids for",
       "summary_en": "Publisher teaser: With its 39-meter scope nearly complete, the European Southern Observatory weighs bids for",
+      "rss_preview": true
+    },
+    {
+      "date": "2026-11-25",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03879-2",
+      "zh": "Daily briefing: A powerful HIV vaccine is finally within reach",
+      "en": "Daily briefing: A powerful HIV vaccine is finally within reach",
+      "summary_zh": "来源英文简讯：The world has a golden chance to improve HIV prevention — if we don’t",
+      "summary_en": "Publisher teaser: The world has a golden chance to improve HIV prevention — if we don’t",
       "rss_preview": true
     },
     {
